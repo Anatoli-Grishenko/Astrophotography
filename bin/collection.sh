@@ -11,11 +11,11 @@ OUTPUT=$TEXTS/collection.tex
 PREAMBLE='\newpage\pagecolor{black}\color{white}'
 #PREAMBLE='\newpage\begin{longtable}{p{\textwidth}}\pagecolor{black}\color{white}'
 CLOSING=''
-PREIMAGE='\includegraphics[width=\textwidth]{'$IMAGES'/Original/'
+PREIMAGE='\includegraphics[width=\textwidth]{'$IMAGES'/'
 POSTIMAGE='}'
-PRECAPTION='\section{'
-#PRECAPTION=' \newline\vspace{-1cm}{\color{white}\bf \Large  '
-POSTCAPTION='}'
+PREHEADER='\section{'
+#PREHEADER=' \newline\vspace{-1cm}{\color{white}\bf \Large  '
+POSTHEADER='}'
 echo $PREAMBLE > $OUTPUT
 for IMG in $FILES
 do
@@ -24,14 +24,14 @@ do
 	IMGNAMEREAL=$(echo $IMG |sed s':\_:\\_:g' )
 	TEXFILE=$IMAGES'/Annotated/'$IMGSIMPLE'.tex'
 	PRETEX='{\footnotesize\color{white}'
-	POSTEX='}'
-	echo "Found ""$IMGNAME"
+	POSTEX='}\ \\'
+	printf "\nFound image $IMGNAME\n"
 	
 	#
 	# OSC Image with caption
 	#
- echo $PRECAPTION$IMGNAME$POSTCAPTION>>$OUTPUT 
- echo $PREIMAGE$IMG$POSTIMAGE >> $OUTPUT
+ echo $PREHEADER$IMGNAME$POSTHEADER>>$OUTPUT 
+ echo $PREIMAGE'Original/'$IMG$POSTIMAGE >> $OUTPUT
  
  #
  # Description
@@ -39,13 +39,25 @@ do
  echo $PRETEX >> $OUTPUT
  if [ -f $TEXFILE ]
  then
- 		echo "Found description"
+ 		printf "\tFound latex description\n"
  		cat $TEXFILE >> $OUTPUT
- else
- 		echo "Missing description"
+ 		else
  		echo "" >> $OUTPUT
  fi
  echo $POSTEX >> $OUTPUT
+ 
+ #
+ # Grayscale
+ #
+ if [ -f $IMAGES/Grayscale/$IMG ]
+ then
+ 		printf "\tFound GRAYSCALE version\n"
+ echo $PREIMAGE'Grayscale/'$IMG$POSTIMAGE >> $OUTPUT
+ 
+
+ fi
+ 
+ 
 done
 echo $CLOSING >> $OUTPUT
 cd -

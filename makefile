@@ -6,7 +6,7 @@ WORKFLOW=$(REPORTS)/Workflow/
 rebuild	: clean all
 
 clean	: 
-	rm $(IMAGES)/*/*.tex
+	touch $(IMAGES)/*/*.tex
 	
 all	:	variables preamble albums workflow
 
@@ -15,11 +15,10 @@ preamble	:
 
 variables: 
 
+albums	: 
+	bash $(ROOT)/bin/collection.sh
 	
-workflow	: $(WORKFLOW)/Workflow.pdf
-
-
-$(WORKFLOW)/Workflow.pdf	: $(WORKFLOW)/Workflow.tex
+workflow	: 
 	@cd $(WORKFLOW)
 	@pdflatex -output-directory $(WORKFLOW) Workflow.tex
 	@cd $(ROOT)
