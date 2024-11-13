@@ -12,6 +12,8 @@ PREAMBLE='\newpage\pagecolor{black}\color{white}'
 #PREAMBLE='\newpage\begin{longtable}{p{\textwidth}}\pagecolor{black}\color{white}'
 CLOSING=''
 PREIMAGE='\includegraphics[width=\textwidth]{'$IMAGES'/'
+PREIMAGELT='\includegraphics[width=0.75\textwidth]{'$IMAGES'/'
+PREIMAGETINY='\includegraphics[height=5cm]{'$IMAGES'/'
 POSTIMAGE='}'
 PREHEADER='\section{'
 #PREHEADER=' \newline\vspace{-1cm}{\color{white}\bf \Large  '
@@ -53,10 +55,34 @@ do
  then
  		printf "\tFound GRAYSCALE version\n"
  echo $PREIMAGE'Grayscale/'$IMG$POSTIMAGE >> $OUTPUT
- 
-
  fi
- 
+ #
+ # Anntations
+ #
+ 	echo '\begin{center}' >> $OUTPUT
+  if [ -f $IMAGES/Annotated/$IMGSIMPLE'_Annotated.jpg' ]
+  then
+  	echo " \ \newpage" >>$OUTPUT
+  	 echo $PREIMAGELT'Annotated/'$IMGSIMPLE'_Annotated'$POSTIMAGE >> $OUTPUT
+  	 echo "" >> $OUTPUT
+  	fi
+  	
+	  if [ -f $IMAGES/Annotated/$IMGSIMPLE'_Globe.jpg' ]
+	  then
+	  	 echo $PREIMAGETINY'Annotated/'$IMGSIMPLE'_Globe'$POSTIMAGE >> $OUTPUT
+  	 
+		 fi
+ 	  if [ -f $IMAGES/Annotated/$IMGSIMPLE'_Close.jpg' ]
+	  then
+	  	 echo $PREIMAGETINY'Annotated/'$IMGSIMPLE'_Close.jpg'$POSTIMAGE >> $OUTPUT
+  	 
+		 fi
+ 	  if [ -f $IMAGES/Annotated/$IMGSIMPLE'_Closer.jpg' ]
+	  then
+	  	 echo $PREIMAGETINY'Annotated/'$IMGSIMPLE'_Closer.jpg'$POSTIMAGE >> $OUTPUT
+  	 
+		 fi
+ 	echo '\end{center}' >> $OUTPUT
  
 done
 echo $CLOSING >> $OUTPUT
