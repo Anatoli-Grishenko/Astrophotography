@@ -22,7 +22,7 @@ PREHEADER='\ \\\section{'
 #PREHEADER=' \newline\vspace{-1cm}{\color{white}\bf \Large  '
 POSTHEADER='}'
 echo $PREAMBLE > $OUTPUT
-echo "# Targets" > $OUTPUTMD 
+printf "|Targets|\n| :----: |\n|![]($IMAGES/Common/pyl-tiny.png)| \n"> $OUTPUTMD 
 for IMG in $FILES
 do
 	IMGSIMPLE=$(echo $IMG | sed s":\.jpg::")
@@ -43,13 +43,14 @@ do
  echo $PREIMAGE'Original/'$IMG$POSTIMAGE >> $OUTPUT
  echo "# "$IMGNAMEMD > $EXEC$FILEMD
 # echo "* "$IMGNAMEMD >> $OUTPUTMD
- echo "* ["$IMGNAMEMD"]("$FILEMD")" >> $OUTPUTMD
+ printf "\n| [$IMGNAMEMD]("$FILEMD")  |   |\n" >> $OUTPUTMD
+ printf "| -----: | :-----   |\n" >> $OUTPUTMD
+  printf "| <img src='$INDEX/"$IMG"' width='256'> | ">> $OUTPUTMD
+  	
   echo "!""[IMG]("$INDEX/$IMG")">> $EXEC$FILEMD
 #  printf "\n!""[IMG]($INDEX/"$IMG" =256x)\n">> $OUTPUTMD
 #  printf "\n!""[IMG](../Imaging/Original/"$IMG" =256x)\n">> $OUTPUTMD
-  printf "\n<img src='$INDEX/"$IMG"' width='256'>\n">> $OUTPUTMD
- echo "" >> $OUTPUTMD
-  echo "">> $EXEC$FILEMD
+
  #
  # Description
  #
@@ -58,17 +59,17 @@ do
  then
  		printf "\tFound description\n"
  		cat $EXEC$TEXFILE >> $OUTPUT
- 		printf "$(cat $EXEC$TEXFILE)" >> $OUTPUTMD
+ 		printf "*$(cat $EXEC$TEXFILE)* |\n" >> $OUTPUTMD
  		cat $EXEC$TEXFILE >> $EXEC$FILEMD
 fi
  		echo "" >> $OUTPUT
- 		echo "" >> $OUTPUTMD
+ 		echo "|" >> $OUTPUTMD
  		echo "" >> $EXEC$FILEMD
-
+	
  if [ -f $EXEC$LINKFILE ]
  then
  		printf "\tFound link\n"
- 		printf "[Read more]("$(cat $EXEC$LINKFILE)")\n" >> $EXEC$FILEMD
+ 		printf "[![](../Imaging/Common/Wikipedia.png) Read more]("$(cat $EXEC$LINKFILE)")\n" >> $EXEC$FILEMD
 fi
  		echo "" >> $OUTPUT
  		echo "" >> $OUTPUTMD
@@ -88,17 +89,19 @@ fi
  fi
  #
  # Anntations
- #
+ #	
  	echo '\begin{center}' >> $OUTPUT
   if [ -f $EXEC$IMAGES/Annotated/$IMGSIMPLE'_Annotated.jpg' ]
   then
   	echo " \ \newpage" >>$OUTPUT
   	 echo $PREIMAGELT'Annotated/'$IMGSIMPLE'_Annotated.jpg'$POSTIMAGE >> $OUTPUT
   	 echo "" >> $OUTPUT
-		  echo "!""[IMG]("$IMAGES/Annotated/$IMGSIMPLE"_Annotated.jpg)">> $EXEC$FILEMD
+  	 echo "" >>  $EXEC$FILEMD
+  	 echo "## Plate solving" >>  $EXEC$FILEMD
+		  echo "![IMG]("$IMAGES/Annotated/$IMGSIMPLE"_Annotated.jpg)">> $EXEC$FILEMD
 		  echo "">> $EXEC$FILEMD
  fi
-		  printf "| Globe | Close | Very close |\n">> $EXEC$FILEMD
+		  printf "## Location \n\n| Globe | Close | Very close |\n">> $EXEC$FILEMD
 		  printf "| ----- | ----- | ----- |\n">> $EXEC$FILEMD
   	
 	  if [ -f $EXEC$IMAGES/Annotated/$IMGSIMPLE'_Hist.jpg' ]

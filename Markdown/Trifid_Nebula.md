@@ -2,10 +2,13 @@
 ![IMG](../Imaging//Original/Trifid_Nebula.jpg)
 
 
-
 ![IMG](../Imaging//Grayscale/Trifid_Nebula.jpg)
 
+
+## Plate solving
 ![IMG](../Imaging//Annotated/Trifid_Nebula_Annotated.jpg)
+
+## Location 
 
 | Globe | Close | Very close |
 | ----- | ----- | ----- |

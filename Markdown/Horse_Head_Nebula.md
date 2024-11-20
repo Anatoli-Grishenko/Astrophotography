@@ -2,10 +2,13 @@
 ![IMG](../Imaging//Original/Horse_Head_Nebula.jpg)
 
 
-
 ![IMG](../Imaging//Grayscale/Horse_Head_Nebula.jpg)
 
+
+## Plate solving
 ![IMG](../Imaging//Annotated/Horse_Head_Nebula_Annotated.jpg)
+
+## Location 
 
 | Globe | Close | Very close |
 | ----- | ----- | ----- |

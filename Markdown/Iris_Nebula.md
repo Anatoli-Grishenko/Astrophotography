@@ -2,10 +2,13 @@
 ![IMG](../Imaging//Original/Iris_Nebula.jpg)
 
 
-
 ![IMG](../Imaging//Grayscale/Iris_Nebula.jpg)
 
+
+## Plate solving
 ![IMG](../Imaging//Annotated/Iris_Nebula_Annotated.jpg)
+
+## Location 
 
 | Globe | Close | Very close |
 | ----- | ----- | ----- |

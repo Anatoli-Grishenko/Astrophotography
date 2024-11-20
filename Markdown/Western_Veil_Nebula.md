@@ -1,11 +1,15 @@
 # Western Veil Nebula
 ![IMG](../Imaging//Original/Western_Veil_Nebula.jpg)
-
+The Eastern Veil (also known as Caldwell 33), whose brightest area is NGC 6992, trailing off farther south into NGC 6995 (together with NGC 6992 also known as "Network Nebula"[11]) and IC 1340; and
 
 
 ![IMG](../Imaging//Grayscale/Western_Veil_Nebula.jpg)
 
+
+## Plate solving
 ![IMG](../Imaging//Annotated/Western_Veil_Nebula_Annotated.jpg)
+
+## Location 
 
 | Globe | Close | Very close |
 | ----- | ----- | ----- |

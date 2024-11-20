@@ -2,10 +2,13 @@
 ![IMG](../Imaging//Original/Helix_Nebula.jpg)
 
 
-
 ![IMG](../Imaging//Grayscale/Helix_Nebula.jpg)
 
+
+## Plate solving
 ![IMG](../Imaging//Annotated/Helix_Nebula_Annotated.jpg)
+
+## Location 
 
 | Globe | Close | Very close |
 | ----- | ----- | ----- |

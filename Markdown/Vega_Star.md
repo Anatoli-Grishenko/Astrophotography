@@ -2,10 +2,13 @@
 ![IMG](../Imaging//Original/Vega_Star.jpg)
 
 
-
 ![IMG](../Imaging//Grayscale/Vega_Star.jpg)
 
+
+## Plate solving
 ![IMG](../Imaging//Annotated/Vega_Star_Annotated.jpg)
+
+## Location 
 
 | Globe | Close | Very close |
 | ----- | ----- | ----- |
