@@ -1,5 +1,5 @@
 # The Moon
-![IMG](/home/lcv/Dropbox/AstroPhotography/Imaging/Original/The_Moon.jpg)
+![IMG](../Imaging//Original/The_Moon.jpg)
 
 
 
