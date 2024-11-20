@@ -45,9 +45,9 @@ do
 # echo "* "$IMGNAMEMD >> $OUTPUTMD
  echo "* ["$IMGNAMEMD"]("$FILEMD")" >> $OUTPUTMD
   echo "!""[IMG]("$INDEX/$IMG")">> $EXEC$FILEMD
-  printf "\n!""[IMG]($INDEX/"$IMG" =256x)\n">> $OUTPUTMD
+#  printf "\n!""[IMG]($INDEX/"$IMG" =256x)\n">> $OUTPUTMD
 #  printf "\n!""[IMG](../Imaging/Original/"$IMG" =256x)\n">> $OUTPUTMD
-#  printf "\n<img src='"../Imaging/Original/"$IMG" =256x)\n">> $OUTPUTMD
+  printf "\n<img src='$INDEX/"$IMG"' width='256'>\n">> $OUTPUTMD
  echo "" >> $OUTPUTMD
   echo "">> $EXEC$FILEMD
  #
