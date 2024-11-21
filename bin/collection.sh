@@ -41,7 +41,7 @@ do
 	#
  echo $PREHEADER$IMGNAME$POSTHEADER>>$OUTPUT 
  echo $PREIMAGE'Original/'$IMG$POSTIMAGE >> $OUTPUT
- echo "# "$IMGNAMEMD > $EXEC$FILEMD
+ echo "# ![]($IMAGES/Common/pyl-tiny.png) "$IMGNAMEMD > $EXEC$FILEMD
 # echo "* "$IMGNAMEMD >> $OUTPUTMD
  printf "\n| [$IMGNAMEMD]("$FILEMD")  |   |\n" >> $OUTPUTMD
  printf "| -----: | :-----   |\n" >> $OUTPUTMD
@@ -63,7 +63,7 @@ do
  		cat $EXEC$TEXFILE >> $EXEC$FILEMD
 fi
  		echo "" >> $OUTPUT
- 		echo "|" >> $OUTPUTMD
+ 		echo "" >> $OUTPUTMD
  		echo "" >> $EXEC$FILEMD
 	
  if [ -f $EXEC$LINKFILE ]
@@ -88,7 +88,7 @@ fi
 		  echo "">> $EXEC$FILEMD
  fi
  #
- # Anntations
+ # Annotations
  #	
  	echo '\begin{center}' >> $OUTPUT
   if [ -f $EXEC$IMAGES/Annotated/$IMGSIMPLE'_Annotated.jpg' ]
