@@ -86,6 +86,11 @@
 | <img src='../Imaging//Original/Lagoon_Nebula.jpg' width='256'> | |
 
 
+| [Northamerica Nebula](../Markdown//Northamerica_Nebula.md)  |   |
+| -----: | :-----   |
+| <img src='../Imaging//Original/Northamerica_Nebula.jpg' width='256'> | |
+
+
 | [Pacman Nebula](../Markdown//Pacman_Nebula.md)  |   |
 | -----: | :-----   |
 | <img src='../Imaging//Original/Pacman_Nebula.jpg' width='256'> | |
