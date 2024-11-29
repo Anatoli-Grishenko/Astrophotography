@@ -1,19 +1,7 @@
-# ![](../Imaging//Common/pyl-tiny.png) Sadr Star
-![IMG](../Imaging//Original/Sadr_Star.jpg)
+# ![](/home/lcv/Dropbox/AstroPhotography//Imaging//Common/pyl-tiny.png) Sadr Star
+![IMG](/home/lcv/Dropbox/AstroPhotography//Imaging//HD/Sadr_Star.jpg)
 Gamma Cygni (γ Cygni, abbreviated Gamma Cyg, γ Cyg), officially named Sadr /ˈsædər/,[11][12] is a star in the northern constellation of Cygnus, forming the intersection of an asterism of five stars called the Northern Cross. Based upon parallax measurements obtained during the Hipparcos mission, it is approximately 1,800 light-years (560 parsecs) from the Sun.[1] It forms the primary or 'A' component of a multiple star system designated WDS J20222+4015 (the secondary or 'BCD' component is WDS J20222+4015BCD, a close triplet of stars 41" away from γ Cygni[13]).
 
 
 
-[![](../Imaging/Common/Wikipedia.png) Read more](https://en.wikipedia.org/wiki/Gamma_Cygni)
-
-![IMG](../Imaging//Grayscale/Sadr_Star.jpg)
-
-
-## Plate solving
-![IMG](../Imaging//Annotated/Sadr_Star_Annotated.jpg)
-
-## Location 
-
-| Globe | Close | Very close |
-| ----- | ----- | ----- |
-|![IMG](../Imaging//Annotated/Sadr_Star_Globe.jpg) |![IMG](../Imaging//Annotated/Sadr_Star_Close.jpg) |![IMG](../Imaging//Annotated/Sadr_Star_Closer.jpg) |
+[![](/home/lcv/Dropbox/AstroPhotography//Imaging//Common/Wikipedia.png) Read more](https://en.wikipedia.org/wiki/Gamma_Cygni)
