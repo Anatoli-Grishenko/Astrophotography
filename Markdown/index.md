@@ -1,6 +1,6 @@
 |Targets|
 | :----: |
-|![](/home/lcv/Dropbox/AstroPhotography//Imaging//Common/pyl-tiny.png)| 
+|![](../Imaging//Common/pyl-tiny.png)| 
 
 
 | Target | Briefing |
