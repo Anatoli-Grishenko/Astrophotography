@@ -1,3 +1,3 @@
-# ![](/home/lcv/Dropbox/AstroPhotography//Imaging//Common/pyl-tiny.png) Swan Nebula
+# ![](../Imaging//Common/pyl-tiny.png) Swan Nebula
 ![IMG](../Imaging//HD/Swan_Nebula.jpg)
 
