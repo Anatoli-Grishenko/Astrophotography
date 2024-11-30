@@ -5,3 +5,16 @@ The Trifid Nebula (catalogued as Messier 20 or M20 and as NGC 6514) is an H II r
 
 
 [![](/home/lcv/Dropbox/AstroPhotography//Imaging//Common/Wikipedia.png) Read more](https://en.wikipedia.org/wiki/Triangulum_Galaxy)
+## Plate solving 
+
+
+![IMG](../Imaging//PLATESOLV/Trifid_Nebula_Annotated.jpg)
+
+
+| Globe | Close | Very close |
+| ----- | ----- | ----- |
+|![IMG](../Imaging//PLATESOLV/Trifid_Nebula_Globe.jpg) |![IMG](../Imaging//PLATESOLV/Trifid_Nebula_Close.jpg) |![IMG](../Imaging//PLATESOLV/Trifid_Nebula_Closer.jpg) |
+
+## Gallery
+![IMG](../Imaging//HD/Trifid_Nebula+01+co.jpg) 
+

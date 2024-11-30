@@ -5,3 +5,16 @@ Gamma Cygni (γ Cygni, abbreviated Gamma Cyg, γ Cyg), officially named Sadr /ˈ
 
 
 [![](/home/lcv/Dropbox/AstroPhotography//Imaging//Common/Wikipedia.png) Read more](https://en.wikipedia.org/wiki/Gamma_Cygni)
+## Plate solving 
+
+
+![IMG](../Imaging//PLATESOLV/Sadr_Star_Annotated.jpg)
+
+
+| Globe | Close | Very close |
+| ----- | ----- | ----- |
+|![IMG](../Imaging//PLATESOLV/Sadr_Star_Globe.jpg) |![IMG](../Imaging//PLATESOLV/Sadr_Star_Close.jpg) |![IMG](../Imaging//PLATESOLV/Sadr_Star_Closer.jpg) |
+
+## Gallery
+![IMG](../Imaging//HD/Sadr_Star+01+co.jpg) 
+

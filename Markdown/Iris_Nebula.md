@@ -5,3 +5,16 @@ The Iris Nebula (also known as NGC 7023 and Caldwell 4) is a bright reflection n
 
 
 [![](/home/lcv/Dropbox/AstroPhotography//Imaging//Common/Wikipedia.png) Read more](https://en.wikipedia.org/wiki/Iris_Nebula)
+## Plate solving 
+
+
+![IMG](../Imaging//PLATESOLV/Iris_Nebula_Annotated.jpg)
+
+
+| Globe | Close | Very close |
+| ----- | ----- | ----- |
+|![IMG](../Imaging//PLATESOLV/Iris_Nebula_Globe.jpg) |![IMG](../Imaging//PLATESOLV/Iris_Nebula_Close.jpg) |![IMG](../Imaging//PLATESOLV/Iris_Nebula_Closer.jpg) |
+
+## Gallery
+![IMG](../Imaging//HD/Iris_Nebula+01+co.jpg) 
+

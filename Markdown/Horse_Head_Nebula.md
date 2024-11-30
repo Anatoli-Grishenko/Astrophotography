@@ -4,3 +4,22 @@ The Horsehead Nebula (also known as Barnard 33 or B33) is a small dark nebula in
 
 
 [![](/home/lcv/Dropbox/AstroPhotography//Imaging//Common/Wikipedia.png) Read more](https://en.wikipedia.org/wiki/Helix_Nebula)
+## Plate solving 
+
+
+![IMG](../Imaging//PLATESOLV/Horse_Head_Nebula_Annotated.jpg)
+
+
+| Globe | Close | Very close |
+| ----- | ----- | ----- |
+|![IMG](../Imaging//PLATESOLV/Horse_Head_Nebula_Globe.jpg) |![IMG](../Imaging//PLATESOLV/Horse_Head_Nebula_Close.jpg) |![IMG](../Imaging//PLATESOLV/Horse_Head_Nebula_Closer.jpg) |
+
+## Gallery
+![IMG](../Imaging//HD/Horse_Head_Nebula+01+co.jpg) 
+
+![IMG](../Imaging//HD/Horse_Head_Nebula+02+co.jpg) 
+
+![IMG](../Imaging//HD/Horse_Head_Nebula+03+co.jpg) 
+
+![IMG](../Imaging//HD/Horse_Head_Nebula+04+co.jpg) 
+
