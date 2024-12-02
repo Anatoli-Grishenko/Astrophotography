@@ -1,5 +1,5 @@
 # ![](../Imaging//Common/pyl-tiny.png) Veil Nebula
-![IMG](../Imaging//HD/Veil_Nebula.jpg)
+![IMG](../Imaging//HD/Veil_Nebula+01+co.jpg)
 
 ## Plate solving 
 

@@ -10,7 +10,7 @@
 | [Andromeda Galaxy](../Markdown//Andromeda_Galaxy.md)  | |
 | <img src='../Imaging//THUMB/Andromeda_Galaxy.jpg'> |The Andromeda Galaxy is a barred spiral galaxy and is the nearest major galaxy to the Milky Way. It was originally named the Andromeda Nebula and is cataloged as Messier 31, M31, and NGC 224. Andromeda has a D25 isophotal diameter of about 46.56 kiloparsecs (152,000 light-years)[8] and is approximately 765 kpc (2.5 million light-years) from Earth. The galaxy's name stems from the area of Earth's sky in which it appears, the constellation of Andromeda, which itself is named after the princess who was the wife of Perseus in Greek mythology.  |
 | [Betelgeuse Star](../Markdown//Betelgeuse_Star.md)  | |
-| <img src='../Imaging//THUMB/Betelgeuse_Star.jpg'> ||
+| <img src='../Imaging//THUMB/Betelgeuse_Star.jpg'> |Betelgeuse is a red supergiant star in the constellation of Orion. It is usually the tenth-brightest star in the night sky and, after Rigel, the second-brightest in its constellation. It is a distinctly reddish, semiregular variable star whose apparent magnitude, varying between +0.0 and +1.6, has the widest range displayed by any first-magnitude star. Betelgeuse is the brightest star in the night sky at near-infrared wavelengths. Its Bayer designation is α Orionis, Latinised to Alpha Orionis and abbreviated Alpha Ori or α Ori.[19] |
 | [Bubble Nebula](../Markdown//Bubble_Nebula.md)  | |
 | <img src='../Imaging//THUMB/Bubble_Nebula.jpg'> |NGC 7635, also known as the Bubble Nebula, Sharpless 162, or Caldwell 11, is an H II region emission nebula in the constellation Cassiopeia. It lies close to the open cluster Messier 52. The "bubble" is created by the stellar wind from a massive hot, 8.7 magnitude young central star, SAO 20575 (BD+60°2522). The nebula is near a giant molecular cloud which contains the expansion of the bubble nebula while itself being excited by the hot central star, causing it to glow. It was discovered in November 1787 by William Herschel. The star BD+60°2522 is thought to have a mass of about 44 M |
 | [California Nebula](../Markdown//California_Nebula.md)  | |
@@ -66,97 +66,3 @@
 
 
 ## Textures of the Universe
-![IMG](../Imaging//HD/Aldebaran_Star+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Aldebaran_Star+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Andromeda_Galaxy+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Andromeda_Galaxy+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Betelgeuse_Star+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Betelgeuse_Star+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Bubble_Nebula+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Bubble_Nebula+02+bw.jpg) 
-
-![IMG](../Imaging//HD/California_Nebula+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Dumbbell_Nebula+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Eagle_Nebula+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Eagle_Nebula+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Eastern_Veil_Nebula+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Fireworks_Galaxy+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Ghost_Of_Cassiopeia+01+bw.jpg) 
-
-![IMG](../Imaging//HD/HD225526+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Heart_Nebula+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Heart_Nebula+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Heart_Nebula+03+bw.jpg) 
-
-![IMG](../Imaging//HD/Helix_Nebula+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Horse_Head_Nebula+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Horse_Head_Nebula+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Horse_Head_Nebula+03+bw.jpg) 
-
-![IMG](../Imaging//HD/Horse_Head_Nebula+04+bw.jpg) 
-
-![IMG](../Imaging//HD/Iris_Nebula+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Lagoon_Nebula+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Lagoon_Nebula+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Lagoon_Nebula+03+bw.jpg) 
-
-![IMG](../Imaging//HD/Northamerica_Nebula+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Orion_Nebula+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Orion_Nebula+03+bw.jpg) 
-
-![IMG](../Imaging//HD/Orion_Nebula+04+bw.jpg) 
-
-![IMG](../Imaging//HD/Orion_Nebula+05+bw.jpg) 
-
-![IMG](../Imaging//HD/Orion_Nebula+06+bw.jpg) 
-
-![IMG](../Imaging//HD/Orion_Nebula+07+bw.jpg) 
-
-![IMG](../Imaging//HD/Pacman_Nebula+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Pacman_Nebula+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Pleiades_Cluster+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Sadr_Star+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Swan_Nebula+01+bw.jpg) 
-
-![IMG](../Imaging//HD/The_Moon+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Triangulum_Galaxy+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Trifid_Nebula+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Vega_Star+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Veil_Nebula+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Western_Veil_Nebula+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Wizard_Nebula+01+bw.jpg) 
-
