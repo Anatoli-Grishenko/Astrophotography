@@ -10,3 +10,5 @@
 ## Gallery
 ![IMG](../Imaging//HD/Betelgeuse_Star+01+co.jpg) 
 
+![IMG](../Imaging//HD/Betelgeuse_Star+02+co.jpg) 
+

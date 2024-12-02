@@ -16,3 +16,5 @@ The Andromeda Galaxy is a barred spiral galaxy and is the nearest major galaxy t
 ## Gallery
 ![IMG](../Imaging//HD/Andromeda_Galaxy+01+co.jpg) 
 
+![IMG](../Imaging//HD/Andromeda_Galaxy+02+co.jpg) 
+

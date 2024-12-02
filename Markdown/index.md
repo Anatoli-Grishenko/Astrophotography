@@ -68,9 +68,15 @@
 ## Textures of the Universe
 ![IMG](../Imaging//HD/Aldebaran_Star+01+bw.jpg) 
 
+![IMG](../Imaging//HD/Aldebaran_Star+02+bw.jpg) 
+
 ![IMG](../Imaging//HD/Andromeda_Galaxy+01+bw.jpg) 
 
+![IMG](../Imaging//HD/Andromeda_Galaxy+02+bw.jpg) 
+
 ![IMG](../Imaging//HD/Betelgeuse_Star+01+bw.jpg) 
+
+![IMG](../Imaging//HD/Betelgeuse_Star+02+bw.jpg) 
 
 ![IMG](../Imaging//HD/Bubble_Nebula+01+bw.jpg) 
 
