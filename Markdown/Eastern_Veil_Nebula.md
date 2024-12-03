@@ -16,3 +16,7 @@ The Western Veil (also known as Caldwell 34), consisting of NGC 6960 (the "Witch
 ## Gallery
 ![IMG](../Imaging//HD/Eastern_Veil_Nebula+01+co.jpg) 
 
+![IMG](../Imaging//HD/Eastern_Veil_Nebula+02+co.jpg) 
+
+![IMG](../Imaging//HD/Eastern_Veil_Nebula+03+co.jpg) 
+
