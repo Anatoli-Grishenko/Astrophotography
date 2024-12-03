@@ -5,9 +5,13 @@ The Orion Nebula (also known as Messier 42, M42, or NGC 1976) is a diffuse nebul
 [![](/home/lcv/Dropbox/AstroPhotography//Imaging//Common/Wikipedia.png) Read more](https://en.wikipedia.org/wiki/Orion_Nebula)
 ## Plate solving 
 
+
+![IMG](../Imaging//HD/Orion_Nebula_Annotated.jpg)
+
+
 | Globe | Close | Very close |
 | ----- | ----- | ----- |
-
+|![IMG](../Imaging//HD/Orion_Nebula_Globe.jpg) |![IMG](../Imaging//HD/Orion_Nebula_Close.jpg) |![IMG](../Imaging//HD/Orion_Nebula_Closer.jpg) |
 
 ## Gallery
 ![IMG](../Imaging//HD/Orion_Nebula+01+co.jpg) 
