@@ -66,55 +66,57 @@
 
 
 ## Textures of the Universe
-![IMG](../Imaging//HD/Iris_Nebula+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Northamerica_Nebula+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Eagle_Nebula+03+bw.jpg) 
-
-![IMG](../Imaging//HD/Heart_Nebula+02+bw.jpg) 
-
 ![IMG](../Imaging//HD/Orion_Nebula+01+bw.jpg) 
 
-![IMG](../Imaging//HD/Horse_Head_Nebula+04+bw.jpg) 
-
-![IMG](../Imaging//HD/Lagoon_Nebula+03+bw.jpg) 
+![IMG](../Imaging//HD/Orion_Nebula+04+bw.jpg) 
 
 ![IMG](../Imaging//HD/Orion_Nebula+02+bw.jpg) 
 
-![IMG](../Imaging//HD/Aldebaran_Star+02+bw.jpg) 
+![IMG](../Imaging//HD/Northamerica_Nebula+02+bw.jpg) 
 
 ![IMG](../Imaging//HD/Ghost_Of_Cassiopeia+02+bw.jpg) 
 
 ![IMG](../Imaging//HD/California_Nebula+05+bw.jpg) 
 
-![IMG](../Imaging//HD/Helix_Nebula+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Horse_Head_Nebula+03+bw.jpg) 
+![IMG](../Imaging//HD/Lagoon_Nebula+03+bw.jpg) 
 
 ![IMG](../Imaging//HD/Orion_Nebula+03+bw.jpg) 
 
-![IMG](../Imaging//HD/Eastern_Veil_Nebula+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Bubble_Nebula+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Orion_Nebula+04+bw.jpg) 
-
-![IMG](../Imaging//HD/Andromeda_Galaxy+02+bw.jpg) 
+![IMG](../Imaging//HD/Eastern_Veil_Nebula+01+bw.jpg) 
 
 ![IMG](../Imaging//HD/Lagoon_Nebula+02+bw.jpg) 
 
-![IMG](../Imaging//HD/Dumbbell_Nebula+02+bw.jpg) 
+![IMG](../Imaging//HD/Heart_Nebula+02+bw.jpg) 
 
-![IMG](../Imaging//HD/Betelgeuse_Star+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Pacman_Nebula+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Lagoon_Nebula+04+bw.jpg) 
+![IMG](../Imaging//HD/Eastern_Veil_Nebula+02+bw.jpg) 
 
 ![IMG](../Imaging//HD/Heart_Nebula+03+bw.jpg) 
 
+![IMG](../Imaging//HD/Lagoon_Nebula+04+bw.jpg) 
+
+![IMG](../Imaging//HD/Dumbbell_Nebula+02+bw.jpg) 
+
 ![IMG](../Imaging//HD/Eastern_Veil_Nebula+03+bw.jpg) 
 
-![IMG](../Imaging//HD/Eastern_Veil_Nebula+01+bw.jpg) 
+![IMG](../Imaging//HD/Aldebaran_Star+02+bw.jpg) 
+
+![IMG](../Imaging//HD/Andromeda_Galaxy+03+bw.jpg) 
+
+![IMG](../Imaging//HD/Iris_Nebula+02+bw.jpg) 
+
+![IMG](../Imaging//HD/Betelgeuse_Star+02+bw.jpg) 
+
+![IMG](../Imaging//HD/Bubble_Nebula+02+bw.jpg) 
+
+![IMG](../Imaging//HD/Horse_Head_Nebula+03+bw.jpg) 
+
+![IMG](../Imaging//HD/Andromeda_Galaxy+02+bw.jpg) 
+
+![IMG](../Imaging//HD/Eagle_Nebula+03+bw.jpg) 
+
+![IMG](../Imaging//HD/Pacman_Nebula+02+bw.jpg) 
+
+![IMG](../Imaging//HD/Horse_Head_Nebula+04+bw.jpg) 
+
+![IMG](../Imaging//HD/Helix_Nebula+01+bw.jpg) 
 
