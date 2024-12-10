@@ -27,72 +27,76 @@
 | <img src='../Imaging//THUMB/Heart_Nebula.jpg'> |The Heart Nebula (also known as the Running Dog Nebula, Sharpless 2-190) is an emission nebula, 7500 light years away from Earth and located in the Perseus Arm of the Galaxy in the constellation Cassiopeia. It was discovered by William Herschel on 3 November 1787.[1] It displays glowing ionized hydrogen gas and darker dust lanes.[2]. The brightest part of the nebula (a knot at its western edge) is separately classified as NGC 896, because it was the first part of the nebula to be discovered. The nebula's intense red output and its morphology are driven by the radiation emanating from a small group of stars near the nebula's center. This open cluster of stars, known as Collinder 26, Melotte 15, or IC 1805, contains a few bright stars nearly 50 times the mass of the Sun, and many more dim stars that are only a fraction of the Sun's mass.[1]. The Heart Nebula is also made up of ionised oxygen and sulfur gasses, responsible for the rich blue and orange colours seen in narrowband images. The shape of the nebula is driven by stellar winds from the hot stars in its core. The nebula also spans almost 2 degrees in the sky, covering an area four times that of the diameter of the full moon.[3] |
 | [Pacman Nebula](../Markdown//Pacman_Nebula.md)  | |
 | <img src='../Imaging//THUMB/Pacman_Nebula.jpg'> |NGC 281, IC 11 or Sh2-184 is a bright emission nebula and part of an H II region in the northern constellation of Cassiopeia and is part of the Milky Way's Perseus Spiral Arm. This 20×30 arcmin sized nebulosity is also associated with open cluster IC 1590, several Bok globules and the multiple star, B 1. It collectively forms Sh2-184,[3] spanning over a larger area of 40 arcmin.[4] A recent distance from radio parallaxes of water masers at 22 GHz made during 2014 is estimated it lies 2.82±0.20 kpc. (9200 ly.) from us.[5] Colloquially, NGC 281 is also known as the Pacman Nebula for its resemblance to the video game character. Edward Emerson Barnard discovered the nebula in August 1883, describing it as "a large faint nebula, very diffuse". Multiple star 'B 1' or β 1 was later discovered by S. W. Burnham, whose bright component is identified as the highly luminous O6 spectral class star, HD 5005 or HIP 4121. It consists of an 8th-magnitude primary with four companions at distances between 1.4 and 15.7 arcsec. There has been no appreciable change in this quintuple system since the first measures were made in 1875. |
+| [Triangulum Galaxy](../Markdown//Triangulum_Galaxy.md)  | |
+| <img src='../Imaging//THUMB/Triangulum_Galaxy.jpg'> |The Triangulum Galaxy is a spiral galaxy 2.73 million light-years (ly) from Earth in the constellation Triangulum. It is catalogued as Messier 33 or NGC (New General Catalogue) 598. With the D25 isophotal diameter of 18.74 kiloparsecs (61,100 light-years), the Triangulum Galaxy is the third-largest member of the Local Group of galaxies, behind the Andromeda Galaxy and the Milky Way. The galaxy is the second-smallest spiral galaxy in the Local Group after the Large Magellanic Cloud, which is a Magellanic-type spiral galaxy.[7] It is believed to be a satellite of the Andromeda Galaxy or on its rebound into the latter due to their interactions, velocities,[8] and proximity to one another in the night sky. It also has an H II nucleus.[9] |
 | [Veil Nebula](../Markdown//Veil_Nebula.md)  | |
-| <img src='../Imaging//THUMB/Veil_Nebula.jpg'> ||
+| <img src='../Imaging//THUMB/Veil_Nebula.jpg'> |The Veil Nebula is a cloud of heated and ionized gas and dust in the constellation Cygnus.[4] It constitutes the visible portions of the Cygnus Loop,[5] a supernova remnant, many portions of which have acquired their own individual names and catalogue identifiers. The source supernova was a star 20 times more massive than the Sun which exploded between 10,000 and 20,000 years ago.[2] At the time of the explosion, the supernova would have appeared brighter than Venus in the sky, and visible in the daytime.[6] The remnants have since expanded to cover an area of the sky roughly 3 degrees in diameter (about 6 times the diameter, and 36 times the area, of the full Moon).[4] While previous distance estimates have ranged from 1200 to 5800 light-years, a recent determination of 2400 light-years is based on direct astrometric measurements.[2] (The distance estimates affect also the estimates of size and age.) The Hubble Space Telescope captured several images of the nebula. The analysis of the emissions from the nebula indicates the presence of oxygen, sulfur, and hydrogen.[7] The Cygnus Loop is also a strong emitter of radio waves and x-rays.[8] |
 
 
 ## Textures of the Universe
+![IMG](../Imaging//HD/Bubble_Nebula+02+bw.jpg) 
+
+![IMG](../Imaging//HD/Andromeda_Galaxy+02+bw.jpg) 
+
+![IMG](../Imaging//HD/Ghost_Of_Cassiopeia+02+bw.jpg) 
+
+![IMG](../Imaging//HD/Heart_Nebula+03+bw.jpg) 
+
+![IMG](../Imaging//HD/Dumbbell_Nebula+02+bw.jpg) 
+
+![IMG](../Imaging//HD/Eagle_Nebula+03+bw.jpg) 
+
+![IMG](../Imaging//HD/Helix_Nebula+01+bw.jpg) 
+
 ![IMG](../Imaging//HD/Heart_Nebula+02+bw.jpg) 
 
-![IMG](../Imaging//HD/Orion_Nebula+02+bw.jpg) 
+![IMG](../Imaging//HD/Horse_Head_Nebula+04+bw.jpg) 
 
-![IMG](../Imaging//HD/Orion_Nebula+04+bw.jpg) 
-
-![IMG](../Imaging//HD/Andromeda_Galaxy+03+bw.jpg) 
-
-![IMG](../Imaging//HD/Veil_Nebula+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Eastern_Veil_Nebula+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Iris_Nebula+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Eastern_Veil_Nebula+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Pacman_Nebula+02+bw.jpg) 
+![IMG](../Imaging//HD/Veil_Nebula+04+bw.jpg) 
 
 ![IMG](../Imaging//HD/Betelgeuse_Star+02+bw.jpg) 
 
 ![IMG](../Imaging//HD/Orion_Nebula+01+bw.jpg) 
 
-![IMG](../Imaging//HD/Veil_Nebula+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Veil_Nebula+03+bw.jpg) 
-
-![IMG](../Imaging//HD/Lagoon_Nebula+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Heart_Nebula+03+bw.jpg) 
-
-![IMG](../Imaging//HD/Ghost_Of_Cassiopeia+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Helix_Nebula+01+bw.jpg) 
-
-![IMG](../Imaging//HD/Dumbbell_Nebula+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Lagoon_Nebula+04+bw.jpg) 
+![IMG](../Imaging//HD/California_Nebula+05+bw.jpg) 
 
 ![IMG](../Imaging//HD/Aldebaran_Star+02+bw.jpg) 
 
-![IMG](../Imaging//HD/Lagoon_Nebula+03+bw.jpg) 
+![IMG](../Imaging//HD/Northamerica_Nebula+02+bw.jpg) 
 
-![IMG](../Imaging//HD/Horse_Head_Nebula+03+bw.jpg) 
+![IMG](../Imaging//HD/Andromeda_Galaxy+03+bw.jpg) 
 
-![IMG](../Imaging//HD/Horse_Head_Nebula+04+bw.jpg) 
+![IMG](../Imaging//HD/Veil_Nebula+03+bw.jpg) 
 
-![IMG](../Imaging//HD/Bubble_Nebula+02+bw.jpg) 
+![IMG](../Imaging//HD/Orion_Nebula+02+bw.jpg) 
 
-![IMG](../Imaging//HD/Eastern_Veil_Nebula+03+bw.jpg) 
-
-![IMG](../Imaging//HD/Veil_Nebula+04+bw.jpg) 
-
-![IMG](../Imaging//HD/Andromeda_Galaxy+02+bw.jpg) 
+![IMG](../Imaging//HD/Iris_Nebula+02+bw.jpg) 
 
 ![IMG](../Imaging//HD/Pacman_Nebula+03+bw.jpg) 
 
+![IMG](../Imaging//HD/Veil_Nebula+01+bw.jpg) 
+
+![IMG](../Imaging//HD/Lagoon_Nebula+04+bw.jpg) 
+
+![IMG](../Imaging//HD/Eastern_Veil_Nebula+01+bw.jpg) 
+
+![IMG](../Imaging//HD/Pacman_Nebula+02+bw.jpg) 
+
+![IMG](../Imaging//HD/Lagoon_Nebula+03+bw.jpg) 
+
+![IMG](../Imaging//HD/Veil_Nebula+02+bw.jpg) 
+
+![IMG](../Imaging//HD/Eastern_Veil_Nebula+03+bw.jpg) 
+
+![IMG](../Imaging//HD/Horse_Head_Nebula+03+bw.jpg) 
+
+![IMG](../Imaging//HD/Eastern_Veil_Nebula+02+bw.jpg) 
+
+![IMG](../Imaging//HD/Orion_Nebula+04+bw.jpg) 
+
 ![IMG](../Imaging//HD/Orion_Nebula+03+bw.jpg) 
 
-![IMG](../Imaging//HD/California_Nebula+05+bw.jpg) 
+![IMG](../Imaging//HD/Triangulum_Galaxy+00+bw.jpg) 
 
-![IMG](../Imaging//HD/Eagle_Nebula+03+bw.jpg) 
-
-![IMG](../Imaging//HD/Northamerica_Nebula+02+bw.jpg) 
+![IMG](../Imaging//HD/Lagoon_Nebula+02+bw.jpg) 
 
