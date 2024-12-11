@@ -42,110 +42,110 @@
 
 
 ## Textures of the Universe
-![IMG](../Imaging//Textures/Aldebaran_Star+02+bw.jpg) 
-
-![IMG](../Imaging//Textures/Pacman_Nebula+02+bw.jpg) 
-
 ![IMG](../Imaging//Textures/Dumbbell_Nebula+02+bw.jpg) 
-
-![IMG](../Imaging//Textures/California_Nebula+05+bw.jpg) 
-
-![IMG](../Imaging//Textures/Ghost_Of_Cassiopeia+02+bw.jpg) 
-
-![IMG](../Imaging//Textures/Triangulum_Galaxy+00+bw.jpg) 
-
-![IMG](../Imaging//Textures/Lagoon_Nebula+03+bw.jpg) 
-
-![IMG](../Imaging//Textures/Veil_Nebula+01+bw.jpg) 
-
-![IMG](../Imaging//Textures/Heart_Nebula+00+bw.jpg) 
-
-![IMG](../Imaging//Textures/Eagle_Nebula+03+bw.jpg) 
-
-![IMG](../Imaging//Textures/Lagoon_Nebula+02+bw.jpg) 
-
-![IMG](../Imaging//Textures/Bubble_Nebula+02+bw.jpg) 
-
-![IMG](../Imaging//Textures/Lagoon_Nebula+04+bw.jpg) 
-
-![IMG](../Imaging//Textures/Horse_Head_Nebula+04+bw.jpg) 
-
-![IMG](../Imaging//Textures/Pacman_Nebula+03+bw.jpg) 
-
-![IMG](../Imaging//Textures/Fireworks_Galaxy+00+bw.jpg) 
-
-![IMG](../Imaging//Textures/Andromeda_Galaxy+02+bw.jpg) 
-
-![IMG](../Imaging//Textures/Veil_Nebula+03+bw.jpg) 
-
-![IMG](../Imaging//Textures/Veil_Nebula+02+bw.jpg) 
-
-![IMG](../Imaging//Textures/Veil_Nebula+04+bw.jpg) 
-
-![IMG](../Imaging//Textures/Horse_Head_Nebula+05+bw.jpg) 
-
-![IMG](../Imaging//Textures/Veil_Nebula+00+bw.jpg) 
-
-![IMG](../Imaging//Textures/Horse_Head_Nebula+03+bw.jpg) 
-
-![IMG](../Imaging//Textures/Heart_Nebula+04+bw.jpg) 
 
 ![IMG](../Imaging//Textures/Betelgeuse_Star+02+bw.jpg) 
 
+![IMG](../Imaging//Textures/Ghost_Of_Cassiopeia+02+bw.jpg) 
+
+![IMG](../Imaging//Textures/Heart_Nebula+00+bw.jpg) 
+
+![IMG](../Imaging//Textures/Horse_Head_Nebula+03+bw.jpg) 
+
+![IMG](../Imaging//Textures/Lagoon_Nebula+04+bw.jpg) 
+
+![IMG](../Imaging//Textures/Veil_Nebula+04+bw.jpg) 
+
+![IMG](../Imaging//Textures/Lagoon_Nebula+02+bw.jpg) 
+
+![IMG](../Imaging//Textures/Fireworks_Galaxy+00+bw.jpg) 
+
+![IMG](../Imaging//Textures/Triangulum_Galaxy+00+bw.jpg) 
+
+![IMG](../Imaging//Textures/Veil_Nebula+01+bw.jpg) 
+
+![IMG](../Imaging//Textures/Horse_Head_Nebula+04+bw.jpg) 
+
+![IMG](../Imaging//Textures/Andromeda_Galaxy+02+bw.jpg) 
+
+![IMG](../Imaging//Textures/Horse_Head_Nebula+05+bw.jpg) 
+
+![IMG](../Imaging//Textures/California_Nebula+05+bw.jpg) 
+
 ![IMG](../Imaging//Textures/Iris_Nebula+02+bw.jpg) 
+
+![IMG](../Imaging//Textures/Veil_Nebula+02+bw.jpg) 
+
+![IMG](../Imaging//Textures/Veil_Nebula+03+bw.jpg) 
+
+![IMG](../Imaging//Textures/Heart_Nebula+04+bw.jpg) 
+
+![IMG](../Imaging//Textures/Pacman_Nebula+03+bw.jpg) 
+
+![IMG](../Imaging//Textures/Eagle_Nebula+03+bw.jpg) 
+
+![IMG](../Imaging//Textures/Bubble_Nebula+02+bw.jpg) 
+
+![IMG](../Imaging//Textures/Lagoon_Nebula+03+bw.jpg) 
+
+![IMG](../Imaging//Textures/Aldebaran_Star+02+bw.jpg) 
+
+![IMG](../Imaging//Textures/Veil_Nebula+00+bw.jpg) 
+
+![IMG](../Imaging//Textures/Pacman_Nebula+02+bw.jpg) 
 
 
 
 ## The colors of the Universe
-![IMG](../Imaging//Colors/Fireworks_Galaxy+00+co.jpg) 
-
-![IMG](../Imaging//Colors/Veil_Nebula+03+co.jpg) 
-
-![IMG](../Imaging//Colors/Pacman_Nebula+03+co.jpg) 
-
-![IMG](../Imaging//Colors/Andromeda_Galaxy+02+co.jpg) 
-
-![IMG](../Imaging//Colors/Veil_Nebula+00+co.jpg) 
-
-![IMG](../Imaging//Colors/Horse_Head_Nebula+03+co.jpg) 
-
 ![IMG](../Imaging//Colors/Veil_Nebula+01+co.jpg) 
 
-![IMG](../Imaging//Colors/Lagoon_Nebula+02+co.jpg) 
-
-![IMG](../Imaging//Colors/Lagoon_Nebula+04+co.jpg) 
-
-![IMG](../Imaging//Colors/Eagle_Nebula+03+co.jpg) 
-
-![IMG](../Imaging//Colors/California_Nebula+05+co.jpg) 
-
-![IMG](../Imaging//Colors/Iris_Nebula+02+co.jpg) 
-
-![IMG](../Imaging//Colors/Triangulum_Galaxy+00+co.jpg) 
-
-![IMG](../Imaging//Colors/Pacman_Nebula+02+co.jpg) 
-
-![IMG](../Imaging//Colors/Veil_Nebula+04+co.jpg) 
-
-![IMG](../Imaging//Colors/Horse_Head_Nebula+04+co.jpg) 
+![IMG](../Imaging//Colors/Betelgeuse_Star+02+co.jpg) 
 
 ![IMG](../Imaging//Colors/Heart_Nebula+04+co.jpg) 
 
+![IMG](../Imaging//Colors/Pacman_Nebula+03+co.jpg) 
+
+![IMG](../Imaging//Colors/Veil_Nebula+03+co.jpg) 
+
+![IMG](../Imaging//Colors/Lagoon_Nebula+04+co.jpg) 
+
+![IMG](../Imaging//Colors/Fireworks_Galaxy+00+co.jpg) 
+
+![IMG](../Imaging//Colors/California_Nebula+05+co.jpg) 
+
+![IMG](../Imaging//Colors/Veil_Nebula+00+co.jpg) 
+
+![IMG](../Imaging//Colors/Veil_Nebula+02+co.jpg) 
+
 ![IMG](../Imaging//Colors/Lagoon_Nebula+03+co.jpg) 
 
-![IMG](../Imaging//Colors/Dumbbell_Nebula+02+co.jpg) 
+![IMG](../Imaging//Colors/Pacman_Nebula+02+co.jpg) 
 
-![IMG](../Imaging//Colors/Heart_Nebula+00+co.jpg) 
+![IMG](../Imaging//Colors/Andromeda_Galaxy+02+co.jpg) 
+
+![IMG](../Imaging//Colors/Horse_Head_Nebula+03+co.jpg) 
 
 ![IMG](../Imaging//Colors/Ghost_Of_Cassiopeia+02+co.jpg) 
 
 ![IMG](../Imaging//Colors/Bubble_Nebula+02+co.jpg) 
 
-![IMG](../Imaging//Colors/Betelgeuse_Star+02+co.jpg) 
+![IMG](../Imaging//Colors/Eagle_Nebula+03+co.jpg) 
 
 ![IMG](../Imaging//Colors/Aldebaran_Star+02+co.jpg) 
 
-![IMG](../Imaging//Colors/Veil_Nebula+02+co.jpg) 
+![IMG](../Imaging//Colors/Horse_Head_Nebula+04+co.jpg) 
+
+![IMG](../Imaging//Colors/Heart_Nebula+00+co.jpg) 
+
+![IMG](../Imaging//Colors/Lagoon_Nebula+02+co.jpg) 
 
 ![IMG](../Imaging//Colors/Horse_Head_Nebula+05+co.jpg) 
+
+![IMG](../Imaging//Colors/Veil_Nebula+04+co.jpg) 
+
+![IMG](../Imaging//Colors/Triangulum_Galaxy+00+co.jpg) 
+
+![IMG](../Imaging//Colors/Dumbbell_Nebula+02+co.jpg) 
+
+![IMG](../Imaging//Colors/Iris_Nebula+02+co.jpg) 
 
