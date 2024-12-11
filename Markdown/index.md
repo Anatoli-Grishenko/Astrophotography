@@ -16,7 +16,7 @@
 | [California Nebula](../Markdown//California_Nebula.md)  | |
 | <img src='../Imaging//THUMB/California_Nebula.jpg'> |The California Nebula (Also known NGC 1499 or Sh2-220) is an emission nebula located in the constellation Perseus. Its name comes from its resemblance to the outline of the US State of California in long exposure photographs. It is almost 2.5° long on the sky and, because of its very low surface brightness, it is extremely difficult to observe visually. It can be observed with a Hα filter (isolates the Hα line at 656 nm) or Hβ filter (isolates the Hβ line at 486 nm) in a rich-field telescope under dark skies.[2] It lies at a distance of about 1,000 light years from Earth. Its fluorescence is due to excitation of the Hβ line in the nebula by the nearby prodigiously energetic O7 star, Xi Persei (also known as Menkib).[3] |
 | [Chi Persei Cluster](../Markdown//Chi_Persei_Cluster.md)  | |
-| <img src='../Imaging//THUMB/Chi_Persei_Cluster.jpg'> ||
+| <img src='../Imaging//THUMB/Chi_Persei_Cluster.jpg'> |The Double Cluster (also known as Caldwell 14) consists of the open clusters NGC 869 and NGC 884 (often designated h Persei and χ (chi) Persei, respectively), which are close together in the constellation Perseus. Both visible with the naked eye, NGC 869 and NGC 884 lie at a distance of about 7,500 light years in the Perseus Arm of the Milky Way galaxy.[2] |
 | [Dumbbell Nebula](../Markdown//Dumbbell_Nebula.md)  | |
 | <img src='../Imaging//THUMB/Dumbbell_Nebula.jpg'> |The Dumbbell Nebula (also known as the Apple Core Nebula, Messier 27, and NGC 6853) is a planetary nebula (nebulosity surrounding a white dwarf) in the constellation Vulpecula, at a distance of about 1360 light-years.[1] It was the first such nebula to be discovered, by Charles Messier in 1764. At its brightness of visual magnitude 7.5 and diameter of about 8 arcminutes, it is easily visible in binoculars[4] and is a popular observing target in amateur telescopes. The Dumbbell Nebula appears shaped like a prolate spheroid and is viewed from our perspective along the plane of its equator. In 1992, Moreno-Corral et al. computed that its rate of expansion angularly was, viewed from our distance, no more than 2.3 arcseconds (″) per century. From this, an upper limit to the age of 14,600 years may be determined. In 1970, Bohuski, Smith, and Weedman found an expansion velocity of 31 km/s. Given its semi-minor axis radius of 1.01 ly, this implies that the kinematic age of the nebula is 9,800 years.[3][5] |
 | [Eagle Nebula](../Markdown//Eagle_Nebula.md)  | |
@@ -27,6 +27,12 @@
 | <img src='../Imaging//THUMB/Ghost_Of_Cassiopeia.jpg'> |Sh 2-185 is an H II region centered on the massive star system Gamma Cassiopeiae (γ Cas) in the northern constellation of Cassiopeia. It was included in the second Catalogue of H II Regions, published in 1959 by Stewart Sharpless.[3] Sh 2-185 is located at a distance of approximately 10,500 ly (3.23 kpc) from the Sun.[2] The region is surrounded by a dust shell,[4] and displays several infrared point sources that are a characteristics of young stellar objects.[5] This H II region includes the reflection and emission nebulae IC 59 and IC 63.[4] Both nebulae have a cometary shape, with IC 63 being the brighter of the two.[6] The difference in appearance between the two nebulae is a consequence of their physical distance from γ Cas. IC 63 displays a well-defined ionization front, while this is lacking in IC 59.[5] The nebulae are the closest photodissociation regions to the Sun.[6] |
 | [Heart Nebula](../Markdown//Heart_Nebula.md)  | |
 | <img src='../Imaging//THUMB/Heart_Nebula.jpg'> |The Heart Nebula (also known as the Running Dog Nebula, Sharpless 2-190) is an emission nebula, 7500 light years away from Earth and located in the Perseus Arm of the Galaxy in the constellation Cassiopeia. It was discovered by William Herschel on 3 November 1787.[1] It displays glowing ionized hydrogen gas and darker dust lanes.[2]. The brightest part of the nebula (a knot at its western edge) is separately classified as NGC 896, because it was the first part of the nebula to be discovered. The nebula's intense red output and its morphology are driven by the radiation emanating from a small group of stars near the nebula's center. This open cluster of stars, known as Collinder 26, Melotte 15, or IC 1805, contains a few bright stars nearly 50 times the mass of the Sun, and many more dim stars that are only a fraction of the Sun's mass.[1]. The Heart Nebula is also made up of ionised oxygen and sulfur gasses, responsible for the rich blue and orange colours seen in narrowband images. The shape of the nebula is driven by stellar winds from the hot stars in its core. The nebula also spans almost 2 degrees in the sky, covering an area four times that of the diameter of the full moon.[3] |
+| [Horse Head Nebula](../Markdown//Horse_Head_Nebula.md)  | |
+| <img src='../Imaging//THUMB/Horse_Head_Nebula.jpg'> |The Horsehead Nebula (also known as Barnard 33 or B33) is a small dark nebula in the constellation Orion.[2] The nebula is located just to the south of Alnitak, the easternmost star of Orion's Belt, and is part of the much larger Orion molecular cloud complex. It appears within the southern region of the dense dust cloud known as Lynds 1630, along the edge of the much larger, active star-forming H II region called IC 434.[3] The Horsehead Nebula is approximately 422 parsecs or 1,375 light-years from Earth.[1][3] It is one of the most identifiable nebulae because of its resemblance to a horse's head.[4] Using NASA's James Webb Space Telescope, astronomers have captured the nebula's "mane" in unprecedented detail, revealing the complexity of the photodissociation region where ultraviolet light interacts with gas and dust.[5][6] |
+| [Iris Nebula](../Markdown//Iris_Nebula.md)  | |
+| <img src='../Imaging//THUMB/Iris_Nebula.jpg'> |The Iris Nebula (also known as NGC 7023 and Caldwell 4) is a bright reflection nebula in the constellation Cepheus. The designation NGC 7023 refers to the open cluster within the larger reflection nebula designated LBN 487. The nebula, which shines at magnitude +6.8, is illuminated by a magnitude +7.4 star designated HD 200775.[1] It is located near the Mira-type variable star T Cephei, and near the bright magnitude +3.23 variable star Beta Cephei (Alfirk). It lies 1,300 light-years away and is six light-years across.[2] |
+| [Lagoon Nebula](../Markdown//Lagoon_Nebula.md)  | |
+| <img src='../Imaging//THUMB/Lagoon_Nebula.jpg'> |The Lagoon Nebula (catalogued as Messier 8 or M8, NGC 6523, Sharpless 25, RCW 146, and Gum 72) is a giant interstellar cloud in the constellation Sagittarius. It is classified as an emission nebula and has an H II region. The Lagoon Nebula was discovered by Giovanni Hodierna before 1654[5] and is one of only two star-forming nebulae faintly visible to the eye from mid-northern latitudes. Seen with binoculars, it appears as a distinct cloud-like patch with a definite core. Within the nebula is the open cluster NGC 6530.[6] |
 | [Pacman Nebula](../Markdown//Pacman_Nebula.md)  | |
 | <img src='../Imaging//THUMB/Pacman_Nebula.jpg'> |NGC 281, IC 11 or Sh2-184 is a bright emission nebula and part of an H II region in the northern constellation of Cassiopeia and is part of the Milky Way's Perseus Spiral Arm. This 20×30 arcmin sized nebulosity is also associated with open cluster IC 1590, several Bok globules and the multiple star, B 1. It collectively forms Sh2-184,[3] spanning over a larger area of 40 arcmin.[4] A recent distance from radio parallaxes of water masers at 22 GHz made during 2014 is estimated it lies 2.82±0.20 kpc. (9200 ly.) from us.[5] Colloquially, NGC 281 is also known as the Pacman Nebula for its resemblance to the video game character. Edward Emerson Barnard discovered the nebula in August 1883, describing it as "a large faint nebula, very diffuse". Multiple star 'B 1' or β 1 was later discovered by S. W. Burnham, whose bright component is identified as the highly luminous O6 spectral class star, HD 5005 or HIP 4121. It consists of an 8th-magnitude primary with four companions at distances between 1.4 and 15.7 arcsec. There has been no appreciable change in this quintuple system since the first measures were made in 1875. |
 | [Triangulum Galaxy](../Markdown//Triangulum_Galaxy.md)  | |
@@ -36,71 +42,110 @@
 
 
 ## Textures of the Universe
-![IMG](../Imaging//HD/Dumbbell_Nebula+02+bw.jpg) 
+![IMG](../Imaging//Textures/Aldebaran_Star+02+bw.jpg) 
 
-![IMG](../Imaging//HD/Helix_Nebula+01+bw.jpg) 
+![IMG](../Imaging//Textures/Pacman_Nebula+02+bw.jpg) 
 
-![IMG](../Imaging//HD/Orion_Nebula+04+bw.jpg) 
+![IMG](../Imaging//Textures/Dumbbell_Nebula+02+bw.jpg) 
 
-![IMG](../Imaging//HD/Triangulum_Galaxy+00+bw.jpg) 
+![IMG](../Imaging//Textures/California_Nebula+05+bw.jpg) 
 
-![IMG](../Imaging//HD/Aldebaran_Star+02+bw.jpg) 
+![IMG](../Imaging//Textures/Ghost_Of_Cassiopeia+02+bw.jpg) 
 
-![IMG](../Imaging//HD/Northamerica_Nebula+02+bw.jpg) 
+![IMG](../Imaging//Textures/Triangulum_Galaxy+00+bw.jpg) 
 
-![IMG](../Imaging//HD/Eastern_Veil_Nebula+03+bw.jpg) 
+![IMG](../Imaging//Textures/Lagoon_Nebula+03+bw.jpg) 
 
-![IMG](../Imaging//HD/Lagoon_Nebula+04+bw.jpg) 
+![IMG](../Imaging//Textures/Veil_Nebula+01+bw.jpg) 
 
-![IMG](../Imaging//HD/Bubble_Nebula+02+bw.jpg) 
+![IMG](../Imaging//Textures/Heart_Nebula+00+bw.jpg) 
 
-![IMG](../Imaging//HD/Heart_Nebula+03+bw.jpg) 
+![IMG](../Imaging//Textures/Eagle_Nebula+03+bw.jpg) 
 
-![IMG](../Imaging//HD/Heart_Nebula+00+bw.jpg) 
+![IMG](../Imaging//Textures/Lagoon_Nebula+02+bw.jpg) 
 
-![IMG](../Imaging//HD/Orion_Nebula+01+bw.jpg) 
+![IMG](../Imaging//Textures/Bubble_Nebula+02+bw.jpg) 
 
-![IMG](../Imaging//HD/Pacman_Nebula+03+bw.jpg) 
+![IMG](../Imaging//Textures/Lagoon_Nebula+04+bw.jpg) 
 
-![IMG](../Imaging//HD/Pacman_Nebula+02+bw.jpg) 
+![IMG](../Imaging//Textures/Horse_Head_Nebula+04+bw.jpg) 
 
-![IMG](../Imaging//HD/Veil_Nebula+02+bw.jpg) 
+![IMG](../Imaging//Textures/Pacman_Nebula+03+bw.jpg) 
 
-![IMG](../Imaging//HD/Lagoon_Nebula+03+bw.jpg) 
+![IMG](../Imaging//Textures/Fireworks_Galaxy+00+bw.jpg) 
 
-![IMG](../Imaging//HD/Andromeda_Galaxy+03+bw.jpg) 
+![IMG](../Imaging//Textures/Andromeda_Galaxy+02+bw.jpg) 
 
-![IMG](../Imaging//HD/Iris_Nebula+02+bw.jpg) 
+![IMG](../Imaging//Textures/Veil_Nebula+03+bw.jpg) 
 
-![IMG](../Imaging//HD/Veil_Nebula+03+bw.jpg) 
+![IMG](../Imaging//Textures/Veil_Nebula+02+bw.jpg) 
 
-![IMG](../Imaging//HD/Orion_Nebula+03+bw.jpg) 
+![IMG](../Imaging//Textures/Veil_Nebula+04+bw.jpg) 
 
-![IMG](../Imaging//HD/Andromeda_Galaxy+02+bw.jpg) 
+![IMG](../Imaging//Textures/Horse_Head_Nebula+05+bw.jpg) 
 
-![IMG](../Imaging//HD/California_Nebula+05+bw.jpg) 
+![IMG](../Imaging//Textures/Veil_Nebula+00+bw.jpg) 
 
-![IMG](../Imaging//HD/Horse_Head_Nebula+04+bw.jpg) 
+![IMG](../Imaging//Textures/Horse_Head_Nebula+03+bw.jpg) 
 
-![IMG](../Imaging//HD/Veil_Nebula+04+bw.jpg) 
+![IMG](../Imaging//Textures/Heart_Nebula+04+bw.jpg) 
 
-![IMG](../Imaging//HD/Ghost_Of_Cassiopeia+02+bw.jpg) 
+![IMG](../Imaging//Textures/Betelgeuse_Star+02+bw.jpg) 
 
-![IMG](../Imaging//HD/Horse_Head_Nebula+03+bw.jpg) 
+![IMG](../Imaging//Textures/Iris_Nebula+02+bw.jpg) 
 
-![IMG](../Imaging//HD/Eagle_Nebula+03+bw.jpg) 
 
-![IMG](../Imaging//HD/Eastern_Veil_Nebula+01+bw.jpg) 
 
-![IMG](../Imaging//HD/Heart_Nebula+02+bw.jpg) 
+## The colors of the Universe
+![IMG](../Imaging//Colors/Fireworks_Galaxy+00+co.jpg) 
 
-![IMG](../Imaging//HD/Betelgeuse_Star+02+bw.jpg) 
+![IMG](../Imaging//Colors/Veil_Nebula+03+co.jpg) 
 
-![IMG](../Imaging//HD/Veil_Nebula+01+bw.jpg) 
+![IMG](../Imaging//Colors/Pacman_Nebula+03+co.jpg) 
 
-![IMG](../Imaging//HD/Lagoon_Nebula+02+bw.jpg) 
+![IMG](../Imaging//Colors/Andromeda_Galaxy+02+co.jpg) 
 
-![IMG](../Imaging//HD/Eastern_Veil_Nebula+02+bw.jpg) 
+![IMG](../Imaging//Colors/Veil_Nebula+00+co.jpg) 
 
-![IMG](../Imaging//HD/Orion_Nebula+02+bw.jpg) 
+![IMG](../Imaging//Colors/Horse_Head_Nebula+03+co.jpg) 
+
+![IMG](../Imaging//Colors/Veil_Nebula+01+co.jpg) 
+
+![IMG](../Imaging//Colors/Lagoon_Nebula+02+co.jpg) 
+
+![IMG](../Imaging//Colors/Lagoon_Nebula+04+co.jpg) 
+
+![IMG](../Imaging//Colors/Eagle_Nebula+03+co.jpg) 
+
+![IMG](../Imaging//Colors/California_Nebula+05+co.jpg) 
+
+![IMG](../Imaging//Colors/Iris_Nebula+02+co.jpg) 
+
+![IMG](../Imaging//Colors/Triangulum_Galaxy+00+co.jpg) 
+
+![IMG](../Imaging//Colors/Pacman_Nebula+02+co.jpg) 
+
+![IMG](../Imaging//Colors/Veil_Nebula+04+co.jpg) 
+
+![IMG](../Imaging//Colors/Horse_Head_Nebula+04+co.jpg) 
+
+![IMG](../Imaging//Colors/Heart_Nebula+04+co.jpg) 
+
+![IMG](../Imaging//Colors/Lagoon_Nebula+03+co.jpg) 
+
+![IMG](../Imaging//Colors/Dumbbell_Nebula+02+co.jpg) 
+
+![IMG](../Imaging//Colors/Heart_Nebula+00+co.jpg) 
+
+![IMG](../Imaging//Colors/Ghost_Of_Cassiopeia+02+co.jpg) 
+
+![IMG](../Imaging//Colors/Bubble_Nebula+02+co.jpg) 
+
+![IMG](../Imaging//Colors/Betelgeuse_Star+02+co.jpg) 
+
+![IMG](../Imaging//Colors/Aldebaran_Star+02+co.jpg) 
+
+![IMG](../Imaging//Colors/Veil_Nebula+02+co.jpg) 
+
+![IMG](../Imaging//Colors/Horse_Head_Nebula+05+co.jpg) 
 
