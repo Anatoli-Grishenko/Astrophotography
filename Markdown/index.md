@@ -15,6 +15,8 @@
 | <img src='../Imaging//THUMB/Bubble_Nebula.jpg'> |NGC 7635, also known as the Bubble Nebula, Sharpless 162, or Caldwell 11, is an H II region emission nebula in the constellation Cassiopeia. It lies close to the open cluster Messier 52. The "bubble" is created by the stellar wind from a massive hot, 8.7 magnitude young central star, SAO 20575 (BD+60°2522). The nebula is near a giant molecular cloud which contains the expansion of the bubble nebula while itself being excited by the hot central star, causing it to glow. It was discovered in November 1787 by William Herschel. The star BD+60°2522 is thought to have a mass of about 44 M |
 | [California Nebula](../Markdown//California_Nebula.md)  | |
 | <img src='../Imaging//THUMB/California_Nebula.jpg'> |The California Nebula (Also known NGC 1499 or Sh2-220) is an emission nebula located in the constellation Perseus. Its name comes from its resemblance to the outline of the US State of California in long exposure photographs. It is almost 2.5° long on the sky and, because of its very low surface brightness, it is extremely difficult to observe visually. It can be observed with a Hα filter (isolates the Hα line at 656 nm) or Hβ filter (isolates the Hβ line at 486 nm) in a rich-field telescope under dark skies.[2] It lies at a distance of about 1,000 light years from Earth. Its fluorescence is due to excitation of the Hβ line in the nebula by the nearby prodigiously energetic O7 star, Xi Persei (also known as Menkib).[3] |
+| [Chi Persei Cluster](../Markdown//Chi_Persei_Cluster.md)  | |
+| <img src='../Imaging//THUMB/Chi_Persei_Cluster.jpg'> ||
 | [Dumbbell Nebula](../Markdown//Dumbbell_Nebula.md)  | |
 | <img src='../Imaging//THUMB/Dumbbell_Nebula.jpg'> |The Dumbbell Nebula (also known as the Apple Core Nebula, Messier 27, and NGC 6853) is a planetary nebula (nebulosity surrounding a white dwarf) in the constellation Vulpecula, at a distance of about 1360 light-years.[1] It was the first such nebula to be discovered, by Charles Messier in 1764. At its brightness of visual magnitude 7.5 and diameter of about 8 arcminutes, it is easily visible in binoculars[4] and is a popular observing target in amateur telescopes. The Dumbbell Nebula appears shaped like a prolate spheroid and is viewed from our perspective along the plane of its equator. In 1992, Moreno-Corral et al. computed that its rate of expansion angularly was, viewed from our distance, no more than 2.3 arcseconds (″) per century. From this, an upper limit to the age of 14,600 years may be determined. In 1970, Bohuski, Smith, and Weedman found an expansion velocity of 31 km/s. Given its semi-minor axis radius of 1.01 ly, this implies that the kinematic age of the nebula is 9,800 years.[3][5] |
 | [Eagle Nebula](../Markdown//Eagle_Nebula.md)  | |
@@ -34,69 +36,71 @@
 
 
 ## Textures of the Universe
-![IMG](../Imaging//HD/Bubble_Nebula+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Andromeda_Galaxy+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Ghost_Of_Cassiopeia+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Heart_Nebula+03+bw.jpg) 
-
 ![IMG](../Imaging//HD/Dumbbell_Nebula+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Eagle_Nebula+03+bw.jpg) 
 
 ![IMG](../Imaging//HD/Helix_Nebula+01+bw.jpg) 
 
-![IMG](../Imaging//HD/Heart_Nebula+02+bw.jpg) 
+![IMG](../Imaging//HD/Orion_Nebula+04+bw.jpg) 
 
-![IMG](../Imaging//HD/Horse_Head_Nebula+04+bw.jpg) 
-
-![IMG](../Imaging//HD/Veil_Nebula+04+bw.jpg) 
-
-![IMG](../Imaging//HD/Betelgeuse_Star+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Orion_Nebula+01+bw.jpg) 
-
-![IMG](../Imaging//HD/California_Nebula+05+bw.jpg) 
+![IMG](../Imaging//HD/Triangulum_Galaxy+00+bw.jpg) 
 
 ![IMG](../Imaging//HD/Aldebaran_Star+02+bw.jpg) 
 
 ![IMG](../Imaging//HD/Northamerica_Nebula+02+bw.jpg) 
 
-![IMG](../Imaging//HD/Andromeda_Galaxy+03+bw.jpg) 
-
-![IMG](../Imaging//HD/Veil_Nebula+03+bw.jpg) 
-
-![IMG](../Imaging//HD/Orion_Nebula+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Iris_Nebula+02+bw.jpg) 
-
-![IMG](../Imaging//HD/Pacman_Nebula+03+bw.jpg) 
-
-![IMG](../Imaging//HD/Veil_Nebula+01+bw.jpg) 
+![IMG](../Imaging//HD/Eastern_Veil_Nebula+03+bw.jpg) 
 
 ![IMG](../Imaging//HD/Lagoon_Nebula+04+bw.jpg) 
 
-![IMG](../Imaging//HD/Eastern_Veil_Nebula+01+bw.jpg) 
+![IMG](../Imaging//HD/Bubble_Nebula+02+bw.jpg) 
+
+![IMG](../Imaging//HD/Heart_Nebula+03+bw.jpg) 
+
+![IMG](../Imaging//HD/Heart_Nebula+00+bw.jpg) 
+
+![IMG](../Imaging//HD/Orion_Nebula+01+bw.jpg) 
+
+![IMG](../Imaging//HD/Pacman_Nebula+03+bw.jpg) 
 
 ![IMG](../Imaging//HD/Pacman_Nebula+02+bw.jpg) 
 
-![IMG](../Imaging//HD/Lagoon_Nebula+03+bw.jpg) 
-
 ![IMG](../Imaging//HD/Veil_Nebula+02+bw.jpg) 
 
-![IMG](../Imaging//HD/Eastern_Veil_Nebula+03+bw.jpg) 
+![IMG](../Imaging//HD/Lagoon_Nebula+03+bw.jpg) 
 
-![IMG](../Imaging//HD/Horse_Head_Nebula+03+bw.jpg) 
+![IMG](../Imaging//HD/Andromeda_Galaxy+03+bw.jpg) 
 
-![IMG](../Imaging//HD/Eastern_Veil_Nebula+02+bw.jpg) 
+![IMG](../Imaging//HD/Iris_Nebula+02+bw.jpg) 
 
-![IMG](../Imaging//HD/Orion_Nebula+04+bw.jpg) 
+![IMG](../Imaging//HD/Veil_Nebula+03+bw.jpg) 
 
 ![IMG](../Imaging//HD/Orion_Nebula+03+bw.jpg) 
 
-![IMG](../Imaging//HD/Triangulum_Galaxy+00+bw.jpg) 
+![IMG](../Imaging//HD/Andromeda_Galaxy+02+bw.jpg) 
+
+![IMG](../Imaging//HD/California_Nebula+05+bw.jpg) 
+
+![IMG](../Imaging//HD/Horse_Head_Nebula+04+bw.jpg) 
+
+![IMG](../Imaging//HD/Veil_Nebula+04+bw.jpg) 
+
+![IMG](../Imaging//HD/Ghost_Of_Cassiopeia+02+bw.jpg) 
+
+![IMG](../Imaging//HD/Horse_Head_Nebula+03+bw.jpg) 
+
+![IMG](../Imaging//HD/Eagle_Nebula+03+bw.jpg) 
+
+![IMG](../Imaging//HD/Eastern_Veil_Nebula+01+bw.jpg) 
+
+![IMG](../Imaging//HD/Heart_Nebula+02+bw.jpg) 
+
+![IMG](../Imaging//HD/Betelgeuse_Star+02+bw.jpg) 
+
+![IMG](../Imaging//HD/Veil_Nebula+01+bw.jpg) 
 
 ![IMG](../Imaging//HD/Lagoon_Nebula+02+bw.jpg) 
+
+![IMG](../Imaging//HD/Eastern_Veil_Nebula+02+bw.jpg) 
+
+![IMG](../Imaging//HD/Orion_Nebula+02+bw.jpg) 
 
