@@ -22,3 +22,9 @@ The Lagoon Nebula (catalogued as Messier 8 or M8, NGC 6523, Sharpless 25, RCW 14
 
 ![IMG](Imaging//HD/Lagoon_Nebula+03+co.jpg) 
 
+![IMG](Imaging//HD/Lagoon_Nebula+04+co.jpg) 
+
+![IMG](Imaging//HD/Lagoon_Nebula+05+co.jpg) 
+
+![IMG](Imaging//HD/Lagoon_Nebula+06+co.jpg) 
+

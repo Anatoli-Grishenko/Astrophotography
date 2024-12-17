@@ -26,3 +26,7 @@ The Orion Nebula (also known as Messier 42, M42, or NGC 1976) is a diffuse nebul
 
 ![IMG](Imaging//HD/Orion_Nebula+07+co.jpg) 
 
+![IMG](Imaging//HD/Orion_Nebula+08+co.jpg) 
+
+![IMG](Imaging//HD/Orion_Nebula+09+co.jpg) 
+
