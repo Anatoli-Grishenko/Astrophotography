@@ -54,7 +54,7 @@ Sólo por un pequeño, muy pequeño, salto dentro de los límites de nuestra gal
 La nebulosa Cabeza de Caballo, una muy, muy cercana, se encuentra en el cinturón de Orión. Vamos a encontrarla.
 
 
-#A simple vista
+# A simple vista
 
 Se encuentra debajo del cinturón de Orión, junto a la más baja de estas tres estrellas de la imagen (1). Esta estrella es conocida como Alnitak, una de las más brillantes del cielo invernal. 
 
