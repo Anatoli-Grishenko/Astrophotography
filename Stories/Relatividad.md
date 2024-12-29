@@ -22,7 +22,7 @@ Si pudiéramos coger el vehículo de transporte humano más rápido hasta la fec
 
 Bien. Consideremos el viaje tripulado más largo hasta la fecha, que es el aterrizaje y la luna, es decir, a 384.000 km de distancia, el Concorde tardará 7,5 días, el avión Parker durará 30 minutos y la luz 1 segundo.
 
-![](Pics/earh-and-sun.jpg)
+![](Pics/earth-and-sun.jpg)
 
 No está mal, pero consideremos un viaje a la estrella más cercana, nuestro Sol, que está a 150.000.000 km de nosotros. Yo tardaré unos 8 años en llegar al Sol, vía Concorde, mientras que el avión Parker tardará unos 11 días y la luz 8,3 minutos. Las distancias y los tiempos empiezan a ser duros a pesar de que estamos hablando de un punto insignificante en medio de nuestra Galaxia, la Vía Láctea.  
 
