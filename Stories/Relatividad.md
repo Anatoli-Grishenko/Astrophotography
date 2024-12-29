@@ -16,13 +16,13 @@ Este es nuestro planeta Tierra, donde vivimos. Su diámetro es algo inferior a 1
 
 Si pudiéramos coger el vehículo de transporte humano más rápido hasta la fecha, el avión Concorde, que vuela a casi 2.200 km/h, tardaríamos unas 6 horas en completar esta distancia. En cambio, si pudiéramos utilizar, de hecho no podríamos, uno de los artefactos más rápidos fabricados por el ser humano, como la nave espacial Parker, que se desplaza a unos 600.000 km/h, este viaje sólo nos llevaría 1 minuto. Por último, la «cosa» más rápida que conocemos, que es la luz, moviéndose a 300.000 km/s, esta distancia será recorrida en menos de 0,04 segs. 
 
-![](Pics/tierra-y-luna.jpg)
+![](Pics/earth-and-moon.jpg)
 
 # Nuestro Sistema Solar
 
 Bien. Consideremos el viaje tripulado más largo hasta la fecha, que es el aterrizaje y la luna, es decir, a 384.000 km de distancia, el Concorde tardará 7,5 días, el avión Parker durará 30 minutos y la luz 1 segundo.
 
-![](Pics/tierra-y-sol.jpg)
+![](Pics/earh-and-sun.jpg)
 
 No está mal, pero consideremos un viaje a la estrella más cercana, nuestro Sol, que está a 150.000.000 km de nosotros. Yo tardaré unos 8 años en llegar al Sol, vía Concorde, mientras que el avión Parker tardará unos 11 días y la luz 8,3 minutos. Las distancias y los tiempos empiezan a ser duros a pesar de que estamos hablando de un punto insignificante en medio de nuestra Galaxia, la Vía Láctea.  
 
