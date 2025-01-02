@@ -20,3 +20,5 @@ Betelgeuse is a red supergiant star in the constellation of Orion. It is usually
 
 ![IMG](..//Imaging//HD/Betelgeuse_Star+02+co.jpg) 
 
+![IMG](..//Imaging//HD/Betelgeuse_Star+03+co.jpg) 
+
