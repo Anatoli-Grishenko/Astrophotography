@@ -5,10 +5,6 @@ The Dumbbell Nebula (also known as the Apple Core Nebula, Messier 27, and NGC 68
 [![](..//Imaging//Common/Wikipedia.png) Read more](https://en.wikipedia.org/wiki/Dumbbell_Nebula)
 ## Plate solving 
 
-
-![IMG](..//Imaging//HD/Dumbbell_Nebula_Annotated.jpg)
-
-
 | Globe | Close | Very close |
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Dumbbell_Nebula_Globe.jpg) |![IMG](..//Imaging//HD/Dumbbell_Nebula_Close.jpg) |![IMG](..//Imaging//HD/Dumbbell_Nebula_Closer.jpg) |
@@ -19,4 +15,6 @@ The Dumbbell Nebula (also known as the Apple Core Nebula, Messier 27, and NGC 68
 ![IMG](..//Imaging//HD/Dumbbell_Nebula+01+co.jpg) 
 
 ![IMG](..//Imaging//HD/Dumbbell_Nebula+02+co.jpg) 
+
+![IMG](..//Imaging//HD/Dumbbell_Nebula+03+co.jpg) 
 
