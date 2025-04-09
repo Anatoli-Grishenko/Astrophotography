@@ -20,7 +20,7 @@ I we could take the fastest human transport vehicle to date, the Concorde plane,
 
 # Our Solar System
 
-Good. Let us consider the longest manned trip to date, which is landing and the moon, i.e. 384,000 km away, the Concorde will take 7.5 days, the Parker aircraft will last 30 minutes and the light 1 second.
+Good. Let us consider the longest manned trip to date, which is landing at the moon, i.e. 384,000 km away, the Concorde will take 7.5 days, the Parker aircraft will last 30 minutes and the light 1 second.
 
 ![](Pics/earth-and-sun.jpg)
 
