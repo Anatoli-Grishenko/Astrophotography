@@ -6,7 +6,7 @@ In [Relativity](./Relativity.md) I was wondering of the extremely vast distances
 
 ![](Pics/1H.jpg)
 
-This is an atom of Hidrogen. Hidrogen amounts to 75% of the whole visible matter in the universe and it is the simplest atom known with just one proton (positive +) and one electron (negative -). It may also appear somehow different, with an extra neutron
+This is an atom of Hydrogen. Hydrogen amounts to 75% of the whole visible matter in the universe and it is the simplest atom known with just one proton (positive +) and one electron (negative -). It may also appear somehow different, with an extra neutron
 
 ![](Pics/2H.jpg)
 
@@ -26,9 +26,11 @@ However, with enough time ahead, these clouds, also known as nebulae, acquire ma
 
 120,000,000,000,000,000,000,000,000,000,000,000 kg
 
-these clouds start to collapse, to concentrate, due to gravity, and get more and more dense, and therefore with a higher temperature and a higer speed between atoms. With more time, Hydrogen atoms start to get too close to each other so that the inner force that ties together protons and neutrons is greater than their natural repulsion force. They surrender, and nuclei start to crash to each other. Usually, an atom of deuterium crashes into an atom of tritium, which is known as fusion, and, as a result, they recombine as an atom of Helium and a loss of one proton.
+these molecular clouds are actually very massive and, when their mass exceeds a certain threshold known as the Jeans mass, they become certainly instable and any perturbation in the gravitational field, like a close supernova's shock wave, might lead them to collapse, to concentrate, due to the gravity perturbation, and get more and more dense, and therefore with a higher temperature and a higer speed between atoms. The temperature is so high that the atoms loose all their electrons (emitting light in this loss) in a process known as ionization and only the nuclei remain.
 
-![](Pics/Fusion.jpg) 
+With more time, the cloud will continue heating up until some Hydrogen nuclei start to get too close to each other so that they break the natural repulsion force between nuclei and crash to each other. In its simplest form, one nucleum of deuterium crashes into one nucleum of tritium, which is known as fusion, and, as a result, they recombine as an inoized nucleum of Helium and an additional loss of one proton.
+
+![](Pics/Fusion-ion.jpg) 
 
 Or, due to he high density of matter in this gravitational collapse, other chains of nuclear reactions might also happen, like the proton-proton-chain
 
