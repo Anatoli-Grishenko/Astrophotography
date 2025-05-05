@@ -7,6 +7,10 @@ The Rosette Nebula (also known as Caldwell 49) is an H II region located near on
 [![](..//Imaging//Common/Wikipedia.png) Read more](https://en.wikipedia.org/wiki/Rosette_Nebula)
 ## Plate solving 
 
+
+![IMG](..//Imaging//HD/Rosette_Nebula_Annotated.jpg)
+
+
 | Globe | Close | Very close |
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Rosette_Nebula_Globe.jpg) |![IMG](..//Imaging//HD/Rosette_Nebula_Close.jpg) |![IMG](..//Imaging//HD/Rosette_Nebula_Closer.jpg) |
