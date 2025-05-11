@@ -5,6 +5,10 @@ IC 443 (also known as the Jellyfish Nebula and Sharpless 248 (Sh2-248)) is a gal
 [![](..//Imaging//Common/Wikipedia.png) Read more](https://en.wikipedia.org/wiki/IC_443)
 ## Plate solving 
 
+
+![IMG](..//Imaging//HD/Jellyfish_Nebula_Annotated.jpg)
+
+
 | Globe | Close | Very close |
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Jellyfish_Nebula_Globe.jpg) |![IMG](..//Imaging//HD/Jellyfish_Nebula_Close.jpg) |![IMG](..//Imaging//HD/Jellyfish_Nebula_Closer.jpg) |

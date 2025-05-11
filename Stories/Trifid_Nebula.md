@@ -20,3 +20,5 @@ The Trifid Nebula (catalogued as Messier 20 or M20 and as NGC 6514) is an H II r
 
 ![IMG](..//Imaging//HD/Trifid_Nebula+01+co.jpg) 
 
+![IMG](..//Imaging//HD/Trifid_Nebula+02+co.jpg) 
+
