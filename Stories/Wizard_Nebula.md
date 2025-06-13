@@ -23,3 +23,4 @@ NGC 7380 is a young[4] open cluster of stars in the northern circumpolar constel
 
 ![IMG](..//Imaging//HD/Wizard_Nebula+03+co.jpg) 
 
+![](..//Imaging//HD/Wizard_Nebula+00+bg.jpg)
