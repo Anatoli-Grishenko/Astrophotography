@@ -6,6 +6,7 @@ This is a repository of the astrophotoraphy activity of the author. It aims at s
    - [Relativity (II)](./Stories/Relativity_II.md)
    - [About Chaos](./Stories/About_Chaos.md)
    - [About Stars](./Stories/Stars.md)
+   - [Mirror, mirror](./Stories/Mirror_mirror.md)
    
 
 - Reports
