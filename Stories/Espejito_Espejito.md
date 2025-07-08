@@ -46,7 +46,7 @@ Si hubiera alguna noticia, lo que fuera, verían en España a un pintor sevillan
 
 ## Alguien que vivió en [Casiopea](./Ghost_Of_Cassiopeia.md), a unos 550 años luz de distancia
 
-Si alguna forma de vida hubiera vivido alrededor de la estrella Gamma Casiopea, en medio de la [Nebulosa Fantasma](./Ghost_Nebula.md), y nos hubiera observado con algún tipo de artefacto capaz de capturar la luz visible, habría visto a la misma pareja, pero viviendo en algún punto entre el Gótico y el Renacimiento temprano.
+Si alguna forma de vida hubiera vivido alrededor de la estrella Gamma Casiopea, en medio de la [Nebulosa Fantasma](./Ghost_Of_Cassiopeia.md), y nos hubiera observado con algún tipo de artefacto capaz de capturar la luz visible, habría visto a la misma pareja, pero viviendo en algún punto entre el Gótico y el Renacimiento temprano.
 
 ![](./Pics/550ys.jpg)
 
@@ -80,7 +80,7 @@ Y finalmente, nuestra última parada será llegar a nuestra galaxia más cercana
 
 ## Una forma de vida en la muy cercana galaxia [Andrómeda](Andromeda_Galaxy.md)
 
-Todas las formas de vida de esta galaxia, ubicada a solo 2,7 años luz de la Tierra, acaban de recibir esta imagen de su EAT, su Telescopio Extraandromediano, y todos los científicos andromedianos se apresurarán a anunciar que tenían razón: encontraron vida en un planeta remoto y soñoliento que orbita alrededor de una estrella diminuta y sin sentido.
+Todas las formas de vida de esta galaxia, ubicada a solo 2,7 millones de años luz de la Tierra, acaban de recibir esta imagen de su EAT, su Telescopio Extraandromediano, y todos los científicos andromedianos se apresurarán a anunciar que tenían razón: encontraron vida en un planeta remoto y soñoliento que orbita alrededor de una estrella diminuta y sin sentido.
 
 ![](./Pics/3Mys.jpg)
 

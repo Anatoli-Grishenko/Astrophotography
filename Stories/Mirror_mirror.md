@@ -48,7 +48,7 @@ If there were some news-whatever, they would see in Spain a painter in Seville, 
 
 ## Someone who lived in Cassiopeia about 550 light years away
 
-If some life form had lived around the star gamma-Cassiopeia, in the middle of the [Ghost Nebula](./Ghost_Nebula.md) and looked at us with some kind of artifact able to capture visible light, it would see the same couple, but living somewhere between the Gothic or early Renaissance.
+If some life form had lived around the star gamma-Cassiopeia, in the middle of the [Ghost Nebula](./Ghost_Of_Cassiopeia.md) and looked at us with some kind of artifact able to capture visible light, it would see the same couple, but living somewhere between the Gothic or early Renaissance.
 
 ![](./Pics/550ys.jpg)
 
@@ -84,7 +84,7 @@ And finally, oyr last stop will reach our closest galaxy.
 
 ## A form of life in the very very close [Andromeda](Andromeda_Galaxy.md) galaxy
 
-All of the life forms of this galaxy, located only 2.7 lightyears from earth, have just recieved, right now, this picture from their EAT, their Extra-Andromedian Telescope, and all of the Andromedian scientists will eagerly rush to annouce that they were right, they found life in a remote, sleepy, planet orbiting around a meaningless, tiny star. 
+All of the life forms of this galaxy, located only 2.7 millions lightyears from earth, have just recieved, right now, this picture from their EAT, their Extra-Andromedian Telescope, and all of the Andromedian scientists will eagerly rush to annouce that they were right, they found life in a remote, sleepy, planet orbiting around a meaningless, tiny star. 
 
 ![](./Pics/3Mys.jpg)
 
