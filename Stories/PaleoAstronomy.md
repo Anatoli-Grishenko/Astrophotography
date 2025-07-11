@@ -10,40 +10,83 @@ Starry nights have always captured our attention either by romanticysm, science,
 *All the images have beem extracted from Wikipedia*
 
 
-## (A) 25,000 years ago: Paleolitic age
+## 25,000 years ago: Paleolitic age, Europe
 
 ![](./Pics/Blanchard.jpg)
 Source [Wikipedia](https://en.m.wikipedia.org/wiki/File:Blanchard_plaque.jpg)
 
-This is the Blanchard plaque, a simple, flat stone, with some carvings on it, found in the [Cave of Aurignac](https://en.m.wikipedia.org/wiki/Aurignacian). Although there is no consensus about the meaning of this stone, it strongly remembers of a [solar analema](https://en.wikipedia.org/wiki/Analemma) which is a drawing of the position of the sun, during a whole year, taken exactly at the same time and in the same place:
+This is the Blanchard plaque, a simple, flat stone, with some carvings on it, found in the [Cave of Aurignac](https://en.m.wikipedia.org/wiki/Aurignacian). It dates back to upper Paleolithic age. Although there is no consensus about the meaning of this stone, it strongly remembers of a [solar analema](https://en.wikipedia.org/wiki/Analemma) which is a drawing of the position of the sun, during a whole year, taken exactly at the same time and in the same place:
 
 ![](./Pics/analema.jpg)
 Source [Wikipedia](https://en.wikipedia.org/wiki/Analemma)
 
 It might be, very likely, a trial of solar analema o a lunar analema. This would mean that 25,000 years ago, there were already members of a cromagnon humanoid tribe looking at the night sky, during very long periods of time, may be years, with the sole purpose of understanding what they see, looking for repetitive patterns, and they tried to transmit this knowledge discovered to further individuals by carving their observations on a flat stone. Simply wonderful.
 
-## 3,100 years B.C. (late Neolitic age)
+## 3,100 years B.C., late Neolitic age, United Kingdom
 
 ![](./Pics/Stonehenge.jpg)
 Source [Wikipedia](https://en.m.wikipedia.org/wiki/Stonehenge)
 
-If you are reading this, I am almost certain that you also recognize this picture. This is a megalithic structure known as Stonehenge was initiially built as a cemetry.	But it is more than that.
+If you are reading this, I am almost certain that you also recognize this picture. This is a megalithic structure known as Stonehenge monument was initiially built as a cemetry.	But it is more than that.
 
 - The main central circle is exactly aligned with the summer solstice
 - The winter solstice is exactly alligned with some of the rocks. 
-- Other rocks are placed exactly at the moon rising a setting points during the year. 
+- Other rocks are placed exactly at the moon rising and setting points during the year. 
 - Other four rocks, situated in the extreme rising and setting points of the moon, mark the arrival of each of the seassons.
 
 
-## 3,000 years B.C (Egypt)
+## 3,000 years B.C., Egypt, Africa
 
 The ancient [Egyptian Calendar](https://en.wikipedia.org/wiki/Egyptian_calendar) is a solar calendar whihc describes a year made up of exactly 365 days, divided into three seassons, with references to the sun, the moon and several known stars. Although they are not known to have created specific star maps, many references may be found in the hieroglyphs. 
 
-![](./Pics/Egypt.jpg)
-Image source [Wikipedia]()
+![](./Pics/Egypt.jpg)![](./Pics/Sopdet.jpg)
+Image source [Wikipedia](https://en.wikipedia.org/wiki/Sopdet)
 
 - They named our Polaris star, as "the star that cannot perish", the star that is fixed in its celestial place and do not dissapear under the horizon
-- The Godess Sopdet makes reference to the star [Sirius](./Sirius_Star.md). The rising of this star over their horizon always precedes the flooding of the river Nile and its influence i
+- The [Godess Sopdet](https://en.wikipedia.org/wiki/Sopdet)
+ makes reference to the star [Sirius](./Sirius_Star.md) represented in hieroglyphs as a circle with a point in its center. The rising of this star over their horizon always precedes the flooding of the river Nile and its influence in agricultural seasson.
+ 
+## 1,500 B.C., Polynesia, Pacific Ocean
+
+![](./Pics/Polynesia.jpg) Image Source [Wikipedia](https://en.wikipedia.org/wiki/Polynesian_navigation)
+
+Polynesia is an area of the Pacific Ocean composed of +1,000 islands inhabited by many different tribes, but sharing the same language and culture. In order to connect these miriads of islands, Polynesians were great sailors, and without any doubt, they used the stars, and many other signs of nature, to find their way along massive oceanic areas. 	In particular, the picture above is a star compass with references to Polaris (Wuliwulifasmughet), [Vega](./Vega_Star.md) (Murn) or the [Pleiades](./Pleiades_Star_Cluster.md) (Marigaht)
+
+## 1,000 B.C., The Maya, Central America
+
+![](./Pics/Maya.jpg) Image Source [Wikipedia](https://en.wikipedia.org/wiki/Maya_civilization#Astronomy)
+
+The Mayas were a precolombian flourishing civilizacion	 and great astronomers. They even had people specifically devoted to observe the stars, like the one in the picture above. They measured the 584 days cycle of Venus with an error of just two hours. This was their equivalent to a year. It could seem a little odd count, but 5 Maya years are exactly the length of 8 western years.		
+
+## 1,000 B.C., Mesopotamia, Iraq, Asia
+
+![](./Pics/Mesopotamia.jpg) ![](./Pics/Mesopotamia2.jpg) Image Source [Wikipedia](https://en.wikipedia.org/wiki/Maya_civilization#Astronomy)
+
+Mesopotamic civilizacion was also a very relevant one, with high influence in western Europe. It was located between the rives Tigris and Eufrates, the actual Iraq, and they were great astronomers and matematicians. The picture above to the left, is the Venus table of Ammisaduqa, a cuneiform writting into clay that describe their knowledge of Venus **as a planet** and, in general of other planets. This knowledge requires a very deep understanding of the skies to be able to distinguish planet from background stars. The picture to the right is the Mul.Apin, a compendium of astronomy and astrology with references to [Arcturus](./Arcturus_Star.md), [Sirius](./Sirius_Star.md) or the [Pleiades](./Pleiades_Cluster.md) and many of the known constellations like Taurus, Orion, Perseus or Leo, among many others, and even more, they also developed an heliocentrical model of the Universe, way before Galileo's.
+
+## 550 B.C., Persian Empire, Iran, Asia
+
+![](./Pics/Persia.jpg) Image Source [Wikipedia](https://en.wikipedia.org/wiki/Maya_civilization#Astronomy)
+
+Persian civilization and culture is one of the major milestones in human history, with **urban** settlements dating back to 5,000 B.C. They excel in mathematics, logics, medicine, science and philosophy and, of course they were also great astronomers, and they have very accurate knowledge about [Aldebaran](./Aldebaran_Star.md) (known as Tascheter), [Regulus](./Regulus_Star.md) (known as Venant), [Antares](./Antares_Star.md) (known as Satevis) and Fomahault (known as Haftorang). These four stars where known as the *Royal Stars* or watcher of the four cardinal directions.
+
+## 300 B.C., Ancient Greece, Europe
+
+![](./Pics/Perseus.jpg) Image source Wikipedia
+
+What to say about the advancement of the culture during the classic Greek period. Many of the current branches of knowledge where shaped in that period. Regarding astronomy, the most significant outcome was the treaty *Phenomena* (Φαινόμενα) which focused mainly of a deep knowledge about all the constellations that we know nowadays, with their original names forged in Greek, which had a considerable later influence on the great matematician, astronomer and geographer, Hipparcus, who ended up by setting the foundations of what is trigonometry today. The picture above shows a drawing of Perseus, really close to what is considered to be these days. These greek advancements, with strong roots in Mesopotamian science, would be a cornerstone for one of the brightest and magnificent milestones in all human history: the library of Alexandria
+
+## 270 B.C., Alexandria, Egypt, Africa
+
+![](./Pics/Alexandria.jpg)
+
+There is not enough space in a million books to describe the never seen before amount of the advancement knowledge stored and produced in Alexandria. It is in vane, trying to cite these here.
+
+
+
+	
+
+ 
 
    
 
