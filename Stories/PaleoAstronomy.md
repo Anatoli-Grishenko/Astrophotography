@@ -80,7 +80,24 @@ What to say about the advancement of the culture during the classic Greek period
 
 ![](./Pics/Alexandria.jpg)
 
-There is not enough space in a million books to describe the never seen before amount of the advancement knowledge stored and produced in Alexandria. It is in vane, trying to cite these here.
+There is not enough space in a million books to describe the never seen before advancement of knowledge stored and produced in Alexandria. It is in vane, trying to cite these here. But let us higlight two of them. One of them was [Eratostenes](https://en.wikipedia.org/wiki/Eratosthenes),  a matematician, geographer, astronomer and poet, who was in charge of the Library of Alexandria. He was the first person kown, right about 200 B.C., to measure the circunference of the Earth, just by using a stick and measuring the length of trhe stick and the length of shadow cast by the stick exactly the same day, but in different positions of the earth. He concluded that this is 40,000km. It actuwally is 40,075km, amazing. The full story can be read in Sagan's [Cosmos](https://www.google.es/books/edition/Cosmos/cDKODQAAQBAJ?hl=es). This place, a few centuries later, framed Ptolemy's treatises about astronomy like [Almagest](https://en.wikipedia.org/wiki/Almagest), probably the first star map in history. Other traty, [Planisphaerium](https://en.wikipedia.org/wiki/Planisphaerium), literally, "star chart" about the mathematic  relation betwwen a tridimensional spheric map like that of the stars, and its circular proyection in a bidimensional map. Both traties were, perhaps, the most influential publications in the histoy of mathematics and astronomy.
+
+
+## 200 B.C., China, Asia
+
+![](./Pics/China.jpg) Image Source Wikipedia
+
+The observation of stars in China dates back to 1,200 B.C., where simbol of stars where found engraved in bones used by an oracle, but the first written reference dates about 200 B.C. It is the [Dunhuang map](https://en.wikipedia.org/wiki/Dunhuang_Star_Chart) with +1,300 stars recorded and 257 constellations, very different than those of the western world, more influenced by Mesopotamia and Persia. Chinese astronomy divides the sky into 28 mansions, according to the path of the moon. Although it is recognized its use in navigation, it is rather residual with respect to other cultures. Chinese civilizations used the stars to measure time, specially in agriculture.
+
+
+## 800 A.C.,  Al Andalus, Spain, Europe
+
+
+![](./Pics/Astrolabe.jpg)
+
+After the destruction of the Library of Alexandria, most of the precedent knowledge about astronomy was simply gone. However, the golden age of Islam, and the evolution of Al-Andalus in Spain, with great advancements in mathematics and science, allowed the recuperation of part of this knowledge about astronomy, mainly Ptolemy,  like the instrument named [astrolabe](https://en.wikipedia.org/wiki/Astrolabe), an analog calculator of astronomy, initially related with Hipparcus and Ptolemy, was reintroduced in Europe through Al-Andalus. Then, by the 1,000 A.C., right before the Catholic Kings recovered Toledo, several matematicians and astronomers created the Toledan Tables, a compendium of knwoledge about the sun, the moon, and planets. While Europe was walking into dark ages, the islamic world flourished in many aspect of science and philosophy, and there were very influential astronomy schools in Damascus, Bagdad, El Cairo and Córdoba. Indeed, most of the names of star nowadays, like [Aldebaran](./Aldebaran_Star.md), [Vega](./Vega_Star.md), [Betelgeuse](./Betelgeuse_Star.md) have arabic roots and their current names are just trasliteratoins of their original arabic names.
+
+
 
 
 
