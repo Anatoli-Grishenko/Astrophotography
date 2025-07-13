@@ -1,3 +1,6 @@
+(Leer en [Español](./PaloAstronomia.md))
+
+
 ## Paleo-Astronomy
 
 ![](./Pics/StarryNight_VVG.jpg)
@@ -97,6 +100,32 @@ The observation of stars in China dates back to 1,200 B.C., where simbol of star
 
 After the destruction of the Library of Alexandria, most of the precedent knowledge about astronomy was simply gone. However, the golden age of Islam, and the evolution of Al-Andalus in Spain, with great advancements in mathematics and science, allowed the recuperation of part of this knowledge about astronomy, mainly Ptolemy,  like the instrument named [astrolabe](https://en.wikipedia.org/wiki/Astrolabe), an analog calculator of astronomy, initially related with Hipparcus and Ptolemy, was reintroduced in Europe through Al-Andalus. Then, by the 1,000 A.C., right before the Catholic Kings recovered Toledo, several matematicians and astronomers created the [Toledan Tables](https://en.wikipedia.org/wiki/Toledan_Tables), a compendium of knwoledge about the sun, the moon, and planets. While Europe was walking into dark ages, the islamic world flourished in many aspect of science and philosophy, and there were very influential astronomy schools in Damascus, Bagdad, El Cairo and Córdoba. Indeed, most of the names of star nowadays, like [Aldebaran](./Aldebaran_Star.md), [Vega](./Vega_Star.md), [Betelgeuse](./Betelgeuse_Star.md) have arabic roots and their current names are just trasliteratoins of their original arabic names.
 
+
+## 1,250 A.C., Maori tribe, New Zealand
+
+![](./Pics/Matariki.jpg) Image source Wikipedia
+
+The [Maori Culture](https://en.wikipedia.org/wiki/M%C4%81ori_culture) has always been linked to astronomy, not only for sailing the ocean, but also to agriculture and religion. Even the [Pleiades](./Pleiades_Cluster.md) known as [Matariki](https://en.wikipedia.org/wiki/Matariki) is an astronomy event which marks the Maori's new year. The picture above shows Matariki in a piece of aborigen artwork.
+
+## 1,400 A.C., Inca culture, Perú, Southamerica
+
+![](./Pics/Intiwatana.jpg) Image source Wikipedia
+
+The Inca culture build ont the most important milestones of human civilization and one of the most important astroarcheaology sits in the world: the [Machu-Pichu](https://en.wikipedia.org/wiki/Machu_Picchu). One onf the most intriguing objects of this culture is [Intihuatana](https://en.wikipedia.org/wiki/Intihuatana,_Urubamba), the picture above, posibly a sundial, aligned with the winter solstice was built in 1450 
+
+
+## 16th and 17th Century, Europe
+
+Back in the apogeum of scientific, philosophic, artistic and culutural in Europe, the 16th century is a key milestone to the creation of what astronomy is today, with very relevant figures as [Nicolaus Copernicus](https://en.wikipedia.org/wiki/Nicolaus_Copernicus), who influenced the briliant Danish astronomer [Tycho Brae](https://en.wikipedia.org/wiki/Tycho_Brahe) who also influenced the seminar work of [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) one of the most influencial astronomer of all ages, together with [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) or, formerly, but not least [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei). This poker of scientist simple defined what astronomy is today,  while they waited for [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) to add a new and spicy taste.
+
+Even as of the time of writing this (July 2025), there are even in AliExpress, instruments invented by them which still bear their names, like this Newtonian Reflector Telescope.
+
+![](./Pics/Newtonian.jpg) 
+
+
+## Concluding remarks
+
+After reading all this, each time that you look to the stars up above and seek those extremely beautiful stars like [Antares](./Antares_Star.md) or [Vega](./Vega_Star.md) you will be connected to those ancient persas who already used them to navigate the desert overnight. If you want, this is like a new Silk Route, but instead of traveling the space from Europe to the wonders of the Chinese Empire, it travels through time, from thousand of years before, to you and then to the wonders of a future still to be born, all of us looking at the same tiny point of light of the night sky.
 
 
 
