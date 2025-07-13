@@ -9,7 +9,7 @@ This is a repository of the astrophotoraphy activity of the author. It aims at s
    - [About the death of Stars](./Stories/The_Death_of_Stars.md)
    - [Mirror, mirror](./Stories/Mirror_mirror.md)
    - [Let us be humble](./Stories/Humble.md)
-   - [Paleo-Astronomy](./PaleoAstronomy.md)
+   - [Paleo-Astronomy](./Stories/PaleoAstronomy.md)
 
 - Reports
    - [My own, dear, Astropedia](./Stories/Astropedia.md) A series of writings, thoughts and whatever, about astrophotography.
