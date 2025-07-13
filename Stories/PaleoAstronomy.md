@@ -1,4 +1,4 @@
-(Leer en [Español](./PaloAstronomia.md))
+(Leer en [Español](./PaleoAstronomia.md))
 
 
 ## Paleo-Astronomy
