@@ -10,6 +10,7 @@ This is a repository of the astrophotoraphy activity of the author. It aims at s
    - [Mirror, mirror](./Stories/Mirror_mirror.md)
    - [Let us be humble](./Stories/Humble.md)
    - [Paleo-Astronomy](./Stories/PaleoAstronomy.md)
+   - [Nebulae](./Stories/Nebulae.md)
 
 - Reports
    - [My own, dear, Astropedia](./Stories/Astropedia.md) A series of writings, thoughts and whatever, about astrophotography.
