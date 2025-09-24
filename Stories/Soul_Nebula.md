@@ -19,4 +19,6 @@ Westerhout 5 (Sharpless 2-199, LBN 667, Soul Nebula) is an emission nebula locat
 
 ![IMG](..//Imaging//HD/Soul_Nebula+01+co.jpg) 
 
+![IMG](..//Imaging//HD/Soul_Nebula+02+co.jpg) 
+
 ![](..//Imaging//HD/Soul_Nebula+00+bg.jpg)

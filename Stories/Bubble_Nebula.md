@@ -25,4 +25,8 @@ NGC 7635, also known as the Bubble Nebula, Sharpless 162, or Caldwell 11, is an 
 
 ![IMG](..//Imaging//HD/Bubble_Nebula+04+co.jpg) 
 
+![IMG](..//Imaging//HD/Bubble_Nebula+05+co.jpg) 
+
+![IMG](..//Imaging//HD/Bubble_Nebula+06+co.jpg) 
+
 ![](..//Imaging//HD/Bubble_Nebula+00+bg.jpg)

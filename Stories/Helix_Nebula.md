@@ -21,4 +21,6 @@ The Helix Nebula (also known as NGC 7293 or Caldwell 63) is a planetary nebula (
 
 ![IMG](..//Imaging//HD/Helix_Nebula+03+co.jpg) 
 
+![IMG](..//Imaging//HD/Helix_Nebula+04+co.jpg) 
+
 ![](..//Imaging//HD/Helix_Nebula+00+bg.jpg)
