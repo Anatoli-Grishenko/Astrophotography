@@ -21,3 +21,10 @@ Gamma Cygni is a star in the northern constellation of Cygnus, forming the inter
 
 ![IMG](..//Imaging//HD/Sadr_Star+01+co.jpg) 
 
+![IMG](..//Imaging//HD/Sadr_Star+02+co.jpg) 
+
+![IMG](..//Imaging//HD/Sadr_Star+03+co.jpg) 
+
+![IMG](..//Imaging//HD/Sadr_Star+04+co.jpg) 
+
+![](..//Imaging//HD/Sadr_Star+00+bg.jpg)
