@@ -19,3 +19,5 @@ Sirius is the brightest star in the night sky. Its name is derived from the Gree
 
 ![IMG](..//Imaging//HD/Sirius_Star+01+co.jpg) 
 
+![IMG](..//Imaging//HD/Sirius_Star+02+co.jpg) 
+
