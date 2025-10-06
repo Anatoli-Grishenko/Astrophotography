@@ -23,4 +23,6 @@ The Dumbbell Nebula (also known as the Apple Core Nebula, Messier 27, and NGC 68
 
 ![IMG](..//Imaging//HD/Dumbbell_Nebula+03+co.jpg) 
 
+![IMG](..//Imaging//HD/Dumbbell_Nebula+04+co.jpg) 
+
 ![](..//Imaging//HD/Dumbbell_Nebula+00+bg.jpg)
