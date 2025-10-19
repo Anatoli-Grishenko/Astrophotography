@@ -23,4 +23,6 @@ Sh 2-185 is an H II region centered on the massive star system Gamma Cassiopeiae
 
 ![IMG](..//Imaging//HD/Ghost_Of_Cassiopeia+03+co.jpg) 
 
+![IMG](..//Imaging//HD/Ghost_Of_Cassiopeia+04+co.jpg) 
+
 ![](..//Imaging//HD/Ghost_Of_Cassiopeia+00+bg.jpg)

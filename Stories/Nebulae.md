@@ -59,64 +59,24 @@ The short answer is that nebulae are clouds of gas that glow, within the space b
 
 ### Why do nebulae glow?
 
-These regions are very dense clouds of gas and dust, bearing in mind that they are even less dense than any of the vacuums produced by mankind on earth. This means about 104 molecules in every cubic centimeter. These clouds are also very cold, like 10-20º K. They don’t glow by themselves, but by means of the interaction with stars nearby, they do glow, but for different reasons.
+These regions are very dense clouds of gas and dust, bearing in mind that they are even less dense than any of the vacuums produced by mankind on earth. This means about 104 molecules in every cubic centimeter. These clouds are also very cold, like 10-20º K. They don’t glow by themselves, but by means of the interaction with stars nearby, they do glow, but for different reasons and different types of interaction wih the stars in the vicinity.
 
-### Reflection nebulae
-
-This is the simplest form of glowing. These molecular clouds, which sourrounds stars, glow because they simply reflect the light coming from stars in the neighborhood. Examples are [Running Man Nebula](./Running_Man_Nebula.md) or [Orion Nebula](./Orion_Nebula.md)
-
-![](../Imaging/HD/Running_Man_Nebula+00+co.jpg)
-
-### Dark nebulae
-
-These are cold clouds of gas and stellar dust that cast other glowing regions and produce a sort of shadow that hides the light behind. Examples are the [Horse Head Nebula](Horse_Head_Nebula.md)
- or the [Flame Nebula](./Flame_Nebula.md)
- 
-![](../Imaging/HD/Horse_Head_Nebula+00+co.jpg)
-
-An special case of dark nebulae are Bok Globules, a cloud of molecular Hydrogen, diferent Carbon oxydes and Helium like in the [Pacman Nebula](./Pacman_Nebula.md)
-
-![](./Pics/Bok1.jpg)
-
-or the [Rosette Nebula](./Rosette_Nebula.md)
-
-![](./Pics/Bok2.jpg)
+* Nebulae that produce light or **emision nebulae**
+    * [Star nurseries](./Star_Nurseries.md). These are places where new born stars produce high energy that ionizes the cloud around it
+    * [Planetary nebulae](./Planetary_Nebulae.md). These are the result of a small star implosion
+    * [Supernova remnants](./SNR.md). These are the result of  large stars explosion
+* Nebulae that block the light
+    * [Dark nebulae](./Dark_Nebulae.md). They are dense dust clouds that do not allow the light to go through them
+* Nebulae that do not produce light
+    * [Reflection nebulae](./Reflection_Nebulae.md). These are clouds of dust and gas that, although they are not ionized, they simply reflect the light of stars.
 
 
 
 
-### Emision nebulae
-
-These are, perhaps the most known nebulae. They emit their own light because the molecular cloud is ionized due to several other causes.
-
-#### Star nurseries
-
-When a [new star is born](./The_Birth_of_Stars.md) it produces very strong ultraviolet radiation which ionizes the cloud of gas around the star, making it to glow. Like the [Lagoon Nebula](./Lagoon_Nebula.md) or the [Rosette Nebula](./Rosette_Nebula.md). These regions also contain many more baby stars which, all together, produce a huge ionization in the molecular cloud around them. These are known as **HII regions** and contain even hundreds of baby stars. Since most of the sourrounding gas happens to be Hydrogen, then the photons have a very accurate wavelength of 656.3 nm., This is known as **H-alpha** radiation and it is the most common radiation of the known nebulae and gives them the typical reddish color.
-
-![](../Imaging/HD/Lagoon_Nebula+00+co.jpg)
-
-![](../Imaging/HD/Rosette_Nebula+00+co.jpg)
-
-#### Supernova remnants
-
-When a [giant star dies](./Stories/The_Death_of_Stars.md) it produces a supernova, a huge explosion which wipes out the surrounding gas cloud and produces both thermal and inonized glowing in a giant shock wave like in the [Veil Nebula](./Veil_Nebula.md)
-
-![](../Imaging/HD/Veil_Nebula+01+co.jpg)
-
-![](../Imaging/HD/Veil_Nebula+02+co.jpg)
-
-![](../Imaging/HD/Jellyfish_Nebula+00+bg.jpg)
 
 
-#### Planetary nebulae
 
-When a [small star dies](./Stories/The_Death_of_Stars.md) it produces a dwarf star and an ejection ring of ionized material, gas rich in metals, Oxygen, Nytrogen and Sulfur, producing many different wavelengths. This is the case of [Dumbell Nebula](./Dumbell_Nebula.md) or the [Helix Nebula](./Helix_Nebula.md)
 
-![](../Imaging/HD/Dumbbell_Nebula+00+co.jpg)
-
-![](../Imaging/HD/Helix_Nebula+00+co.jpg)
-
-Of course, they have nothing to do with planets, but at the early years of astronomy observation, their rounded shape made them appear like planets.
 
 
 
