@@ -2,7 +2,7 @@
 
 # Star nurseries
 
-When a [new star is born](./The_Birth_of_Stars.md) it produces very strong ultraviolet radiation which ionizes the cloud of gas around the star, making it to glow. Like the [Lagoon Nebula](./Lagoon_Nebula.md) or the [Rosette Nebula](./Rosette_Nebula.md). 
+Star nurseries are complex clouds of gas and dust within which there are many young, but very hot, baby stars are being born, and many others are preparing to be born. When a [new star is born](./The_Birth_of_Stars.md) it produces very strong ultraviolet radiation which ionizes the cloud of gas around the star, making it to glow. Like the [Lagoon Nebula](./Lagoon_Nebula.md) or the [Rosette Nebula](./Rosette_Nebula.md). 
 
 These regions also contain many baby stars which, all together, produce a huge ionization in the molecular cloud around them. These zones are known as **HII regions** and contain even hundreds of baby stars. Since most of the sourrounding gas happens to be Hydrogen, then the photons have a very accurate wavelength of 656.3 nm., This is known as **H-alpha** radiation and it is the most common radiation of the known nebulae and gives them the typical reddish color. 
 
@@ -19,14 +19,16 @@ These emision nebulae might also glow in some other colours depending on the che
 
 ## Intense red H-alpha
 
-[California Nebula](./California_Nebula.md)
+[Orion Nebula](./Orion_Nebula.md)
 
-![](./Pics/California.jpg)
+![](./Pics/Orion.jpg)
 
-![](../Imaging/HD/California_Nebula_Annotated.jpg)
+![](../Imaging/HD/Orion_Nebula_Annotated.jpg)
 
+Orion Nebula is one of the largest, most complex and scrutinized region of the northern skies within  the Orion constelation. In particular, it has been found that around 700 young stars have been tracked in the whole nebula, particularly at its core. It is a very large patch of around 2 times the visual surface of the full moon, clearly visible to the naked eye.
 
-In this case, the super energetic star to the right, Menkib, in the constellation of Perseus, with 30 times the mass of our sun and 35.000ºK of surface temperature, ionizes a cloud of pure hydrogen and bends it due to its strong stellar winds.
+![](./Pics/OrionCore.jpg)
+
 
 [Lagoon Nebula](./Lagoon_Nebula.md)
 
@@ -47,6 +49,19 @@ The magnificent structure of this nebula is produced by both, a strong young sta
 
 In this case, the whole nebula is carved by the strong stellar winds of a cluster of stars named IC1848, a cluster of very young stars, only 1 million years old, literally baby stars, with a temperature ranging between 30.000ºk and 50.000ºK, whose massive power ionizes not only hydrogen but also Sulfur and Oxygen.
 
+[Eagle Nebula](./Eagle_Nebula.md)
+
+![](./Pics/Eagle.jpg)
+
+![](../Imaging/HD/Eagle_Nebula_Annotated.jpg)
+
+Ths iconic nebula, is carved by a powerful cluster of youg stars named IC4703, composed of 8.000+ young stars  around a central star, named HD 168076, like a million times brighter than our sun, and an effective temperature of 40.000ºK. The Eagle Nebula, a.k.a. Messier 16, is the host of one of the most  popular images of the Hubble telescope: [The Pillars of Creation](https://en.wikipedia.org/wiki/Pillars_of_Creation)
+
+![](./Pics/Pillars.jpg)
+
+![](./Pics/Pillars2.jpg)Image source: [Wikipedia](https://en.wikipedia.org/wiki/Pillars_of_Creation)
+
+Massive columns of gas and dust that are in the process of creating a new star, thus, they are known as protostars.
 
 ## Blue oxygen
 

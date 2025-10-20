@@ -62,7 +62,8 @@ The short answer is that nebulae are clouds of gas that glow, within the space b
 These regions are very dense clouds of gas and dust, bearing in mind that they are even less dense than any of the vacuums produced by mankind on earth. This means about 104 molecules in every cubic centimeter. These clouds are also very cold, like 10-20º K. They don’t glow by themselves, but by means of the interaction with stars nearby, they do glow, but for different reasons and different types of interaction wih the stars in the vicinity.
 
 * Nebulae that produce light or **emision nebulae**
-    * [Star nurseries](./Star_Nurseries.md). These are places where new born stars produce high energy that ionizes the cloud around it
+    * [Star nurseries](./Star_Nurseries.md). These are places where many new born stars produce high energy that ionizes the cloud around it
+    * [Wolf-Rayet nebulae](./Wolf_Rayet_nebulae.md). These nebulosities are produced by just a single, incredibly energetic star, carving the cloud  around it.
     * [Planetary nebulae](./Planetary_Nebulae.md). These are the result of a small star implosion
     * [Supernova remnants](./SNR.md). These are the result of  large stars explosion
 * Nebulae that block the light

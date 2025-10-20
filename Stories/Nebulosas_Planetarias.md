@@ -1,8 +1,8 @@
 (Read in [English](./Planetary_Nebulae.md))
 
-## Nebulosas planetarias
+# Nebulosas planetarias
 
-Cuando una [pequeña estrella muere](./Stories/The_Death_of_Stars.md), con una masa entre 1 y 8 veces la de nuestro sol, produce una estrella enana y un anillo de eyección de material ionizado, gas rico en metales, oxígeno, nitrógeno y azufre, que produce muchas longitudes de onda diferentes. Este es el caso de la [Nebulosa Dumbell](./Dumbell_Nebula.md) o la [Nebulosa Helix](./Helix_Nebula.md).
+Cuando una [pequeña estrella muere](./Stories/The_Death_of_Stars.md), entre 1 y 8 veces la masa de nuestro sol, produce una estrella enana y un anillo de eyección de material ionizado, gas rico en metales, oxígeno, nitrógeno y azufre, que produce muchas longitudes de onda diferentes. Este es el caso de la [Nebulosa Dumbell](./Dumbell_Nebula.md) o la [Nebulosa Helix](./Helix_Nebula.md)
 
 Por supuesto, no tienen nada que ver con los planetas, pero en los primeros años de la observación astronómica, su forma redondeada hacía que parecieran planetas. Aunque hoy en día las observaciones de estos cuerpos son mucho más precisas y se sabe que no son planetas, se ha mantenido su denominación original.
 
@@ -20,14 +20,9 @@ En mi modesta opinión, estas nebulosas son de gran belleza y muy coloridas, y p
 
 ![](./Pics/Helix.jpg)
 
-la [Nebulosa Crescent](./Crescent_Nebula.md)
-
-![](./Pics/Crescent.jpg)
-
-o la [Nebulosa Bubble](./Bubble_Nebula.md)
-
-![](./Pics/Bubble.jpg)
 
 
 
-Traducción realizada con la versión gratuita del traductor DeepL.com
+
+
+

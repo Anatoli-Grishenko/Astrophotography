@@ -19,4 +19,6 @@ IC 2118 (also known as Witch Head Nebula due to its shape) is an extremely faint
 
 ![IMG](..//Imaging//HD/Witch_Head_Nebula+01+co.jpg) 
 
+![IMG](..//Imaging//HD/Witch_Head_Nebula+02+co.jpg) 
+
 ![](..//Imaging//HD/Witch_Head_Nebula+00+bg.jpg)

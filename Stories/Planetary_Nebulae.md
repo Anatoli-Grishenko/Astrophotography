@@ -2,7 +2,7 @@
 
 ## Planetary nebulae
 
-When a [small star dies](./Stories/The_Death_of_Stars.md), between 1 and 8 times the mass of oour sun, it produces a dwarf star and an ejection ring of ionized material, gas rich in metals, Oxygen, Nytrogen and Sulfur, producing many different wavelengths. This is the case of [Dumbell Nebula](./Dumbell_Nebula.md) or the [Helix Nebula](./Helix_Nebula.md)
+When a [small star dies](./Stories/The_Death_of_Stars.md), between 1 and 8 times the mass of our sun, it produces a dwarf star and an ejection ring of ionized material, gas rich in metals, Oxygen, Nytrogen and Sulfur, producing many different wavelengths. This is the case of [Dumbell Nebula](./Dumbell_Nebula.md) or the [Helix Nebula](./Helix_Nebula.md)
 
 Of course, they have nothing to do with planets, but at the early years of astronomy observation, their rounded shape made them appear like planets. Though nowadays the obsertvations of these bodies is much more accurate and they are known not to be planets, its original nomination has been kept.
 
@@ -12,21 +12,13 @@ The first Planetary Nebula was discovered  around the middle of the 18th century
 
 ![](./Pics/Dumbbell.jpg)
 
-whose centra dwarf star is clearly visible
+whose central dwarf star is clearly visible
 
 ![](./Pics/Dumbbell-dwarf.jpg)
 
 In my modest opinion, these nebulae are of great beauty and very colorful and produce some of the most beautiful and enigmatic images of skies, like the [Helix Nebula](./Helix_Nebula.md)
 
 ![](./Pics/Helix.jpg)
-
-the [Crescent Nebula](./Crescent_Nebula.md)
-
-![](./Pics/Crescent.jpg)
-
-or the [Bubble Nebula](./Bubble_Nebula.md)
-
-![](./Pics/Bubble.jpg)
 
 
 
