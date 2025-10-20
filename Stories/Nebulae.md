@@ -63,7 +63,7 @@ These regions are very dense clouds of gas and dust, bearing in mind that they a
 
 * Nebulae that produce light or **emision nebulae**
     * [Star nurseries](./Star_Nurseries.md). These are places where many new born stars produce high energy that ionizes the cloud around it
-    * [Wolf-Rayet nebulae](./Wolf_Rayet_nebulae.md). These nebulosities are produced by just a single, incredibly energetic star, carving the cloud  around it.
+    * [Wolf-Rayet nebulae](./Wolf_Rayet_Nebulae.md). These nebulosities are produced by just a single, incredibly energetic star, carving the cloud  around it.
     * [Planetary nebulae](./Planetary_Nebulae.md). These are the result of a small star implosion
     * [Supernova remnants](./SNR.md). These are the result of  large stars explosion
 * Nebulae that block the light
