@@ -12,7 +12,7 @@ NGC 4567 and NGC 4568 (nicknamed the Butterfly Galaxies[4] or Siamese Twins[NB 1
 
 | Globe | Close | Very close |
 | ----- | ----- | ----- |
-
+|![IMG](..//Imaging//HD/Butterfly_Galaxies_Globe.jpg) |![IMG](..//Imaging//HD/Butterfly_Galaxies_Close.jpg) |![IMG](..//Imaging//HD/Butterfly_Galaxies_Closer.jpg) |
 
 ## Gallery
 ![IMG](..//Imaging//HD/Butterfly_Galaxies+00+co.jpg) 

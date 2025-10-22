@@ -12,7 +12,7 @@ Fomalhaut (UK: /ˈfɒməloʊt/, US: /ˈfoʊməlhɔːt/[11]) is the brightest sta
 
 | Globe | Close | Very close |
 | ----- | ----- | ----- |
-
+|![IMG](..//Imaging//HD/Fomalhaut_Star_Globe.jpg) |![IMG](..//Imaging//HD/Fomalhaut_Star_Close.jpg) |![IMG](..//Imaging//HD/Fomalhaut_Star_Closer.jpg) |
 
 ## Gallery
 ![IMG](..//Imaging//HD/Fomalhaut_Star+00+co.jpg) 

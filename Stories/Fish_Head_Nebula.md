@@ -12,7 +12,7 @@ The Fish Head Nebula, or the Northern Bear Nebula, is part of a large star formi
 
 | Globe | Close | Very close |
 | ----- | ----- | ----- |
-
+|![IMG](..//Imaging//HD/Fish_Head_Nebula_Globe.jpg) |![IMG](..//Imaging//HD/Fish_Head_Nebula_Close.jpg) |![IMG](..//Imaging//HD/Fish_Head_Nebula_Closer.jpg) |
 
 ## Gallery
 ![IMG](..//Imaging//HD/Fish_Head_Nebula+00+co.jpg) 
