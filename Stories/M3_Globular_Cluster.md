@@ -19,3 +19,5 @@ It was discovered on May 3, 1764,[10] and was the first Messier object to be dis
 
 ![IMG](..//Imaging//HD/M3_Globular_Cluster+01+co.jpg) 
 
+![IMG](..//Imaging//HD/M3_Globular_Cluster+02+co.jpg) 
+
