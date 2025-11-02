@@ -6,6 +6,10 @@ The Double Cluster (also known as Caldwell 14) consists of the open clusters NGC
 [![](..//Imaging//Common/Wikipedia.png) Read more](https://en.wikipedia.org/wiki/Double_Cluster)
 ## Plate solving 
 
+
+![IMG](..//Imaging//HD/Chi_Persei_Cluster_Annotated.jpg)
+
+
 | Globe | Close | Very close |
 | ----- | ----- | ----- |
 

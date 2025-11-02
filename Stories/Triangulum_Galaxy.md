@@ -25,4 +25,6 @@ The Triangulum Galaxy is a spiral galaxy 2.73 million light-years (ly) from Eart
 
 ![IMG](..//Imaging//HD/Triangulum_Galaxy+04+co.jpg) 
 
+![IMG](..//Imaging//HD/Triangulum_Galaxy+05+co.jpg) 
+
 ![](..//Imaging//HD/Triangulum_Galaxy+00+bg.jpg)
