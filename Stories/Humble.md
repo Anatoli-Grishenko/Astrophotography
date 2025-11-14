@@ -51,9 +51,11 @@ So, I am not so sure that human being, homo sapiens, could have ruled anything b
 
 This is only taking into account the very existence of our planet, during 4,450 million years. But ther are other forces, other scenarios, other stories during the 13,800 million years of history of the universe. Yes, we are no more than a "pale blue dot" within the vast universe. To be more precise, if the whole universe could be crushed, packed, zipped, into an sphere like the earth, with barely 13,000 km of diameter, the the human kind "is ruling" an area equivalent to the size of a bacteria like E. Coli.
 
-Not bad. But only during the last second of the life of earth. Great.
+Not bad. But only during the last second of the life of earth. Great. Really furstrating, isn't it? Just look at this
 
-Come on boy! what are we really talking about? As Carl Sagan said: "[All this] underscores our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot, the only home we've ever known."
+![](./Pics/this-is-us.jpg)
+
+This is our galaxy, the Milky way. The light takes 100,000 years to go from the left side to the right side. Our Sun and our Earth are located in a tiny spot in no-mans land, indeed it is not a real "arm" of the spiral, but a "pseudo-arm". The white circle is, more or less, 200 light years of radius from earth. Further than this distance, probably, nobody knows anything about us, since no radio signal has been emitted from earth 200 years ago. Just the light. Andromeda, our closest galaxy, is just 2.5 million years away from us. And the spot "MoM-z14" is, to date, the farthest known galaxy, about 290 million light years from earth. Just do the maths. We are not so important as we believe we are, not in our life time, not it the cosmic space, not from our "achievements" in this planet, not only as the dominant species nowadays, but also as human beings. I profoundly think that we sould be way more humble.
 
 
 

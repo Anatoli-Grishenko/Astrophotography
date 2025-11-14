@@ -51,6 +51,12 @@ Por lo tanto, no estoy tan seguro de que el ser humano, el homo sapiens, haya po
 
 Esto solo tiene en cuenta la existencia misma de nuestro planeta, durante 4450 millones de años. Pero hay otras fuerzas, otros escenarios, otras historias durante los 13 800 millones de años de historia del universo. Sí, no somos más que un «pálido punto azul» dentro del vasto universo. Para ser más precisos, si todo el universo pudiera ser aplastado, comprimido y comprimido en una esfera como la Tierra, con apenas 13 000 km de diámetro, la humanidad «gobernaría» un área equivalente al tamaño de una bacteria como la E. coli.
 
-No está mal. Pero solo durante el último segundo de la vida de la Tierra. Genial.
+No está mal. Pero solo durante el último segundo de la vida de la Tierra. Genial. Es realmente frustrante, ¿verdad? ¡Solo hay que ver esto
 
-¡Vamos, chico! ¿De qué estamos hablando realmente? Como dijo Carl Sagan: «[Todo esto] subraya nuestra responsabilidad de tratarnos con más amabilidad unos a otros y de preservar y apreciar el pálido punto azul, el único hogar que hemos conocido».
+![](./Pics/this-is-us.jpg)
+
+Esta es nuestra galaxia, la Vía Láctea. La luz tarda 100 000 años en ir del lado izquierdo al derecho. Nuestro Sol y nuestra Tierra se encuentran en un pequeño punto en tierra de nadie, de hecho no es un «brazo» real de la espiral, sino un «pseudobrazo». El círculo blanco tiene, más o menos, 200 años luz de radio desde la Tierra. Más allá de esta distancia, probablemente nadie sabe nada de nosotros, ya que hace 200 años que no se emite ninguna señal de radio desde la Tierra. Solo la luz. Andrómeda, nuestra galaxia más cercana, está a solo 2,5 millones de años de distancia. Y el punto «MoM-z14» es, hasta la fecha, la galaxia más lejana que se conoce, a unos 290 millones de años luz de la Tierra. Solo hay que hacer los cálculos.  No somos tan importantes como creemos, ni en nuestra vida, ni en el espacio cósmico, ni por nuestros «logros» en este planeta, ni solo como especie dominante en la actualidad, sino también como seres humanos. Creo profundamente que deberíamos ser mucho más humildes.
+
+
+Traducción realizada con la versión gratuita del traductor DeepL.com
+
