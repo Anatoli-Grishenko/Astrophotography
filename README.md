@@ -11,6 +11,7 @@ This is a repository of the astrophotoraphy activity of the author. It aims at s
    - [Let us be humble](./Stories/Humble.md)
    - [Paleo-Astronomy](./Stories/PaleoAstronomy.md)
    - [Nebulae](./Stories/Nebulae.md)
+   - [The lost names of stars](./Stories/The_Lost_Names_of_Stars.md) (this is just a preliminary draft)
 
 - Reports
    - [My own, dear, Astropedia](./Stories/Astropedia.md) A series of writings, thoughts and whatever, about astrophotography.

@@ -89,7 +89,8 @@ All of the life forms of this galaxy, located only 2.7 millions lightyears from 
 ![](./Pics/3Mys.jpg)
 
 
-However they found a prehistoric and wild, form of life, and most of the Andromedian Scientific Leaders firmly believe that this species is too little developed and that, as of today, they are not expected to be concerned with the universe, and that, at most, they consider that their star is actually a form of God with many superpowers. After a very thorough meeting of the Andromedian Scientific Council, they sadly conclude that they don't expect that even in the coming 1000 years this terrestrial form of life will be able to observe and understand the basic laws of the universe. Really furstrating, isn't it?
+However they found a prehistoric and wild, form of life, and most of the Andromedian Scientific Leaders firmly believe that this species is too little developed and that, as of today, they are not expected to be concerned with the universe, and that, at most, they consider that their star is actually a form of God with many superpowers. After a very thorough meeting of the Andromedian Scientific Council, they sadly conclude that they don't expect that even in the coming 1000 years this terrestrial form of life will be able to observe and understand the basic laws of the universe. 
+
 
 
 
