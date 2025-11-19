@@ -95,7 +95,31 @@ After that, when Alexander the Great conquered the Persian Empire (4th Century B
 
 ![](./Pics/Alexandria.jpg)
 
-There, [Hipparcus](https://en.wikipedia.org/wiki/Hipparchus) (2nd century B.C) and his collaborators blended the advances of the greek knowledge about geometry with the astronomic knowledge of Baylon and Persia, producing quantitatively accurate models of the motion of the Sun and the Moon and many books on this subject that influenced [Ptolemy](https://en.wikipedia.org/wiki/Ptolemy) and his [Almagest](https://en.wikipedia.org/wiki/Almagest) in the 2nd century A.D. All this knowledge was simply gone after the destruction of Alexandria and will not appear again until the 9th century of our era, where the
+There, [Hipparcus](https://en.wikipedia.org/wiki/Hipparchus) (2nd century B.C) and his collaborators blended the advances of the greek knowledge about geometry with the astronomic knowledge of Baylon and Persia, producing quantitatively accurate models of the motion of the Sun and the Moon and many books on this subject that largely influenced [Ptolemy](https://en.wikipedia.org/wiki/Ptolemy) and his [Almagest](https://en.wikipedia.org/wiki/Almagest) in the 2nd century A.D. All this knowledge was simply gone after the destruction of Alexandria and will not appear again until, at least, the 9th century of our era, where the flourishing islamic world exploded in arts, science and astronomy and many ancient books where recovered, translated and studied, amongst other, The Almagest. Only some copies of Almagest where recovered and one of them reached the Persian astronomer [Abd al-Rahman al-Sufi](https://en.wikipedia.org/wiki/Abd_al-Rahman_al-Sufi) (Azophi) who lived in the 9th century in the beautiful Persian city of [Shiraz](https://en.wikipedia.org/wiki/Shiraz) and translated the ancient lost Helenic knnowledge of Ptolemy, and blended it with the extensive arabic astronomic traditions, based on the constellations. He wrote the famous [Book of Fixed Stars](https://en.wikipedia.org/wiki/The_Book_of_Fixed_Stars) كتاب صور الكواكب kitāb suwar al-kawākib, an updated compilation of all the knowledge about astronomy
+
+![](./Pics/AlSufi.jpg)
+Constellation of Saggitarius as it appears in the book of fixed stars.
+
+Al Sufi compiled the 1022 stars found by Ptolemy and gave them arabic names (like [Deneb](./Deneb_Star.md) or [Rigel](./Rigel_Star.md), most of which have reached our times, through a large journey from Persia to Al Andalus. Indeed, many copies of the Book of Fixed Stars and other translations of ALmagest could be easily found during the 10th and 11th centuries, and where essential in the most advanced intelectual center of the world those days: The Caliphat of Cordoba, where all this knoledge where further studied and enhanced. The analogical astronomic calculator known as [Astrolabe](https://en.wikipedia.org/wiki/Astrolabe) was a prominent fruit of all this effort.
+
+
+![](./Pics/Astrolabe.jpg)
+
+During that period, Islamic scholars worked on old designs from Hipparcus and Ptolemy, lost as of today, added their angular knowledge and produced the design that has arrived to us nowadays. The first known metal Astrolabe was built in the 11th century in Portugal. Furthermore, the knowledge from the book of fixed stars, reached the famous astronomer and matematician [Al-Zarqali](https://en.wikipedia.org/wiki/Al-Zarqali) who lived in Toledo, while this city was still part of Alandalus. There, Al-Zarqali wrote the [Toledan Tables](https://en.wikipedia.org/wiki/Toledan_Tables) as a new compendium of astronomical knowledge which had a very short life since shortly after, the city was reconquered by the Catholic Monarcs of Spain in 1080.
+
+![](./Pics/RRCC.jpg)
+
+Under the rule of the christian monarcs, Toledo became a modern hub of translators of all the knowledge inherited from the Islamic world of Al Andalus. They found the Toledan Tables, corrected its numerous erros, and re-wrote them in Spanish and Latin, and produce the newly refurbished and extended [Alphonsine Tables](https://en.wikipedia.org/wiki/Alfonsine_tables) named after the Spanish King Alphonse X. The first copies known of the Alphonsine Tables dated back to 1483 and 1492 and, through the vast Spanish Empire those days, the Alphonsine Tables became the most famous and accurate treaty of astronomy all along the Renaissance of Europe. Indeed, a copy of  the second edition reached a young matematician and astronomer named [Nicolaus Copernicus](https://en.wikipedia.org/wiki/Nicolaus_Copernicus)
+
+![](./Pics/Coppernicus.jpg)
+
+Who, based on many ancient books and, mainly, the second edition of the Alphonsine Tables, Copernicus wrote the absolute masterpiece of modern astronomy: [De revolutionibus orbium coelestium](https://en.wikipedia.org/wiki/De_revolutionibus_orbium_coelestium) a very modern and scientific model of the universe which, from now on, abandoned the geocentric model of Hipparcus and Ptolemy in favor of a new Heliocentric model. This spark ignited a huge fire that reaches us, through a modern journey through Galileo, Tycho Brahe, Keppler, Newton and Einstein. The models of Newton and Einstein are our current models, the Newtonian is 100% valid for small, and slow worlds, but does not apply well to large,faster worlds (close to the speed of light) and that of Einstein is right the opposite, 100% valid in large and faster worlds, but fails in small, slower worlds. And this is the end of our journey, from old kingdoms between the Tigris and Euphrates river, thousand of years B.C. to our very own days.
+
+![](./Pics/Galileo.jpg) ![](./Pics/TychoBrahe.jpg)![](./Pics/Keppler.jpg)![](./Pics/newton.jpg)![](./Pics/Einstein.jpg)
+
+
+
+
 
 
 
