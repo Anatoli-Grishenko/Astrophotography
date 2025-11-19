@@ -2,13 +2,17 @@
 
 (Preliminary **DRAFT**) 
 
-Most of the stars known today have a name in any of the many catalogues of clestial bodies like HD 8890, HR 424, SAO 308, HIP 11767, or TYC 4628-237-1. Names, indeed, very little romantic for a couple in love during a summer night. However, many of them, the most brightful ones, have other "more natural names" easier to remember. All of the names before refer to the same star, a very relevant star for astrophotographers, mainly those (almost all) with an equatorial mount. This particular star was named, since the middle ages, as "stella polaris" due be the fact that it was commonly used to point to the north terrestrial pole. We know it as Polaris. Way easier to remember. 
+Most of the stars known today have a name in any of the many catalogues of clestial bodies like HD 8890, HR 424, SAO 308, HIP 11767, or TYC 4628-237-1. Names, indeed, very little romantic for a couple in love during a summer night. However, many of them, the most brightful ones, have other "more natural names" easier to remember. All of the names cited before refer to the same star, a very relevant star for astrophotographers, mainly those (almost all) with an equatorial mount. This particular star was named, since the middle ages, as "stella polaris" due be the fact that it was commonly used to point to the north terrestrial pole. We know it as Polaris. Way easier to remember. 
 
-However there are other relevant stars that were very well knonwn in ancient times, as old as 3.000 years B.C., named [Sopdet](https://en.wikipedia.org/wiki/Sopdet) for the Egyptians, [𒀯𒆕𒋛𒁲(KAK.SI.SÁ)](https://xing.fmi.uni-jena.de/mediawiki/index.php/KAK.SI.SA2) for the Sumerians in Babylon, or [Tishtrya](https://www.iranicaonline.org/articles/tistrya-2/) for the Persians, or Σείριος (Seirios) for the greeks or [Sirius](./Sirius_Star.md) in modern astronomy, the brightest star in the sky. 
+However there are other relevant stars that were very well knonwn in ancient times, like this one
+
 
 ![](../Imaging/HD/Sirius_Star+00+co.jpg)
 
-Although these two stars have greek or latin names many of these ancient stars have arabic names like the poetic name given to the beautiful [Vega](./Vega_Star.md), known as "Wega" or "Waqi": النّسر الْواقع (an-nasr al-wāqi'), literally, "the eagle that falls from the sky". Due to bad translations along the history, some of them have reached us just as bad transliteratoins of the original ones.
+
+It was named, as old as 3.000 years B.C., [Sopdet](https://en.wikipedia.org/wiki/Sopdet) for the Egyptians, [𒀯𒆕𒋛𒁲(KAK.SI.SÁ)](https://xing.fmi.uni-jena.de/mediawiki/index.php/KAK.SI.SA2) for the Sumerians in Babylon, or [Tishtrya](https://www.iranicaonline.org/articles/tistrya-2/) for the Persians, or Σείριος (Seirios) for the greeks or [Sirius](./Sirius_Star.md) in modern astronomy, the brightest star in the sky. 
+
+Although these two stars have greek or latin names many of these ancient stars have arabic names like the poetic name given to the beautiful [Vega](./Vega_Star.md), known as "Wega" or "Waqi": النّسر الْواقع (an-nasr al-wāqi'), literally, "the eagle that falls from the sky". Due to bad translations along the history, some of them have reached us just as bad transliterations of the original ones.
 
 ## Stars with arcaic names
 
@@ -41,9 +45,9 @@ These are some of the most well known stars in the northern skies used by astrop
 |Spica|a |a |
 |Vega|a |a |
 
-## The long journey: Babylon, Persia, Greece, Al-Andalus, Europe
+## The long journey from Babylon, Persia, Greece, Al-Andalus to Europe
 
-The names of the stars, and other celestial bodies, date back to several thousand years B.C., almost simultaneously in civilizations like the Mayas and Babylon, although only the last one, in Mesopotamia (actual Irak), had influence in Ptolemy, with his [Almagest](https://en.wikipedia.org/wiki/Almagest), and then to Europe (after several centuries) and then to modern astronomy.
+The names of the stars, and other celestial bodies, date back to several thousand years B.C., almost simultaneously in two civilizations like the Mayas and Babylon, although only the last one, in Mesopotamia (actual Irak), had influence in Ptolemy, with his [Almagest](https://en.wikipedia.org/wiki/Almagest), and then to Europe (after several centuries) and then to modern astronomy.
 
 Sumerians (2,000 B.C.) studied the night skies not as a vision of the universe, not even for orientation, but for predicting the future, as omens, for the sake of the families who ruled their kingdom. Just as superstition or as timed event that predicted the arrival of seassons. 
 
@@ -53,14 +57,13 @@ One of these first observations is the path followed by the sun, the moon and ot
 
 ![](./Pics/Enlil.jpg) 
 
+The strength of Enlil was associated to the observations of Jupiter, as the most powerful light in the night sky, who followed the same path than the Sun. The Babylon God Enlil was adopted as Baal for the phoenicians, who devoted a mountain (Baal Zephon) and a temple for his worship near Beirut (Lebanon). This mountain is recorded the Book of Exodus in the Bible: "Now the Lord spoke to Moses, saying, "Tell the sons of Israel to turn back and camp before Pi-hahiroth, between Migdol and the sea; you shall camp in front of Baal-zephon, opposite it, by the sea" Exodus:14-4 Nowadays, this very same location, known as Baalbek, ([lit. town of Baal](https://archive.org/stream/historybaalbek00alou/historybaalbek00alou_djvu.txt)) hosts the remainings of a Roman Temple devoted to ... of course a [Temple devoted to Jupiter](https://en.wikipedia.org/wiki/Temple_of_Jupiter_(Baalbek)).
 
-The strength of Enlil was associated to the observations of Jupiter, as the most powerful light in the night sky, who followed the same path than the Sun. The Babylon God Enlil was adopted as Baal for the phoenicians, who devoted a mountain (Ball Zephon) and a temple for his worship near Beirut (Lebanon). This mountain is recorded the Book of Exodus in the Bible: "Now the Lord spoke to Moses, saying, "Tell the sons of Israel to turn back and camp before Pi-hahiroth, between Migdol and the sea; you shall camp in front of Baal-zephon, opposite it, by the sea" Exodus:14-4 Nowadays, this very same location hosts the remainings of a Roman Temple devoted to ... of course a [Temple devoted to Jupiter](https://en.wikipedia.org/wiki/Temple_of_Jupiter_(Baalbek)).
-
-Indeed Babylonians already knew the God Sin, associated to the Moon, also followed that very same path.
+Indeed Babylonians already knew that their God Sin, associated to the Moon, also followed that very same path.
 
 ![](./Pics/Sin.jpg) 
 
- Or the [Table of Ammisaduqa](https://en.wikipedia.org/wiki/Venus_tablet_of_Ammisaduqa) that describes the full astronomical record of the positions of Venus, which, interestingly, happens in similar dates, with the same target (Venus) right at the other side of the Earth, in central America during the [Maya civilization](./PaleoAstronomy.md).  The Babylonian God associated with Venus was the head of all the Gods, Ishtar. The following carving shows Ishtar (left) with Sin (center) and Shamash (right) the God associated to the Sun.
+Or the [Table of Ammisaduqa](https://en.wikipedia.org/wiki/Venus_tablet_of_Ammisaduqa) that describes the full astronomical record of the positions of Venus, which, interestingly, happens in similar dates, with the same target (Venus) right at the other side of the Earth, in central America during the [Maya civilization](./PaleoAstronomy.md).  The Babylonian God associated with Venus was the head of all the Gods, Ishtar. The following carving shows Ishtar (left) with Sin (center) and Shamash (right) the God associated to the Sun.
  
 ![](./Pics/Ishtar.jpg) 
  
@@ -68,10 +71,11 @@ In summary, this celestial path is no other than the [Ecliptic](https://en.wikip
 
 ![](./Pics/Ecliptic2.jpg)
  
- Indeed, the babylonians used a system known as "The 36 stars" a division of the full sky into 36 areas, each of 10º of size, hence their name as "The Decans".
+Indeed, the babylonians used a system known as "The 36 stars" a division of the full sky into 36 areas, each of 10º of size, hence their name as ["The Decans"](https://en.wikipedia.org/wiki/Decan).
 
 ![](./Pics/Ecliptic3.jpg)
-Another summerian table, in cuneiform writing, the [Mul.Apin (𒀯𒀳)](https://en.wikipedia.org/wiki/MUL.APIN) also described the orbits of the remaining planets known: Mercury, Venus, Mars, Jupiter and Saturn. In order to recognize the patterns of stars along the ecliptic,  these 36 regions where grouped into 12 clusters of stars by assigning them supposed shapes and missions so they were more easily remembered and recognizable. The very 12 signs of the Zodiac which represent the path of Enlil (Jupiter) along the sky.
+
+Another summerian table, in cuneiform writing, the [Mul.Apin (𒀯𒀳)](https://en.wikipedia.org/wiki/MUL.APIN) also described the orbits of the remaining planets known: Mercury, Venus, Mars, Jupiter and Saturn. In order to recognize the patterns of stars along the ecliptic,  these 36 regions where grouped into 12 clusters of stars by assigning them supposed shapes and missions so they were more easily remembered and recognizable. These are the very 12 signs of the Zodiac which represent the path of Enlil (Jupiter) along the sky.
 
 ![](./Pics/Ecliptic4.jpg)
 
@@ -79,11 +83,19 @@ And, in the centuries to come, many more regions with supposed shapes too, were 
 
 ![](./Pics/Ecliptic5.jpg)
 
-These treaties must be considered very carefully, since, although they are dated several thousand years back, they show the first systematization of the skies, with a profound knowledge of the difference between stars and planets, precursor of later stellar maps and tables, with a huge influence on later studies on astronomy. 
+These treaties must be considered very carefully, since, although they are dated several thousand years back, they show the first systematization of the skies, with a profound knowledge of the difference between stars and planets, precursor of later stellar maps and tables, with a huge influence on later studies on astronomy.  Indeed, the babylonian knowledge about the position and movement of celestial bodies was adopted by the Persian empire when the Persian King Cirus the Great conquered Babylon (6th century B.C.) 
 
-Indeed, the babylonian knowledge about the position and movement of celestial bodies was adopted by the Persian empire when the Persian King Ciro the Great conquered Babylon. Indeed, the Persians used four of these stars to signal the fourth cardinal points during their nightly travels through the dessert. These [four stars](./PaleoAstronomy.md) where known as [Haftorang](https://www.iranicaonline.org/articles/haftorang/?highlight=haftorang) ([Arcturus](./Arcturus_Star.md)), Venant ([Regulus](./Regulus_Star.md)), Satevis ([Antares](./Antares_Star.md)) and Tascheter ([Aldebaran](./Aldebaran_Star.md)) 
+![](./Pics/CirusTheGreat.jpg)
 
+The Persians and blended and enriched that knowledge with [Persian Zoroastrian Cosmology](https://en.wikipedia.org/wiki/Zoroastrian_cosmology)  and they used four of these stars to signal the fourth cardinal points during their nightly travels through the dessert. These [Royal four stars](./PaleoAstronomy.md), or the fourth Watchers of the Sky, where known as [Haftorang](https://www.iranicaonline.org/articles/haftorang/?highlight=haftorang) ([Arcturus](./Arcturus_Star.md), although the lack of accurate annotatios make this star to  be assigned very often to Fomalhaut. However, after reading many books and crossed references, I have found that Haftorang relates to North, but fomalhaut is a southern star. Even more, the name Haftorang translates as the [watcher of the bear](https://www.iranicaonline.org/articles/haftorang/?highlight=haftorang). If we take into account that Arcturus is geometrically positioned as a straight elongation of Ursa Maior and, henceforth it is considered "something" around the bear, it seems to me more believable that Haftorang refers to Arcturus), Venant ([Regulus](./Regulus_Star.md)), Satevis ([Antares](./Antares_Star.md)) and Tascheter ([Aldebaran](./Aldebaran_Star.md)) 
 
+![](./Pics/AlexanderTheGreat.jpg)
+
+After that, when Alexander the Great conquered the Persian Empire (4th Century B.C.), this knowledge about the celestial bodies reached the Helenic world and was a subject of study in the Library of Alexandria, 
+
+![](./Pics/Alexandria.jpg)
+
+There, [Hipparcus](https://en.wikipedia.org/wiki/Hipparchus) (2nd century B.C) and his collaborators blended the advances of the greek knowledge about geometry with the astronomic knowledge of Baylon and Persia, producing quantitatively accurate models of the motion of the Sun and the Moon and many books on this subject that influenced [Ptolemy](https://en.wikipedia.org/wiki/Ptolemy) and his [Almagest](https://en.wikipedia.org/wiki/Almagest) in the 2nd century A.D. All this knowledge was simply gone after the destruction of Alexandria and will not appear again until the 9th century of our era, where the
 
 
 
