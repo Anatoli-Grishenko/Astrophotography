@@ -18,3 +18,5 @@ This is a repository of the astrophotoraphy activity of the author. It aims at s
    - [The colours of the Universe](./Stories/Colors.md) Removing the stars from the pictures imaged, unveals the colorful, delightfully chaotic, brutal beauty of the Universe. 
    - [Textures of the Universe](./Stories/Textures.md) Furthermore, if we remove colors, we could wonder of the massive, inner structures of these objects.
 
+- External albums
+   - [AstroSmartphone](https://photos.app.goo.gl/e3dtkTdnCPhRKmvW8) My best pictures in vertical snapshot format like a smartphone. Each one contains a QR code recognizable by Google Lens that redirects to my Astropedia
