@@ -1,4 +1,4 @@
-This is a repository of the astrophotoraphy activity of the author. It aims at showcasing the differents points of views, perhaps technical information, and images that, for som reason, are worth to be remembered. Most of the references are based on Wikipedia pages except those owned by the author. The final goal is simply enjoy the beauty of the universe that surrounds us and share this joy with whoever reaches this site.
+This is a repository of the astrophotoraphy activity of the author. It aims at showcasing the differents points of views, perhaps technical information, and images that, for som reason, are worth to be remembered. Most of the references are based on Wikipedia pages except those owned by the author. The final goal is simply enjoy the beauty of the universe that surrounds us and share this joy with whoever reaches this site. If you want to leave a comment or whatever, please feel free to use the [discussions page](https://github.com/Anatoli-Grishenko/Astrophotography/discussions)
 
 
 - Stories
