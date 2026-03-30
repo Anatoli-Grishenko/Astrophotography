@@ -11,7 +11,7 @@ However there are other relevant stars that were very well knonwn in ancient tim
 
 
 It was named, as old as 3.000 years B.C., [Sopdet](https://en.wikipedia.org/wiki/Sopdet) for the Egyptians, [𒀯𒆕𒋛𒁲(KAK.SI.SÁ)](https://xing.fmi.uni-jena.de/mediawiki/index.php/KAK.SI.SA2) for the Sumerians in Babylon, or [Tishtrya](https://www.iranicaonline.org/articles/tistrya-2/) for the Persians, or Σείριος (Seirios) for the greeks or [Sirius](./Sirius_Star.md) in modern astronomy, the brightest star in the sky. 
-
+	
 Although these two stars have greek or latin names many of these ancient stars have arabic names like the poetic name given to the beautiful [Vega](./Vega_Star.md), known as "Wega" or "Waqi": النّسر الْواقع (an-nasr al-wāqi'), literally, "the eagle that falls from the sky". Due to bad translations along the history, some of them have reached us just as bad transliterations of the original ones.
 
 ## Stars with arcaic names
