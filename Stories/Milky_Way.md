@@ -6,6 +6,10 @@ The Milky Way or Milky Way Galaxy[c] is the galaxy that includes the Solar Syste
 [![](..//Imaging//Common/Wikipedia.png) Read more](https://en.wikipedia.org/wiki/Milky_Way)
 ## Plate solving 
 
+
+![IMG](..//Imaging//HD/Milky_Way_Annotated.jpg)
+
+
 | Globe | Close | Very close |
 | ----- | ----- | ----- |
 
@@ -13,3 +17,10 @@ The Milky Way or Milky Way Galaxy[c] is the galaxy that includes the Solar Syste
 ## Gallery
 ![IMG](..//Imaging//HD/Milky_Way+00+co.jpg) 
 
+![IMG](..//Imaging//HD/Milky_Way+01+co.jpg) 
+
+![IMG](..//Imaging//HD/Milky_Way+02+co.jpg) 
+
+![IMG](..//Imaging//HD/Milky_Way+03+co.jpg) 
+
+![](..//Imaging//HD/Milky_Way+00+bg.jpg)
