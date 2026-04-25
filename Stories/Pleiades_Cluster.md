@@ -14,8 +14,15 @@ The Pleiades (/ˈpliː.ədiːz, ˈpleɪ-, ˈplaɪ-/),[8][9] also known as Seven 
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Pleiades_Cluster_Globe.jpg) |![IMG](..//Imaging//HD/Pleiades_Cluster_Close.jpg) |![IMG](..//Imaging//HD/Pleiades_Cluster_Closer.jpg) |
 
+## Details
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Pleiades_Cluster+BITE00+09+07.jpg" width="200"> | 07 ly |
+| |09 ly | |
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Pleiades_Cluster+00+co.jpg) 
-
-![IMG](..//Imaging//HD/Pleiades_Cluster+01+co.jpg) 
 

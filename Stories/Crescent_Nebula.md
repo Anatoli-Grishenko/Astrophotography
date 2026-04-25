@@ -14,12 +14,17 @@ The Crescent Nebula (also known as NGC 6888, Caldwell 27, Sharpless 105) is an e
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Crescent_Nebula_Globe.jpg) |![IMG](..//Imaging//HD/Crescent_Nebula_Close.jpg) |![IMG](..//Imaging//HD/Crescent_Nebula_Closer.jpg) |
 
+## Details
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Crescent_Nebula+BITE00+20+24.jpg" width="200"> | 24 ly |
+| |20 ly | |
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Crescent_Nebula+00+co.jpg) 
-
-![IMG](..//Imaging//HD/Crescent_Nebula+01+co.jpg) 
-
-![IMG](..//Imaging//HD/Crescent_Nebula+02+co.jpg) 
 
 ![IMG](..//Imaging//HD/Crescent_Nebula+03+co.jpg) 
 

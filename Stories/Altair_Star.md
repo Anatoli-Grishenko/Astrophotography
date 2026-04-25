@@ -14,6 +14,9 @@ Altair is the brightest star in the constellation of Aquila and the twelfth-brig
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Altair_Star_Globe.jpg) |![IMG](..//Imaging//HD/Altair_Star_Close.jpg) |![IMG](..//Imaging//HD/Altair_Star_Closer.jpg) |
 
+## Details
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Altair_Star+00+co.jpg) 
 

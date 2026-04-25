@@ -14,17 +14,44 @@ NGC 281, IC 11 or Sh2-184 is a bright emission nebula and part of an H II region
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Pacman_Nebula_Globe.jpg) |![IMG](..//Imaging//HD/Pacman_Nebula_Close.jpg) |![IMG](..//Imaging//HD/Pacman_Nebula_Closer.jpg) |
 
+## Details
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Pacman_Nebula+BITE00+112+104.jpg" width="200"> | 104 ly |
+| |112 ly | |
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Pacman_Nebula+BITE01+14+14.jpg" width="200"> | 14 ly |
+| |14 ly | |
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Pacman_Nebula+BITE01+16+16.jpg" width="200"> | 16 ly |
+| |16 ly | |
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Pacman_Nebula+BITE02+16+16.jpg" width="200"> | 16 ly |
+| |16 ly | |
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Pacman_Nebula+BITE03+35+42.jpg" width="200"> | 42 ly |
+| |35 ly | |
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Pacman_Nebula+00+co.jpg) 
 
 ![IMG](..//Imaging//HD/Pacman_Nebula+01+co.jpg) 
 
 ![IMG](..//Imaging//HD/Pacman_Nebula+02+co.jpg) 
-
-![IMG](..//Imaging//HD/Pacman_Nebula+03+co.jpg) 
-
-![IMG](..//Imaging//HD/Pacman_Nebula+04+co.jpg) 
-
-![IMG](..//Imaging//HD/Pacman_Nebula+05+co.jpg) 
 
 ![](..//Imaging//HD/Pacman_Nebula+00+bg.jpg)

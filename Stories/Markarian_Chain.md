@@ -14,11 +14,9 @@ Markarian's Chain is a stretch of galaxies that forms part of the Virgo Cluster.
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Markarian_Chain_Globe.jpg) |![IMG](..//Imaging//HD/Markarian_Chain_Close.jpg) |![IMG](..//Imaging//HD/Markarian_Chain_Closer.jpg) |
 
+## Details
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Markarian_Chain+00+co.jpg) 
 
-![IMG](..//Imaging//HD/Markarian_Chain+01+co.jpg) 
-
-![IMG](..//Imaging//HD/Markarian_Chain+02+co.jpg) 
-
-![](..//Imaging//HD/Markarian_Chain+00+bg.jpg)

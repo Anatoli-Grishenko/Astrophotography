@@ -14,10 +14,9 @@ Albireo /ælˈbɪrioʊ/[23] is a binary star designated Beta Cygni (β Cygni, ab
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Albireo_Double_Star_Globe.jpg) |![IMG](..//Imaging//HD/Albireo_Double_Star_Close.jpg) |![IMG](..//Imaging//HD/Albireo_Double_Star_Closer.jpg) |
 
+## Details
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Albireo_Double_Star+00+co.jpg) 
-
-![IMG](..//Imaging//HD/Albireo_Double_Star+01+co.jpg) 
-
-![IMG](..//Imaging//HD/Albireo_Double_Star+02+co.jpg) 
 

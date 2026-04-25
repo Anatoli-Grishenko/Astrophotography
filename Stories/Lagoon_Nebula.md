@@ -14,12 +14,41 @@ The Lagoon Nebula (catalogued as Messier 8 or M8, NGC 6523, Sharpless 25, RCW 14
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Lagoon_Nebula_Globe.jpg) |![IMG](..//Imaging//HD/Lagoon_Nebula_Close.jpg) |![IMG](..//Imaging//HD/Lagoon_Nebula_Closer.jpg) |
 
+## Details
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Lagoon_Nebula+BITE00+72+84.jpg" width="200"> | 84 ly |
+| |72 ly | |
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Lagoon_Nebula+BITE01+54+66.jpg" width="200"> | 66 ly |
+| |54 ly | |
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Lagoon_Nebula+BITE02+52+72.jpg" width="200"> | 72 ly |
+| |52 ly | |
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Lagoon_Nebula+BITE03+70+71.jpg" width="200"> | 71 ly |
+| |70 ly | |
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Lagoon_Nebula+BITE04+160+240.jpg" width="200"> | 240 ly |
+| |160 ly | |
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Lagoon_Nebula+00+co.jpg) 
-
-![IMG](..//Imaging//HD/Lagoon_Nebula+01+co.jpg) 
-
-![IMG](..//Imaging//HD/Lagoon_Nebula+02+co.jpg) 
 
 ![IMG](..//Imaging//HD/Lagoon_Nebula+03+co.jpg) 
 

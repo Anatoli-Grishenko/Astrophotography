@@ -14,6 +14,9 @@ Procyon (/ˈproʊsi.ɒn/)[17] is the brightest star in the constellation of Cani
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Procyon_Star_Globe.jpg) |![IMG](..//Imaging//HD/Procyon_Star_Close.jpg) |![IMG](..//Imaging//HD/Procyon_Star_Closer.jpg) |
 
+## Details
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Procyon_Star+00+co.jpg) 
 

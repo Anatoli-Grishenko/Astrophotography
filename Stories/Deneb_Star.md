@@ -16,6 +16,9 @@ Deneb (/ˈdɛnɛb/) is a blue supergiant star in the constellation of Cygnus. It
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Deneb_Star_Globe.jpg) |![IMG](..//Imaging//HD/Deneb_Star_Close.jpg) |![IMG](..//Imaging//HD/Deneb_Star_Closer.jpg) |
 
+## Details
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Deneb_Star+00+co.jpg) 
 

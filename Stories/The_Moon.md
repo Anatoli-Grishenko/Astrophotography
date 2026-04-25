@@ -10,6 +10,9 @@ The Moon is Earth's only natural satellite. It orbits at an average distance of 
 | ----- | ----- | ----- |
 
 
+## Details
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/The_Moon+00+co.jpg) 
 
@@ -20,6 +23,4 @@ The Moon is Earth's only natural satellite. It orbits at an average distance of 
 ![IMG](..//Imaging//HD/The_Moon+03+co.jpg) 
 
 ![IMG](..//Imaging//HD/The_Moon+04+co.jpg) 
-
-![IMG](..//Imaging//HD/The_Moon+05+co.jpg) 
 

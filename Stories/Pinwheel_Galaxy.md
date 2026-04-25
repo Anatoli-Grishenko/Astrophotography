@@ -14,21 +14,20 @@ The Pinwheel Galaxy (also known as Messier 101, M101 or NGC 5457) is a face-on, 
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Pinwheel_Galaxy_Globe.jpg) |![IMG](..//Imaging//HD/Pinwheel_Galaxy_Close.jpg) |![IMG](..//Imaging//HD/Pinwheel_Galaxy_Closer.jpg) |
 
+## Details
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Pinwheel_Galaxy+BITE00+127+117.jpg" width="200"> | 117 ly |
+| |127 ly | |
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Pinwheel_Galaxy+00+co.jpg) 
 
-![IMG](..//Imaging//HD/Pinwheel_Galaxy+010+co.jpg) 
-
-![IMG](..//Imaging//HD/Pinwheel_Galaxy+01+co.jpg) 
-
-![IMG](..//Imaging//HD/Pinwheel_Galaxy+02+co.jpg) 
-
 ![IMG](..//Imaging//HD/Pinwheel_Galaxy+03+co.jpg) 
 
-![IMG](..//Imaging//HD/Pinwheel_Galaxy+04+co.jpg) 
-
 ![IMG](..//Imaging//HD/Pinwheel_Galaxy+05+co.jpg) 
-
-![IMG](..//Imaging//HD/Pinwheel_Galaxy+06+co.jpg) 
 
 ![](..//Imaging//HD/Pinwheel_Galaxy+00+bg.jpg)

@@ -16,19 +16,36 @@ The Rosette Nebula (also known as Caldwell 49) is an H II region located near on
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Rosette_Nebula_Globe.jpg) |![IMG](..//Imaging//HD/Rosette_Nebula_Close.jpg) |![IMG](..//Imaging//HD/Rosette_Nebula_Closer.jpg) |
 
+## Details
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Rosette_Nebula+BITE00+111+116.jpg" width="200"> | 116 ly |
+| |111 ly | |
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Rosette_Nebula+BITE01+29+35.jpg" width="200"> | 35 ly |
+| |29 ly | |
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Rosette_Nebula+BITE02+24+22.jpg" width="200"> | 22 ly |
+| |24 ly | |
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Rosette_Nebula+BITE02+46+54.jpg" width="200"> | 54 ly |
+| |46 ly | |
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Rosette_Nebula+00+co.jpg) 
 
 ![IMG](..//Imaging//HD/Rosette_Nebula+01+co.jpg) 
-
-![IMG](..//Imaging//HD/Rosette_Nebula+02+co.jpg) 
-
-![IMG](..//Imaging//HD/Rosette_Nebula+03+co.jpg) 
-
-![IMG](..//Imaging//HD/Rosette_Nebula+04+co.jpg) 
-
-![IMG](..//Imaging//HD/Rosette_Nebula+05+co.jpg) 
-
-![IMG](..//Imaging//HD/Rosette_Nebula+06+co.jpg) 
 
 ![](..//Imaging//HD/Rosette_Nebula+00+bg.jpg)

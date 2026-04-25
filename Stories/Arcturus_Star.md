@@ -14,8 +14,9 @@ Arcturus is the brightest star in the northern constellation of Boötes. With an
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Arcturus_Star_Globe.jpg) |![IMG](..//Imaging//HD/Arcturus_Star_Close.jpg) |![IMG](..//Imaging//HD/Arcturus_Star_Closer.jpg) |
 
+## Details
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Arcturus_Star+00+co.jpg) 
-
-![IMG](..//Imaging//HD/Arcturus_Star+01+co.jpg) 
 

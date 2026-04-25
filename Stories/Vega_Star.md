@@ -14,8 +14,9 @@ Vega is the brightest star in the northern constellation of Lyra. It has the Bay
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Vega_Star_Globe.jpg) |![IMG](..//Imaging//HD/Vega_Star_Close.jpg) |![IMG](..//Imaging//HD/Vega_Star_Closer.jpg) |
 
+## Details
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Vega_Star+00+co.jpg) 
-
-![IMG](..//Imaging//HD/Vega_Star+01+co.jpg) 
 

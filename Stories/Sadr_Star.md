@@ -16,6 +16,27 @@ Gamma Cygni is a star in the northern constellation of Cygnus, forming the inter
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Sadr_Star_Globe.jpg) |![IMG](..//Imaging//HD/Sadr_Star_Close.jpg) |![IMG](..//Imaging//HD/Sadr_Star_Closer.jpg) |
 
+## Details
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Sadr_Star+BITE00+24+26.jpg" width="200"> | 26 ly |
+| |24 ly | |
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Sadr_Star+BITE01+21+38.jpg" width="200"> | 38 ly |
+| |21 ly | |
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Sadr_Star+BITE02+30+20.jpg" width="200"> | 20 ly |
+| |30 ly | |
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Sadr_Star+00+co.jpg) 
 
@@ -25,12 +46,10 @@ Gamma Cygni is a star in the northern constellation of Cygnus, forming the inter
 
 ![IMG](..//Imaging//HD/Sadr_Star+03+co.jpg) 
 
-![IMG](..//Imaging//HD/Sadr_Star+04+co.jpg) 
-
 ![IMG](..//Imaging//HD/Sadr_Star+05+co.jpg) 
 
-![IMG](..//Imaging//HD/Sadr_Star+06+co.jpg) 
-
 ![IMG](..//Imaging//HD/Sadr_Star+07+co.jpg) 
+
+![IMG](..//Imaging//HD/Sadr_Star+08+co.jpg) 
 
 ![](..//Imaging//HD/Sadr_Star+00+bg.jpg)

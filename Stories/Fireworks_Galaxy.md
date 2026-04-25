@@ -14,11 +14,16 @@ NGC 6946, sometimes referred to as the Fireworks Galaxy, is a face-on intermedia
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Fireworks_Galaxy_Globe.jpg) |![IMG](..//Imaging//HD/Fireworks_Galaxy_Close.jpg) |![IMG](..//Imaging//HD/Fireworks_Galaxy_Closer.jpg) |
 
+## Details
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Fireworks_Galaxy+BITE00+58+43.jpg" width="200"> | 43 ly |
+| |58 ly | |
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Fireworks_Galaxy+00+co.jpg) 
-
-![IMG](..//Imaging//HD/Fireworks_Galaxy+01+co.jpg) 
-
-![IMG](..//Imaging//HD/Fireworks_Galaxy+02+co.jpg) 
 
 ![](..//Imaging//HD/Fireworks_Galaxy+00+bg.jpg)

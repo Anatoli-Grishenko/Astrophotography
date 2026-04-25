@@ -14,6 +14,9 @@ The Milky Way or Milky Way Galaxy[c] is the galaxy that includes the Solar Syste
 | ----- | ----- | ----- |
 
 
+## Details
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Milky_Way+00+co.jpg) 
 
@@ -23,4 +26,3 @@ The Milky Way or Milky Way Galaxy[c] is the galaxy that includes the Solar Syste
 
 ![IMG](..//Imaging//HD/Milky_Way+03+co.jpg) 
 
-![](..//Imaging//HD/Milky_Way+00+bg.jpg)

@@ -14,6 +14,9 @@ Spica is the brightest object in the constellation of Virgo and one of the 20 br
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Spica_Star_Globe.jpg) |![IMG](..//Imaging//HD/Spica_Star_Close.jpg) |![IMG](..//Imaging//HD/Spica_Star_Closer.jpg) |
 
+## Details
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Spica_Star+00+co.jpg) 
 

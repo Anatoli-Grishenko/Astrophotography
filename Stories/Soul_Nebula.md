@@ -14,12 +14,35 @@ Westerhout 5 (Sharpless 2-199, LBN 667, Soul Nebula) is an emission nebula locat
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Soul_Nebula_Globe.jpg) |![IMG](..//Imaging//HD/Soul_Nebula_Close.jpg) |![IMG](..//Imaging//HD/Soul_Nebula_Closer.jpg) |
 
+## Details
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Soul_Nebula+BITE00+151+149.jpg" width="200"> | 149 ly |
+| |151 ly | |
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Soul_Nebula+BITE01+110+102.jpg" width="200"> | 102 ly |
+| |110 ly | |
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Soul_Nebula+BITE02+68+79.jpg" width="200"> | 79 ly |
+| |68 ly | |
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Soul_Nebula+BITE03+107+76.jpg" width="200"> | 76 ly |
+| |107 ly | |
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Soul_Nebula+00+co.jpg) 
-
-![IMG](..//Imaging//HD/Soul_Nebula+01+co.jpg) 
-
-![IMG](..//Imaging//HD/Soul_Nebula+02+co.jpg) 
 
 ![IMG](..//Imaging//HD/Soul_Nebula+03+co.jpg) 
 

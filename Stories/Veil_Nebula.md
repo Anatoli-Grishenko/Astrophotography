@@ -14,6 +14,27 @@ The Veil Nebula is a cloud of heated and ionized gas and dust in the constellati
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Veil_Nebula_Globe.jpg) |![IMG](..//Imaging//HD/Veil_Nebula_Close.jpg) |![IMG](..//Imaging//HD/Veil_Nebula_Closer.jpg) |
 
+## Details
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Veil_Nebula+BITE00+27+25.jpg" width="200"> | 25 ly |
+| |27 ly | |
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Veil_Nebula+BITE01+24+20.jpg" width="200"> | 20 ly |
+| |24 ly | |
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Veil_Nebula+BITE02+36+31.jpg" width="200"> | 31 ly |
+| |36 ly | |
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Veil_Nebula+00+co.jpg) 
 
@@ -21,12 +42,6 @@ The Veil Nebula is a cloud of heated and ionized gas and dust in the constellati
 
 ![IMG](..//Imaging//HD/Veil_Nebula+02+co.jpg) 
 
-![IMG](..//Imaging//HD/Veil_Nebula+03+co.jpg) 
-
 ![IMG](..//Imaging//HD/Veil_Nebula+04+co.jpg) 
-
-![IMG](..//Imaging//HD/Veil_Nebula+05+co.jpg) 
-
-![IMG](..//Imaging//HD/Veil_Nebula+06+co.jpg) 
 
 ![](..//Imaging//HD/Veil_Nebula+00+bg.jpg)

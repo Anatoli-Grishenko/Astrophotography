@@ -14,25 +14,32 @@ The Eagle Nebula (catalogued as Messier 16 or M16, and as NGC 6611, and also kno
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Eagle_Nebula_Globe.jpg) |![IMG](..//Imaging//HD/Eagle_Nebula_Close.jpg) |![IMG](..//Imaging//HD/Eagle_Nebula_Closer.jpg) |
 
+## Details
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Eagle_Nebula+BITE00+63+68.jpg" width="200"> | 68 ly |
+| |63 ly | |
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Eagle_Nebula+BITE01+14+14.jpg" width="200"> | 14 ly |
+| |14 ly | |
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Eagle_Nebula+BITE02+13+10.jpg" width="200"> | 10 ly |
+| |13 ly | |
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Eagle_Nebula+00+co.jpg) 
 
 ![IMG](..//Imaging//HD/Eagle_Nebula+01+co.jpg) 
 
-![IMG](..//Imaging//HD/Eagle_Nebula+02+co.jpg) 
-
-![IMG](..//Imaging//HD/Eagle_Nebula+03+co.jpg) 
-
-![IMG](..//Imaging//HD/Eagle_Nebula+04+co.jpg) 
-
-![IMG](..//Imaging//HD/Eagle_Nebula+05+co.jpg) 
-
-![IMG](..//Imaging//HD/Eagle_Nebula+06+co.jpg) 
-
 ![IMG](..//Imaging//HD/Eagle_Nebula+07+co.jpg) 
-
-![IMG](..//Imaging//HD/Eagle_Nebula+08+co.jpg) 
-
-![IMG](..//Imaging//HD/Eagle_Nebula+09+co.jpg) 
 
 ![](..//Imaging//HD/Eagle_Nebula+00+bg.jpg)

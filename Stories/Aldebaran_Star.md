@@ -14,14 +14,9 @@ Aldebaran (Arabic: الدَّبَران, lit. 'The Follower') (Proto-Semitic *
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Aldebaran_Star_Globe.jpg) |![IMG](..//Imaging//HD/Aldebaran_Star_Close.jpg) |![IMG](..//Imaging//HD/Aldebaran_Star_Closer.jpg) |
 
+## Details
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Aldebaran_Star+00+co.jpg) 
-
-![IMG](..//Imaging//HD/Aldebaran_Star+01+co.jpg) 
-
-![IMG](..//Imaging//HD/Aldebaran_Star+02+co.jpg) 
-
-![IMG](..//Imaging//HD/Aldebaran_Star+03+co.jpg) 
-
-![IMG](..//Imaging//HD/Aldebaran_Star+04+co.jpg) 
 

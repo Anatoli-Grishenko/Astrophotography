@@ -14,6 +14,15 @@ The Elephant's Trunk Nebula (IC 1396A) is a concentration of interstellar gas an
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Trunk_Nebula_Globe.jpg) |![IMG](..//Imaging//HD/Trunk_Nebula_Close.jpg) |![IMG](..//Imaging//HD/Trunk_Nebula_Closer.jpg) |
 
+## Details
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Trunk_Nebula+BITE00+55+48.jpg" width="200"> | 48 ly |
+| |55 ly | |
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Trunk_Nebula+00+co.jpg) 
 

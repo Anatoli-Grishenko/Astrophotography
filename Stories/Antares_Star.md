@@ -14,6 +14,9 @@ Antares is the brightest star in the constellation of Scorpius. It has the Bayer
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Antares_Star_Globe.jpg) |![IMG](..//Imaging//HD/Antares_Star_Close.jpg) |![IMG](..//Imaging//HD/Antares_Star_Closer.jpg) |
 
+## Details
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Antares_Star+00+co.jpg) 
 

@@ -14,8 +14,9 @@ Fomalhaut (UK: /ˈfɒməloʊt/, US: /ˈfoʊməlhɔːt/[11]) is the brightest sta
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Fomalhaut_Star_Globe.jpg) |![IMG](..//Imaging//HD/Fomalhaut_Star_Close.jpg) |![IMG](..//Imaging//HD/Fomalhaut_Star_Closer.jpg) |
 
+## Details
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Fomalhaut_Star+00+co.jpg) 
-
-![IMG](..//Imaging//HD/Fomalhaut_Star+01+co.jpg) 
 

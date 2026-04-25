@@ -14,6 +14,9 @@ Regulus is the brightest object in the constellation Leo and one of the brightes
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Regulus_Star_Globe.jpg) |![IMG](..//Imaging//HD/Regulus_Star_Close.jpg) |![IMG](..//Imaging//HD/Regulus_Star_Closer.jpg) |
 
+## Details
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Regulus_Star+00+co.jpg) 
 

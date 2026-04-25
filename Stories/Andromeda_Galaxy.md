@@ -14,23 +14,16 @@ The Andromeda Galaxy is a barred spiral galaxy and is the nearest major galaxy t
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Andromeda_Galaxy_Globe.jpg) |![IMG](..//Imaging//HD/Andromeda_Galaxy_Close.jpg) |![IMG](..//Imaging//HD/Andromeda_Galaxy_Closer.jpg) |
 
+## Details
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Andromeda_Galaxy+BITE00+58000+54000.jpg" width="200"> | 54000 ly |
+| |58000 ly | |
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Andromeda_Galaxy+00+co.jpg) 
-
-![IMG](..//Imaging//HD/Andromeda_Galaxy+01+co.jpg) 
-
-![IMG](..//Imaging//HD/Andromeda_Galaxy+02+co.jpg) 
-
-![IMG](..//Imaging//HD/Andromeda_Galaxy+03+co.jpg) 
-
-![IMG](..//Imaging//HD/Andromeda_Galaxy+04+co.jpg) 
-
-![IMG](..//Imaging//HD/Andromeda_Galaxy+05+co.jpg) 
-
-![IMG](..//Imaging//HD/Andromeda_Galaxy+06+co.jpg) 
-
-![IMG](..//Imaging//HD/Andromeda_Galaxy+07+co.jpg) 
-
-![IMG](..//Imaging//HD/Andromeda_Galaxy+08+co.jpg) 
 
 ![](..//Imaging//HD/Andromeda_Galaxy+00+bg.jpg)

@@ -14,17 +14,18 @@ Messier 81 (also known as NGC 3031 or Bode's Galaxy) is a grand design spiral ga
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Bode_Galaxy_Globe.jpg) |![IMG](..//Imaging//HD/Bode_Galaxy_Close.jpg) |![IMG](..//Imaging//HD/Bode_Galaxy_Closer.jpg) |
 
+## Details
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Bode_Galaxy+BITE00+32000+26000.jpg" width="200"> | 26000 ly |
+| |32000 ly | |
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Bode_Galaxy+00+co.jpg) 
 
 ![IMG](..//Imaging//HD/Bode_Galaxy+01+co.jpg) 
-
-![IMG](..//Imaging//HD/Bode_Galaxy+02+co.jpg) 
-
-![IMG](..//Imaging//HD/Bode_Galaxy+03+co.jpg) 
-
-![IMG](..//Imaging//HD/Bode_Galaxy+04+co.jpg) 
-
-![IMG](..//Imaging//HD/Bode_Galaxy+05+co.jpg) 
 
 ![](..//Imaging//HD/Bode_Galaxy+00+bg.jpg)

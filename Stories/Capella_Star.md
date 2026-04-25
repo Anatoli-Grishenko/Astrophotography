@@ -14,6 +14,9 @@ Capella is the brightest star in the northern constellation of Auriga. It has th
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Capella_Star_Globe.jpg) |![IMG](..//Imaging//HD/Capella_Star_Close.jpg) |![IMG](..//Imaging//HD/Capella_Star_Closer.jpg) |
 
+## Details
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Capella_Star+00+co.jpg) 
 

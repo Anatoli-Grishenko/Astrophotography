@@ -14,6 +14,9 @@ Rigel is a blue supergiant star in the constellation of Orion. It has the Bayer 
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/Rigel_Star_Globe.jpg) |![IMG](..//Imaging//HD/Rigel_Star_Close.jpg) 
 
+## Details
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/Rigel_Star+00+co.jpg) 
 
