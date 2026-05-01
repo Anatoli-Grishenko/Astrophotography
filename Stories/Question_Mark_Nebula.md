@@ -14,12 +14,12 @@ NGC 7822 is a young star forming complex in the constellation of Cepheus. The co
 
 | Globe | Close | Very close |
 | ----- | ----- | ----- |
+|![IMG](..//Imaging//HD/Question_Mark_Nebula_Globe.jpg) |![IMG](..//Imaging//HD/Question_Mark_Nebula_Close.jpg) |![IMG](..//Imaging//HD/Question_Mark_Nebula_Closer.jpg) |
+
+## Details
 
 
 ## Gallery
 ![IMG](..//Imaging//HD/Question_Mark_Nebula+00+co.jpg) 
 
-![IMG](..//Imaging//HD/Question_Mark_Nebula+01+co.jpg) 
-
-![IMG](..//Imaging//HD/Question_Mark_Nebula+02+co.jpg) 
-
+![](..//Imaging//HD/Question_Mark_Nebula+00+bg.jpg)
