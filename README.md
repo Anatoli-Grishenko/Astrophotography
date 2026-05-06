@@ -29,6 +29,8 @@ This is a repository of the astrophotoraphy activity of the author. It aims at s
    - Ultra-inexpensive polarscope
    - Easy Swiss Arca shoe with multiple attachments
    - Hacking autoguiding in Linux/EKOS/INDI (with bash scripting and v4l2)
+   - Have a spare smartphone? Build your own "manual" GOTO System
+   - Absurdly cheap filter for stars
    - Postprocessing Workflow Eco-Hacking
       - Photon guide for dummies
       - Noisy backgrounds? Not anymore
