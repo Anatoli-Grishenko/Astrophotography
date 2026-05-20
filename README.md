@@ -31,6 +31,7 @@ This is a repository of the astrophotoraphy activity of the author. It aims at s
    - Hacking autoguiding in Linux/EKOS/INDI (with bash scripting and v4l2)
    - Have a spare smartphone? Build your own "manual" GOTO System
    - Absurdly cheap filter for stars
+   - 12 MP planetary and lunar camera (IMX586 based) for 30 bucks.cB4vBxM7
    - Postprocessing Workflow Eco-Hacking
       - Photon guide for dummies
       - Noisy backgrounds? Not anymore
