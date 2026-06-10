@@ -1,6 +1,13 @@
 # ![](..//Imaging//Common/pyl-tiny.png) Aldebaran Star
 ![](..//Imaging//HD/Aldebaran_Star+00+co.jpg)
 
+- ![](./Pics/MainCamera.png) MAIN CAMERA: Canon EOS 2000D, uncooled, ISO=800, Exposición=29.0 s, 4 subs
+- ![](./Pics/Mount.png) Mount/Tracker: SkyWatcher StarAdventurer
+- ![](./Pics/Telescope.png)  Main tube: SVBony SV503 80mm F7 (no field flattener)
+- ![](./Pics/Autoguiding.png)  AUTOGUIDING: NONE
+
+
+
 Aldebaran (Arabic: الدَّبَران, lit. 'The Follower') (Proto-Semitic *dVbr- “bee”) is a star located in the zodiac constellation of Taurus. It has the Bayer designation α Tauri, which is Latinized to Alpha Tauri and abbreviated Alpha Tau or α Tau. Aldebaran varies in brightness from an apparent visual magnitude 0.75 down to 0.95, making it the brightest star in the constellation, as well as (typically) the fourteenth-brightest star in the night sky. It is positioned at a distance of approximately 65 light-years from the Sun. The star lies along the line of sight to the nearby Hyades cluster. Aldebaran is a red giant, meaning that it is cooler than the Sun with a surface temperature of 3,900 K, but its radius is about 45 times the Sun's, so it is over 400 times as luminous. As a giant star, it has moved off the main sequence on the Hertzsprung–Russell diagram after depleting its supply of hydrogen in the core. The star spins slowly and takes 520 days to complete a rotation. Aldebaran is believed to host a planet several times the mass of Jupiter, named Aldebaran b.
 
 [![](..//Imaging//Common/Wikipedia.png) Read more](https://en.wikipedia.org/wiki/Aldebaran)

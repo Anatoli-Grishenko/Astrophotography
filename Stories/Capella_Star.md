@@ -1,6 +1,14 @@
 # ![](..//Imaging//Common/pyl-tiny.png) Capella Star
 ![](..//Imaging//HD/Capella_Star+00+co.jpg)
 
+- ![](./Pics/MainCamera.png) MAIN CAMERA: Canon EOS 2000D, uncooled, ISO=800, Exp. 29s, 7 subs
+- ![](./Pics/Mount.png) Mount/Tracker: EQ3+OnStep
+- ![](./Pics/Telescope.png)  Main tube: SVBony SV503 80mm F7 (no field flattener)
+- ![](./Pics/Autoguiding.png)  AUTOGUIDING: none
+
+
+
+
 Capella is the brightest star in the northern constellation of Auriga. It has the Bayer designation α Aurigae, which is Latinised to Alpha Aurigae and abbreviated Alpha Aur or α Aur. Capella is the sixth-brightest star in the night sky, and the third-brightest in the northern celestial hemisphere after Arcturus and Vega. A prominent object in the northern sky, it is circumpolar to observers north of 44°N. Its name meaning "little goat" in Latin, Capella depicted the goat Amalthea that suckled Zeus in classical mythology. Capella is relatively close, at 42.9 light-years (13.2 parsecs). It is one of the brightest X-ray sources in the sky, thought to come primarily from the corona of Capella Aa.
 
 [![](..//Imaging//Common/Wikipedia.png) Read more](https://en.wikipedia.org/wiki/Capella)
