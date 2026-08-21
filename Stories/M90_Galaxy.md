@@ -14,9 +14,9 @@ Messier 90 (also known as M90 and NGC 4569) is an intermediate spiral galaxy exh
 | ----- | ----- | ----- |
 |![IMG](..//Imaging//HD/M90_Galaxy_Globe.jpg) |![IMG](..//Imaging//HD/M90_Galaxy_Close.jpg) |![IMG](..//Imaging//HD/M90_Galaxy_Closer.jpg) |
 
+## Details
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/M90_Galaxy+00+co.jpg) 
 
-![IMG](..//Imaging//HD/M90_Galaxy+01+co.jpg) 
-
-![](..//Imaging//HD/M90_Galaxy+00+bg.jpg)

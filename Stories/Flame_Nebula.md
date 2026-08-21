@@ -28,4 +28,7 @@ The Flame Nebula, designated as NGC 2024 and Sh2-277, is an emission nebula in t
 
 ![IMG](..//Imaging//HD/Flame_Nebula+01+co.jpg) 
 
+![IMG](..//Imaging//HD/Flame_Nebula+02+co.jpg) 
+
 ![](..//Imaging//HD/Flame_Nebula+00+bg.jpg)
+![](..//Imaging//HD/Flame_Nebula+00+bn.jpg)

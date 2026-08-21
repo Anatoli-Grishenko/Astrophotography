@@ -28,6 +28,4 @@ The Iris Nebula (also known as NGC 7023 and Caldwell 4) is a bright reflection n
 ## Gallery
 ![IMG](..//Imaging//HD/Iris_Nebula+00+co.jpg) 
 
-![IMG](..//Imaging//HD/Iris_Nebula+01+co.jpg) 
-
 ![](..//Imaging//HD/Iris_Nebula+00+bg.jpg)

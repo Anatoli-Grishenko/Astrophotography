@@ -26,3 +26,4 @@ The Pleiades (/ˈpliː.ədiːz, ˈpleɪ-, ˈplaɪ-/),[8][9] also known as Seven 
 ## Gallery
 ![IMG](..//Imaging//HD/Pleiades_Cluster+00+co.jpg) 
 
+![](..//Imaging//HD/Pleiades_Cluster+00+bn.jpg)

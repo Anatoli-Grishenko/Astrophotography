@@ -1,7 +1,7 @@
 # ![](..//Imaging//Common/pyl-tiny.png) Albireo Double Star
 ![](..//Imaging//HD/Albireo_Double_Star+00+co.jpg)
 
-- ![](./Pics/MainCamera.png) MAIN CAMERA: Canon EOS 450D astr7omod, uncooled, ISO=1600, Exp=30.0 s, 7 subs
+- ![](./Pics/MainCamera.png) MAIN CAMERA: Canon EOS 450D astromod, uncooled, ISO=1600, Exp=30.0 s, 7 subs
 - ![](./Pics/Mount.png) Mount/Tracker: SkyWatcher StarAdventurer
 - ![](./Pics/Telescope.png)  Main tube: SVBony SV503 80mm F7 (no field flattener)
 - ![](./Pics/Autoguiding.png)  AUTOGUIDING: NONE

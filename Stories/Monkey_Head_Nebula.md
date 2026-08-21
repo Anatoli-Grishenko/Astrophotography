@@ -27,3 +27,4 @@ NGC 2174 (also known as Monkey Head Nebula) is an H II[1] emission nebula locate
 ![IMG](..//Imaging//HD/Monkey_Head_Nebula+00+co.jpg) 
 
 ![](..//Imaging//HD/Monkey_Head_Nebula+00+bg.jpg)
+![](..//Imaging//HD/Monkey_Head_Nebula+00+bn.jpg)

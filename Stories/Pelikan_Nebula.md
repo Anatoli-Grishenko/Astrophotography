@@ -21,3 +21,4 @@ The Pelican Nebula (also known as IC 5070[1]) is an H II region associated with 
 ![IMG](..//Imaging//HD/Pelikan_Nebula+00+co.jpg) 
 
 ![](..//Imaging//HD/Pelikan_Nebula+00+bg.jpg)
+![](..//Imaging//HD/Pelikan_Nebula+00+bn.jpg)

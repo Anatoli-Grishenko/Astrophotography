@@ -50,8 +50,5 @@ NGC 281, IC 11 or Sh2-184 is a bright emission nebula and part of an H II region
 ## Gallery
 ![IMG](..//Imaging//HD/Pacman_Nebula+00+co.jpg) 
 
-![IMG](..//Imaging//HD/Pacman_Nebula+01+co.jpg) 
-
-![IMG](..//Imaging//HD/Pacman_Nebula+02+co.jpg) 
-
 ![](..//Imaging//HD/Pacman_Nebula+00+bg.jpg)
+![](..//Imaging//HD/Pacman_Nebula+00+bn.jpg)

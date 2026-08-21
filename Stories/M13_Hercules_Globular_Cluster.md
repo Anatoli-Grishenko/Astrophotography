@@ -19,6 +19,12 @@ Messier 13, or M13 (also designated NGC 6205 and sometimes called the Great Glob
 ## Details
 
 
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/M13_Hercules_Globular_Cluster+BITE00+174+174.jpg" width="200"> | 174 ly |
+| |174 ly | |
+
+
 ## Gallery
 ![IMG](..//Imaging//HD/M13_Hercules_Globular_Cluster+00+co.jpg) 
 

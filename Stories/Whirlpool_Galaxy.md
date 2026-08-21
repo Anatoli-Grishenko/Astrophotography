@@ -26,6 +26,5 @@ The Whirlpool Galaxy, also known as Messier 51a (M51a) or NGC 5194, is an intera
 ## Gallery
 ![IMG](..//Imaging//HD/Whirlpool_Galaxy+00+co.jpg) 
 
-![IMG](..//Imaging//HD/Whirlpool_Galaxy+01+co.jpg) 
-
 ![](..//Imaging//HD/Whirlpool_Galaxy+00+bg.jpg)
+![](..//Imaging//HD/Whirlpool_Galaxy+00+bn.jpg)

@@ -1,6 +1,14 @@
 # ![](..//Imaging//Common/pyl-tiny.png) Crescent Nebula
 ![](..//Imaging//HD/Crescent_Nebula+00+co.jpg)
 
+- ![](./Pics/MainCamera.png) MAIN CAMERA: Canon EOS 600D astromod, cooled, ISO=1600, Exp. 180s, 20 subs
+- ![](./Pics/Mount.png) Mount/Tracker: EQ3+OnStep
+- ![](./Pics/Telescope.png)  Main tube: SVBony SV503 80mm F7 (no field flattener)
+- ![](./Pics/Autoguiding.png)  AUTOGUIDING: SV165+IMX335
+
+
+
+
 The Crescent Nebula (also known as NGC 6888, Caldwell 27, Sharpless 105) is an emission nebula in the constellation Cygnus, about 5000 light-years away from Earth. It was discovered by William Herschel in 1792.[2] It is formed by the fast stellar wind from the Wolf-Rayet star WR 136 (HD 192163) colliding with and energizing the slower moving wind ejected by the star when it became a red giant around 250,000[3] to 400,000[citation needed] years ago. The result of the collision is a shell and two shock waves, one moving outward and one moving inward. The inward moving shock wave heats the stellar wind to X-ray-emitting temperatures.
 
 [![](..//Imaging//Common/Wikipedia.png) Read more](https://en.wikipedia.org/wiki/Crescent_Nebula)
@@ -26,6 +34,9 @@ The Crescent Nebula (also known as NGC 6888, Caldwell 27, Sharpless 105) is an e
 ## Gallery
 ![IMG](..//Imaging//HD/Crescent_Nebula+00+co.jpg) 
 
-![IMG](..//Imaging//HD/Crescent_Nebula+03+co.jpg) 
+![IMG](..//Imaging//HD/Crescent_Nebula+01+co.jpg) 
+
+![IMG](..//Imaging//HD/Crescent_Nebula+02+co.jpg) 
 
 ![](..//Imaging//HD/Crescent_Nebula+00+bg.jpg)
+![](..//Imaging//HD/Crescent_Nebula+00+bn.jpg)

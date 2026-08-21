@@ -34,5 +34,3 @@ Eta Aurigae (η Aurigae, abbreviated Eta Aur, η Aur), officially named Haedus /
 ## Gallery
 ![IMG](..//Imaging//HD/Eta_Auriga_Star+00+co.jpg) 
 
-![IMG](..//Imaging//HD/Eta_Auriga_Star+01+co.jpg) 
-
