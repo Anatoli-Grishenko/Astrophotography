@@ -17,12 +17,6 @@ The Omega Nebula is an H II region in the constellation Sagittarius. It was disc
 ## Details
 
 
-| | | |
-| :---: | :---: | :---:|
-| |<img src="..//Imaging//HD/Swan_Nebula+BITE00+90+85.jpg" width="200"> | 85 ly |
-| |90 ly | |
-
-
 ## Gallery
 ![IMG](..//Imaging//HD/Swan_Nebula+00+co.jpg) 
 

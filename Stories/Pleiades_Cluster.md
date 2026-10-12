@@ -17,12 +17,6 @@ The Pleiades, also known as Seven Sisters and Messier 45, is an asterism of an o
 ## Details
 
 
-| | | |
-| :---: | :---: | :---:|
-| |<img src="..//Imaging//HD/Pleiades_Cluster+BITE00+09+07.jpg" width="200"> | 07 ly |
-| |09 ly | |
-
-
 ## Gallery
 ![IMG](..//Imaging//HD/Pleiades_Cluster+00+co.jpg) 
 

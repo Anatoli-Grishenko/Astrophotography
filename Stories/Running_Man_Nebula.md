@@ -17,18 +17,6 @@ Sh 2-279 (alternatively designated S279 or Sharpless 279) is an HII region and b
 ## Details
 
 
-| | | |
-| :---: | :---: | :---:|
-| |<img src="..//Imaging//HD/Running_Man_Nebula+BITE00+14+12.jpg" width="200"> | 12 ly |
-| |14 ly | |
-
-
-| | | |
-| :---: | :---: | :---:|
-| |<img src="..//Imaging//HD/Running_Man_Nebula+BITE01+19+05.jpg" width="200"> | 05 ly |
-| |19 ly | |
-
-
 ## Gallery
 ![IMG](..//Imaging//HD/Running_Man_Nebula+00+co.jpg) 
 

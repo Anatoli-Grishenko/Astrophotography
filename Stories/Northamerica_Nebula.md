@@ -17,12 +17,6 @@ The North America Nebula (NGC 7000 or Caldwell 20) is an emission nebula in the 
 ## Details
 
 
-| | | |
-| :---: | :---: | :---:|
-| |<img src="..//Imaging//HD/Northamerica_Nebula+BITE00+45+42.jpg" width="200"> | 42 ly |
-| |45 ly | |
-
-
 ## Gallery
 ![IMG](..//Imaging//HD/Northamerica_Nebula+00+co.jpg) 
 

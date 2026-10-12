@@ -25,18 +25,6 @@ The California Nebula (Also known NGC 1499 or Sh2-220) is an emission nebula loc
 ## Details
 
 
-| | | |
-| :---: | :---: | :---:|
-| |<img src="..//Imaging//HD/California_Nebula+BITE00+02+03.jpg" width="200"> | 03 ly |
-| |02 ly | |
-
-
-| | | |
-| :---: | :---: | :---:|
-| |<img src="..//Imaging//HD/California_Nebula+BITE01+21+39.jpg" width="200"> | 39 ly |
-| |21 ly | |
-
-
 ## Gallery
 ![IMG](..//Imaging//HD/California_Nebula+00+co.jpg) 
 

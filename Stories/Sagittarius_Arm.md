@@ -17,18 +17,6 @@ The Carinaâ€“Sagittarius Arm (also known as the Sagittarius Arm or Sagittariusâ€
 ## Details
 
 
-| | | |
-| :---: | :---: | :---:|
-| |<img src="..//Imaging//HD/Sagittarius_Arm+BITE00+000+000.jpg" width="200"> | 000 ly |
-| |000 ly | |
-
-
-| | | |
-| :---: | :---: | :---:|
-| |<img src="..//Imaging//HD/Sagittarius_Arm+BITE01+000+000.jpg" width="200"> | 000 ly |
-| |000 ly | |
-
-
 ## Gallery
 ![IMG](..//Imaging//HD/Sagittarius_Arm+00+co.jpg) 
 

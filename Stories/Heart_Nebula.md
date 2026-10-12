@@ -17,12 +17,6 @@ The Heart Nebula (also known as the Running Dog Nebula, Sharpless 2-190) is an e
 ## Details
 
 
-| | | |
-| :---: | :---: | :---:|
-| |<img src="..//Imaging//HD/Heart_Nebula+BITE00+109+109.jpg" width="200"> | 109 ly |
-| |109 ly | |
-
-
 ## Gallery
 ![IMG](..//Imaging//HD/Heart_Nebula+00+co.jpg) 
 

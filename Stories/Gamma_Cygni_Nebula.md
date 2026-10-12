@@ -6,9 +6,13 @@ IC 1318 (also known as Gamma Cygni Nebula) is the diffuse emission nebula and a 
 [![](..//Imaging//Common/Wikipedia.png) Read more](https://en.wikipedia.org/wiki/IC_1318)
 ## Plate solving 
 
+
+![IMG](..//Imaging//HD/Gamma_Cygni_Nebula_Annotated.jpg)
+
+
 | Globe | Close | Very close |
 | ----- | ----- | ----- |
-
+|![IMG](..//Imaging//HD/Gamma_Cygni_Nebula_Globe.jpg) |![IMG](..//Imaging//HD/Gamma_Cygni_Nebula_Close.jpg) 
 
 ## Details
 
@@ -16,3 +20,5 @@ IC 1318 (also known as Gamma Cygni Nebula) is the diffuse emission nebula and a 
 ## Gallery
 ![IMG](..//Imaging//HD/Gamma_Cygni_Nebula+00+co.jpg) 
 
+![](..//Imaging//HD/Gamma_Cygni_Nebula+00+bg.jpg)
+![](..//Imaging//HD/Gamma_Cygni_Nebula+00+bn.jpg)

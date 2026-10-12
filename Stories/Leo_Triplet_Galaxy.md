@@ -17,24 +17,6 @@ The Leo Triplet (also known as the M66 Group) is a small group of galaxies about
 ## Details
 
 
-| | | |
-| :---: | :---: | :---:|
-| |<img src="..//Imaging//HD/Leo_Triplet_Galaxy+BITE00+192+192.jpg" width="200"> | 192 ly |
-| |192 ly | |
-
-
-| | | |
-| :---: | :---: | :---:|
-| |<img src="..//Imaging//HD/Leo_Triplet_Galaxy+BITE01+217+217.jpg" width="200"> | 217 ly |
-| |217 ly | |
-
-
-| | | |
-| :---: | :---: | :---:|
-| |<img src="..//Imaging//HD/Leo_Triplet_Galaxy+BITE02+217+217.jpg" width="200"> | 217 ly |
-| |217 ly | |
-
-
 ## Gallery
 ![IMG](..//Imaging//HD/Leo_Triplet_Galaxy+00+co.jpg) 
 

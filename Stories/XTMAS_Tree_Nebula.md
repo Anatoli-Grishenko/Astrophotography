@@ -17,18 +17,6 @@ The Cone Nebula is an H II region in the constellation of Monoceros. It was disc
 ## Details
 
 
-| | | |
-| :---: | :---: | :---:|
-| |<img src="..//Imaging//HD/XTMAS_Tree_Nebula+BITE00+27+27.jpg" width="200"> | 27 ly |
-| |27 ly | |
-
-
-| | | |
-| :---: | :---: | :---:|
-| |<img src="..//Imaging//HD/XTMAS_Tree_Nebula+BITE01+10+11.jpg" width="200"> | 11 ly |
-| |10 ly | |
-
-
 ## Gallery
 ![IMG](..//Imaging//HD/XTMAS_Tree_Nebula+00+co.jpg) 
 
