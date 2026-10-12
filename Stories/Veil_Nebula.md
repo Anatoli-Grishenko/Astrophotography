@@ -1,0 +1,48 @@
+# ![](..//Imaging//Common/pyl-tiny.png) Veil Nebula
+![](..//Imaging//HD/Veil_Nebula+00+co.jpg)
+
+The Veil Nebula is a cloud of heated and ionized gas and dust in the constellation Cygnus. It constitutes the visible portions of the Cygnus Loop, a supernova remnant, many portions of which have acquired their own individual names and catalogue identifiers. The source supernova was a star 20 times more massive than the Sun which exploded between 10,000 and 20,000 years ago. At the time of the explosion, the supernova would have appeared brighter than Venus in the sky, and visible in the daytime. The remnants have since expanded to cover an area of the sky roughly 3 degrees in diameter (about 6 times the diameter, and 36 times the area, of the full Moon). While previous distance estimates have ranged from 1200 to 5800 light-years, a recent determination of 2400 light-years is based on direct astrometric measurements. (The distance estimates affect also the estimates of size and age.) The Hubble Space Telescope captured several images of the nebula. The analysis of the emissions from the nebula indicates the presence of oxygen, sulfur, and hydrogen. The Cygnus Loop is also a strong emitter of radio waves and x-rays.
+
+[![](..//Imaging//Common/Wikipedia.png) Read more](https://en.wikipedia.org/wiki/Veil_Nebula)
+## Plate solving 
+
+
+![IMG](..//Imaging//HD/Veil_Nebula_Annotated.jpg)
+
+
+| Globe | Close | Very close |
+| ----- | ----- | ----- |
+|![IMG](..//Imaging//HD/Veil_Nebula_Globe.jpg) |![IMG](..//Imaging//HD/Veil_Nebula_Close.jpg) |![IMG](..//Imaging//HD/Veil_Nebula_Closer.jpg) |
+
+## Details
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Veil_Nebula+BITE00+27+25.jpg" width="200"> | 25 ly |
+| |27 ly | |
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Veil_Nebula+BITE00+83+46.jpg" width="200"> | 46 ly |
+| |83 ly | |
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Veil_Nebula+BITE01+24+20.jpg" width="200"> | 20 ly |
+| |24 ly | |
+
+
+| | | |
+| :---: | :---: | :---:|
+| |<img src="..//Imaging//HD/Veil_Nebula+BITE02+36+31.jpg" width="200"> | 31 ly |
+| |36 ly | |
+
+
+## Gallery
+![IMG](..//Imaging//HD/Veil_Nebula+00+co.jpg) 
+
+![](..//Imaging//HD/Veil_Nebula+00+bg.jpg)
+![](..//Imaging//HD/Veil_Nebula+00+bn.jpg)
