@@ -1,7 +1,7 @@
 # ![](..//Imaging//Common/pyl-tiny.png) Heart Soul Nebula
 ![](..//Imaging//HD/Heart_Soul_Nebula+00+co.jpg)
 
-This is a composition of two other nebulae [Heart Nebula](./Heart_Nebula.md) and [Soul Nebula](./Soul_Nebula.md) 
+This is a composition of three other nebulae [Fish Head Nebula](./Fish_Head_Nebula.md) (thank you LOVE) [Heart Nebula](./Heart_Nebula.md) and [Soul Nebula](./Soul_Nebula.md) 
 
 
 ## Plate solving 
