@@ -33,3 +33,4 @@ The Eagle Nebula (catalogued as Messier 16 or M16, and as NGC 6611, and also kno
 ![IMG](..//Imaging//HD/Eagle_Nebula+02+co.jpg) 
 
 ![](..//Imaging//HD/Eagle_Nebula+00+bg.jpg)
+![](..//Imaging//HD/Eagle_Nebula+00+bn.jpg)
